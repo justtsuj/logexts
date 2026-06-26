@@ -1,0 +1,22 @@
+﻿LIBRARY
+    EXPORTS
+
+    ;--------------------------------------------------------------------
+    ; These are the extensions exported by dll
+    ;--------------------------------------------------------------------
+        logi
+        logir
+        logd
+
+    ;--------------------------------------------------------------------
+    ;
+    ; these are the extension service functions provided for the debugger
+    ;
+    ;--------------------------------------------------------------------
+
+
+        CheckVersion
+        WinDbgExtensionDllInit
+        ExtensionApiVersion
+    ; 自己用
+        InjectionCleanup

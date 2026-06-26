@@ -1,0 +1,925 @@
+{
+    "categories": [
+        { "name": "WinINet"}
+    ],
+    "types": [
+        {
+            "IIDIndex": -1,
+            "flags": [],
+            "methodsIndex": [],
+            "name": "HINTERNET",
+            "parentIndex": "LPVOID",
+            "structIndex": -1,
+            "typeIndex": 17,
+            "values": []
+        },
+        {
+            "IIDIndex": -1,
+            "flags": [],
+            "methodsIndex": [],
+            "name": "INTERNET_PORT",
+            "parentIndex":"WORD",
+            "structIndex": -1,
+            "typeIndex": 17,
+            "values": []
+        }
+    ],
+    "functions": [
+        { 
+            "name": "HttpAddRequestHeadersA",
+            "moduleName": "wininet.dll",
+            "parameterDeclarations": [
+                {
+                    "isOutParam": 0,
+                    "name": "hRequest",
+                    "number": 1,
+                    "pointRank": 0,
+                    "typeIndex": "HINTERNET"
+                },
+                {
+                    "isOutParam": 0,
+                    "name": "lpszHeaders",
+                    "number": 1,
+                    "pointRank": 0,
+                    "typeIndex": "LPCSTR"
+                },
+                {
+                    "isOutParam": 0,
+                    "name": "dwHeadersLength",
+                    "number": 1,
+                    "pointRank": 0,
+                    "typeIndex": "DWORD"
+                },
+                {
+                    "isOutParam": 0,
+                    "name": "dwModifiers",
+                    "number": 1,
+                    "pointRank": 0,
+                    "typeIndex": "DWORD"
+                }
+            ],
+            "returnDeclaration": {
+                "isOutParam": 1,
+                "name": "Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"BOOL"
+            },
+            "typeIndex": -1
+        },
+        { 
+            "name": "HttpAddRequestHeadersW",
+            "moduleName": "wininet.dll",
+            "parameterDeclarations": [
+                {
+                    "isOutParam": 0,
+                    "name": "hRequest",
+                    "number": 1,
+                    "pointRank": 0,
+                    "typeIndex": "HINTERNET"
+                },
+                {
+                    "isOutParam": 0,
+                    "name": "lpszHeaders",
+                    "number": 1,
+                    "pointRank": 0,
+                    "typeIndex": "LPCWSTR"
+                },
+                {
+                    "isOutParam": 0,
+                    "name": "dwHeadersLength",
+                    "number": 1,
+                    "pointRank": 0,
+                    "typeIndex": "DWORD"
+                },
+                {
+                    "isOutParam": 0,
+                    "name": "dwModifiers",
+                    "number": 1,
+                    "pointRank": 0,
+                    "typeIndex": "DWORD"
+                }
+            ],
+            "returnDeclaration": {
+                "isOutParam": 1,
+                "name": "Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"BOOL"
+            },
+            "typeIndex": -1
+        },
+        {
+            "name": "HttpOpenRequestA",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hConnect",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszVerb",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszObjectName",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszVersion",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszReferrer",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lplpszAcceptTypes",
+                    "number":1,
+                    "pointRank":1,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwFlags",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwContext",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD_PTR"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam": 1,
+                "name": "Ret",
+                "number": 1,
+                "pointRank": 0,
+                "typeIndex": "HINTERNET"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name": "HttpOpenRequestW",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hConnect",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszVerb",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszObjectName",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszVersion",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszReferrer",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lplpszAcceptTypes",
+                    "number":1,
+                    "pointRank":1,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwFlags",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwContext",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD_PTR"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam": 1,
+                "name": "Ret",
+                "number": 1,
+                "pointRank": 0,
+                "typeIndex": "HINTERNET"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name": "HttpQueryInfoA",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hRequest",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwInfoLevel",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpBuffer",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPVOID"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpdwBufferLength",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPDWORD"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpdwIndex",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPDWORD"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam": 1,
+                "name": "Ret",
+                "number": 1,
+                "pointRank": 0,
+                "typeIndex": "BOOL"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name": "HttpQueryInfoW",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hRequest",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwInfoLevel",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpBuffer",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPVOID"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpdwBufferLength",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPDWORD"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpdwIndex",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPDWORD"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam": 1,
+                "name": "Ret",
+                "number": 1,
+                "pointRank": 0,
+                "typeIndex": "BOOL"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name": "HttpSendRequestA",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hRequest",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszHeaders",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwHeadersLength",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpOptional",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPVOID"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwOptionalLength",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"BOOL"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name": "HttpSendRequestW",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hRequest",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszHeaders",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwHeadersLength",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpOptional",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPVOID"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwOptionalLength",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"BOOL"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name":"InternetConnectA",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hInternet",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszServerName",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"nServerPort",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"INTERNET_PORT"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszUserName",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszPassword",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwService",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwFlags",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwContext",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD_PTR"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"HINTERNET"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name":"InternetConnectW",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hInternet",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszServerName",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"nServerPort",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"INTERNET_PORT"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszUserName",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszPassword",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwService",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwFlags",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwContext",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD_PTR"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"HINTERNET"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name":"InternetOpenA",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"lpszAgent",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwAccessType",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszProxyBypass",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszAgent",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwFlags",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"HINTERNET"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name":"InternetOpenW",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"lpszAgent",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwAccessType",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszProxyBypass",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszAgent",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwFlags",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"HINTERNET"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name":"InternetOpenUrlA",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hInternet",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszUrl",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszHeaders",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwHeadersLength",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwFlags",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwContext",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD_PTR"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"HINTERNET"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name":"InternetOpenUrlW",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hInternet",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszUrl",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpszHeaders",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCWSTR"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwHeadersLength",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwFlags",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwContext",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD_PTR"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"HINTERNET"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name":"InternetQueryDataAvailable",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hFile",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpdwNumberOfBytesAvailable",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPDWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwFlags",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwContext",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD_PTR"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"BOOL"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name":"InternetReadFile",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hFile",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpBuffer",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPVOID"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwNumberOfBytesToRead",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpdwNumberOfBytesRead",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPDWORD"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"BOOL"
+            },
+            "typeIndex":-1
+        },
+        {
+            "name":"InternetWriteFile",
+            "moduleName":"wininet.dll",
+            "parameterDeclarations":[
+                {
+                    "isOutParam":0,
+                    "name":"hFile",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"HINTERNET"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"lpBuffer",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPCVOID"
+                },
+                {
+                    "isOutParam":0,
+                    "name":"dwNumberOfBytesToWrite",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"DWORD"
+                },
+                {
+                    "isOutParam":1,
+                    "name":"lpdwNumberOfBytesWritten",
+                    "number":1,
+                    "pointRank":0,
+                    "typeIndex":"LPDWORD"
+                }
+            ],
+            "returnDeclaration":{
+                "isOutParam":1,
+                "name":"Ret",
+                "number":1,
+                "pointRank":0,
+                "typeIndex":"BOOL"
+            },
+            "typeIndex":-1
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+﻿#define LOGEXTS_API __declspec(dllexport)
+#define LOGEXTS_API __declspec(dllimport)

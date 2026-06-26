@@ -1,0 +1,10 @@
+todo:
+	可以设置输出信息的等级
+	com hook
+	logexts freelibrary logexts时还是会崩
+	控制端可以关闭输出
+	打印信息可以变颜色
+	e5f8921d4c171ce52fb09da463a30495
+		执行一下步骤，g winrar+3fc8，log，稳定崩溃
+
+又把未加入modellist的模块的调用记录关了，起初打开是为了防止被调试模块的dllmain函数内容api调用能够记录不下来，后来发现加载被模块的LoadLibrary没有调用完成之前，模块已经出现在peb ldr的列表中，并被其他的LoadLibrary函数更新到logexts的modellist中，因此不会发生“dllmain函数内容api调用能够记录不下

@@ -1,0 +1,7197 @@
+VOID
+	void
+	MENUTEMPLATEA
+		MENUTEMPLATE
+	MENUTEMPLATEW
+	PRPC_SYNTAX_IDENTIFIER
+	LPMMIOPROC
+	LPD3DVALIDATECALLBACK
+	LPD3DENUMTEXTUREFORMATSCALLBACK
+	LPD3DENUMPIXELFORMATSCALLBACK
+	LPD3DENUMDEVICESCALLBACK
+	LPD3DENUMDEVICESCALLBACK7
+	PFNGETACTIVATIONFACTORY
+	IShellItemArray
+	IMapView_HSTRING_IInspectable
+	FNCALLBACK
+	TASKCALLBACK
+	TIMECALLBACK
+BYTE
+	LPBYTE
+	PBYTE
+		PFORMAT_STRING
+	BOOLEAN
+		boolean
+	ACLineStatusValues
+	BatteryFlags
+	_PaletteEntryFlag
+	_OUTBYTE
+	_CLIPBYTE
+	_QUALITYBYTE
+	_CHARSETBYTE
+	_FFBYTE
+	_PFD
+	_PFD_LAYER
+	_AC_SRC_OVER
+	_AC_SRC_ALPHA
+	_LPD_TYPE
+	_TMPF
+	PanFamilyType
+	PanSerifType
+	PanWeightType
+	PanPropType
+	PanConstrastType
+	PanStrokeType
+	PanArmsType
+	PanLettType
+	PanMidlineType
+	PanXHeightType
+	ByteVirtualKey
+	cLPBYTE
+WORD
+	short
+		u_short
+	SHORT
+		ShortFailIfZero
+		ShortFailIfNeg1
+	USHORT
+		COLOR16
+	LPWORD
+	PUSHORT
+	ATOM
+		AtomFailIfZero
+	WordFailIfZero
+	DMBinValues
+	DMPrintQualityValues
+	DMColorEnableValues
+	DMDuplexValues
+	DMTrueTypeValues
+	DMCollateValues
+	DMOrientationValues
+	DMPaperSelectionValues
+	AtrributeFlags
+	Events
+	_PSINJECT
+	_TT_PRIM
+	_RASTERIZER_STATUS_Flag
+	_COLORADJUSTMENTValue
+	_IlluminantIndexValue
+	RectangleStyleValue
+	LanguageId
+	VARTYPE
+	FORMAT_TAG_VALUE
+	DVD_REGISTER
+	VARIANT_BOOL
+DWORD
+	UINT
+		SetErrorModeType
+		UintFailIfGlobalMemInvalid
+		UintFailIfLocalMemInvalid
+		AllocationAttributes
+		LocalAllocationAttributes
+		DriveTypes
+		OpenFileActions
+		_UpdateICMRegKey
+		MessageBeepType
+		WinHelpCommands
+		PUINT
+		AppBarEdge
+		SHAddToRecentDocsFlags
+		BrowseInfoFlags
+		SHGetFileInfoFlags
+		SHInvokePrinterCommandAction
+		PRODUCT_ID_VALUE
+		MMVERSION
+		LPUINT
+		MMRESULT
+		MCIDEVICEID
+		MCI_COMMAND_MESSAGE_VALUE
+		d3dAdapterID8
+		d3dRefreshRate8
+		d3dMode8
+	ULONG
+		QueueUserWorkItemFlags
+		_GRADIENT_FILL
+		SHCreateProcessInfoMask
+		OLE_COLOR
+	LPVOID
+		PVOID
+			PSECURITY_DESCRIPTOR
+			IMAGE_THUNK_DATA
+			PIMAGE_THUNK_DATA
+			PSID
+			LPMENUTEMPLATEA
+				LPMENUTEMPLATE
+			LPMENUTEMPLATEW
+			CLIENT_CALL_RETURN
+			RPC_BINDING_HANDLE
+			AVISAVECALLBACK
+		LPCVOID
+		LPTOP_LEVEL_EXCEPTION_FILTER
+		LPTHREAD_START_ROUTINE
+		LPFIBER_START_ROUTINE
+		LPOVERLAPPED
+		UINT_PTR
+			SOCKET
+		ULONG_PTR
+			_HatchStyle
+		DWORD_PTR
+		PULONG_PTR
+		PVOID64
+			Pvoid64FailIfNull
+		LpvoidFailIfNull
+		LPCONTEXT
+		LPDEBUG_EVENT
+		HeapAllocFailureReturns
+		SC_LOCK
+		OLDFONTENUMPROCA
+			FONTENUMPROCA
+		OLDFONTENUMPROCW
+			FONTENUMPROCW
+		GOBJENUMPROC
+		LINEDDAPROC
+		LPFNDEVMODEA
+		LPFNDEVMODEW
+		LPFNDEVCAPSA
+		LPFNDEVCAPSW
+		MFENUMPROC
+		ENHMFENUMPROC
+		ICMENUMPROCA
+		ICMENUMPROCW
+		ABORTPROC
+		PROPENUMPROCA
+			PROPENUMPROC
+		PROPENUMPROCW
+		PROPENUMPROCEXA
+			PROPENUMPROCEX
+		PROPENUMPROCEXW
+		LPSHELLFLAGSTATE
+		LPBC
+		IEnumIDList
+		LPSOFTDISTINFO
+		PNOTIFYICONDATA
+		LPDDENUMCALLBACKW
+		LPDDENUMCALLBACKA
+		LPDDENUMCALLBACKEXW
+		LPDDENUMCALLBACKEXA
+		LPDDENUMMODESCALLBACK
+		LPDDENUMMODESCALLBACK2
+		LPDDENUMSURFACESCALLBACK
+		LPDDENUMSURFACESCALLBACK2
+		LPDDENUMSURFACESCALLBACK7
+		LPDDCAPS
+		LPDPENUMSESSIONSCALLBACK2
+		LPDPENUMPLAYERSCALLBACK2
+		LPDPENUMDPCALLBACK
+		LPDPENUMDPCALLBACKA
+		LPDPENUMCONNECTIONSCALLBACK
+		LPLPVOID
+		LPDSENUMCALLBACKW
+		LPDSENUMCALLBACKA
+	LPDWORD
+		GetBinaryTypeValues
+		FileSystemFlags
+		NextSizeValue
+		PipeType
+		DispositionValue
+	PDWORD
+	PULONG
+	HINF
+	HANDLE
+		HGLOBAL
+		HLOCAL
+		LPHANDLE
+		PHANDLE
+		HeapHandle
+		SC_HANDLE
+			LPSC_HANDLE
+		SERVICE_STATUS_HANDLE
+		HdevnotifyFailNull
+		HdevinfoFailInvalid
+		HGDIOBJ
+		HFONT
+		HPALETTE
+		HBITMAP
+		HBRUSH
+		HPEN
+		HENHMETAFILE
+		HCOLORSPACE
+		HGLRC
+		HDWP
+		HICON
+		HCURSOR
+		HWINEVENTHOOK
+		HRAWINPUT
+		HDROP
+		HWAVEOUT
+			LPHWAVEOUT
+		HWAVEIN
+			LPHWAVEIN
+		HTASK
+		HMMIO
+		RO_REGISTRATION_COOKIE
+		LPHMIXER
+		LPHMIDIIN
+		LPHMIDISTRM
+		LPHMIDIOUT
+	HDEVNOTIFY
+		PHDEVNOTIFY
+	HDEVINFO
+	LPHANDLE_deprecated
+	HMETAFILE
+	WPARAM
+	LPARAM
+	HKEY
+		PHKEY
+		HkeyFailInvalid
+		HandleToOpenKey
+	SIZE_T
+	LRESULT
+	HOOKPROC
+	FARPROC
+	__int64
+		u_int64
+	WinError
+	HRESULT
+		STDAPI
+	LCID
+	DISPID
+	DISPPARAMS
+	EXCEPINFO
+	NTSTATUS
+	ThreadId
+	ProcessId
+	DwordFailIfZero
+	HMODULE
+	HINSTANCE
+	UintFailIfZero
+	DwordFailIf0xFFFFFFFF
+	DwordFailIfNeg1
+	HWND
+	FileFlagsAndAttributes
+	FTime
+	HDC
+	HRGN
+	HMENU
+	HRSRC
+	HACCEL
+	WNDPROC
+	HKL
+	HHOOK
+	WaitReturnValues
+	HDESK
+	HWINSTA
+	HMONITOR
+	HPRINTER
+	ACCESS_MASK
+	DMFieldFlags
+	DMDisplayFlagFields
+	DMLogicalPageValues
+	DMICMMethodValues
+	DMICMIntentsValues
+	DMMediaTypeValues
+	DMDitherTypeValues
+	consoleFlags
+	AccessMode
+	SECURITY_INFORMATION
+	PSECURITY_INFORMATION
+	SECURITY_DESCRIPTOR
+	ServiceTypes
+	StartTypes
+	ErrorControls
+	ControlCodes
+	DesiredAccessTypes
+	InfoLevels
+	Status
+	ControlEvents
+	GenericAccessRights
+	ShareRights
+	CreationActions
+	ProcessShutdownFlags
+	JobObjectAccess
+	ProcessAccess
+	ThreadAccess
+	SleepExReturnValue
+	ExceptionFlags
+	CreateProcessCreationFlags
+	DLLReason
+	LoadLibFlags
+	FormatMessageFlags
+	CreateToolhelp32SnapshotFlags
+	HeapList32Type
+	HeapEntry32Flags
+	AccessProtectionType
+	HeapAllocationControl
+	FileAccessMode
+	AllocationType
+	ControlKeyStateFlags
+	mouseEventFlags
+	rightmostFlags
+	ButtonStateFlags
+	ctrlFlags
+	ModeFlags
+	ConsoleScreenFlags
+	PHANDLER_ROUTINE
+	ConsoleDisplayModeFlags
+	DW_FileErrorReturnValue
+	DW_FilePointerStartingPosition
+	CopyFlags
+	CallBackReasons
+	CopyRoutineReturns
+	DefineDosDeviceFlags
+	ChangeNotifications
+	GetFileTypeReturnValue
+	LockOptions
+	MoveFilePossibilities
+	FileChangeType
+	NumberOfClusters
+	SectorsPerCluster
+	SetFilePointerReturn
+	DiskBytesDWORD
+	StreamIds
+	StreamAttributes
+	TapeCreateDefinitions
+	EraseTypeToPerform
+	TypeOfInformation
+	TapePosition
+	TapeDevicePreparation
+	InformationToBeSet
+	TypeOfPositioning
+	TapeMarksToWrite
+	ExecutionRequirements
+	OptionalActions
+	HandleProperties
+	MessageWaitLength
+	TimeOutValue
+	PipeSpecificModes
+	DesiredSecurityAccess
+	ServiceType
+	ServiceStartType
+	ServiceErrorControlType
+	ServiceState
+	ServiceControl
+	ServiceCurrentState
+	ServiceControlsAccepted
+	SCManagerAccess
+	ServiceObjectAccess
+	QueryServiceStatusExFlags
+	ServiceConfig2Values
+	HandleType
+	DeviceInterfaceFlags
+	ControlOptionFlags
+	SetupDiopenClassRegKeyExFlags
+	SPDataFlags
+	LogonFlags
+	SpecialOptions
+	ChangesToReport
+	PSM_ACTIVATE_BACKGROUND_TYPE
+	COLORREF
+	LPCOLORREF
+	_BinaryDrawMode
+	_TernaryDrawMode
+	_GDI_ERROR
+	_HGDI_ERROR
+	_RegionFlags
+	_COMBINRGN_STYLE
+	_PolyFill
+	_LAYOUT
+	_TextAlignmentOptions
+	_ETO
+	_AspectFiltering
+	_DCB
+	_Meta
+	_EnumFontsMask
+	_BK_Mode
+	_GM
+	_PT
+	_MM
+	_Coordinate_Mode
+	_StockObject
+	COLORREF_RETURN
+	_BrushStyles
+	_AD
+	_DeviceParameters
+	_DeviceCapabilityDT
+	_DeviceCapabilityCC
+	_DeviceCapabilityLC
+	_DeviceCapabilityPC
+	_DeviceCapabilityCP
+	_DeviceCapabilityTC
+	_DeviceCapabilityRC
+	_DeviceCapabilitySB
+	_ColorManagementCaps
+	_DIB_Color
+	_SYSPAL
+	_CreateDIBitmap
+	_FLOODFILL
+	_PSIDENT
+	_PSINJECTMode
+	_PSPROTOCOL
+	_QDI
+	_FEATURESETTING
+	_PR_JOBSTATUS
+	_OBJ
+	_MWT
+	_CS
+	_OUT
+	_CLIP
+	_QUALITY
+	_PITCH
+	_CHARSET
+	_FS
+	_FF
+	_PAN
+	_PAN_CULTURE
+	_PAN_FAMILY
+	_PAN_SERIF
+	_PAN_WEIGHT_CULTURE
+	_PAN_PROP
+	_PAN_CONTRAST
+	_PAN_STROKE
+	_PAN_ARMS
+	_PAN_LETT
+	_PAN_MIDLINE
+	_PAN_XHEIGHT
+	_DISPLAY_DEVICE
+	_DISPLAY_DEVICE_STATE
+	_RDH
+	_GGO
+	_TT_POLYGON
+	_LCSCSTYPE
+	_GCP
+	_GCPCLASS
+	_LCSGAMUTMATCH
+	_biCompression
+	_TCI_SRC
+	_PIXELFORMATDESCRIPTOR
+	_DeviceMode
+	_DC_PRINTRATEUNIT
+	_DCTT
+	_DCBA
+	_GS_8BIT_INDICES
+	_GGI_MARK_NONEXISTING_GLYPHS
+	_FR
+	_ICM
+	_EMR
+	_SETICMPROFILE_EMBEDED
+	_GDICOMMENT
+	_WGL_FONT
+	_LAYERPLANEDESCRIPTOR
+	_WGL_SWAP
+	_otmfsSelection
+	_NTMFlags
+	EMRSignature
+	EMRColorSpaceFlagMask
+	EMRColorMatchFlagMask
+	DocInfoType
+	GetGuiResourcesFlags
+	DLGPROC
+	TIMERPROC
+	GRAYSTRINGPROC
+	WNDENUMPROC
+	SENDASYNCPROC
+	EDITWORDBREAKPROCA
+		EDITWORDBREAKPROC
+	EDITWORDBREAKPROCW
+	DRAWSTATEPROC
+	MSGBOXCALLBACK
+	MONITORENUMPROC
+	PREGISTERCLASSNAMEW
+	NAMEENUMPROCA
+		WINSTAENUMPROCA
+			WINSTAENUMPROC
+		DESKTOPENUMPROCA
+			DESKTOPENUMPROC
+	NAMEENUMPROCW
+		WINSTAENUMPROCW
+		DESKTOPENUMPROCW
+	HELPPOLY
+	MessageBoxReturn
+	SystemMetric
+	KeyModifier
+	appcommandFlags
+	hshellFlags
+	sswfFlags
+	skfFlags
+	ocrFlags
+	ssFlags
+	ismexFlags
+	gclpFlags
+	DrawCaptionFlags
+	mditileFlags
+	resFlags
+	dfFlags
+	ssfFlags
+	DrawIconExFlags
+	uoiFlags
+	lbFlags
+	wsfFlags
+	dmFlags
+	asfwFlags
+	doFlags
+	ExitWindowsExFlags
+	odaFlags
+	dsFlags
+	DrawTextFlags
+	monitorinfofFlags
+	ChangeDisplaySettingsFlags
+	ClassLongIndex
+	calertFlags
+	lbnFlags
+	KeyboardLayoutFlags
+	ActivateKeyboardLayoutFlags
+	LoadImageFlags
+	lbsFlags
+	hcbtFlags
+	SendMessageTimeoutFlags
+	sleFlags
+	odsFlags
+	pbtFlags
+	nfrFlags
+	odtFlags
+	ecFlags
+	prfFlags
+	iconFlags
+	pbtfFlags
+	mdisFlags
+	maFlags
+	MessageBoxType
+	hcfFlags
+	eimesFlags
+	enFlags
+	mfFlags
+	llmhfFlags
+	stmFlags
+	EnumDisplaySettingsIndex
+	stnFlags
+	helpinfoFlags
+	WinstaAccessMask
+	esFlags
+	mkFlags
+	endsessionFlags
+	LockForegroundFlags
+	wtsFlags
+	GetDCExFlags
+	hklFlags
+	stateFlags
+	showFlags
+	eventFlags
+	mimFlags
+	hoverFlags
+	GetGUIThreadInfoFlags
+	tkfFlags
+	SystemObjectId
+	mouseFlags
+	DrawStateFlags
+	feFlags
+	dstFlags
+	ChangeDisplaySettingsRet
+	childidFlags
+	uisFlags
+	createprocessFlags
+	DlgDirListType
+	nfFlags
+	metricsFlags
+	inputlangchangeFlags
+	VirtualKey
+	idaniFlags
+	unicodeFlags
+	GetAncestorType
+	arwFlags
+	cchildrenFlags
+	MenuItemInfoMask
+	keyboardFlags
+	mngoFlags
+	SPIWinini
+	waFlags
+	wbFlags
+	ridevFlags
+	esbFlags
+	mkfFlags
+	gwFlags
+	ridFlags
+	pmbFlags
+	HookProcType
+	wvrFlags
+	DrawFrameControlState
+	MWMOFlags
+	GetMenuDefItemFlags
+	isolationawareFlags
+	ColorIndex
+	WindowsMessage
+	ScrollWindowExFlags
+	indexidFlags
+	tmeFlags
+	rimFlags
+	MonitorFlags
+	gwlFlags
+	WindowStyle
+	WindowStyleEx
+	ChildWindowFromPointExFlags
+	hcFlags
+	DrawFrameControlType
+	deviceFlags
+	wmszFlags
+	accessFlags
+	idhFlags
+	SetWindowPosFlags
+	atfFlags
+	edsFlags
+	PeekMessageFlags
+	CursorInfoFlags
+	sstfFlags
+	flashwFlags
+	pwFlags
+	ridiFlags
+	soundFlags
+	SPIValues
+	msgfFlags
+	wpfFlags
+	gmmpFlags
+	llkhfFlags
+	hwndFlags
+	fkfFlags
+	uisfFlags
+	AnimateWindowFlags
+	ulwFlags
+	dofFlags
+	DesktopAccessMask
+	serkfFlags
+	BroadcastSystemMessageFlags
+	oicFlags
+	emsisFlags
+	ScrollInfoFlags
+	BroadcastSystemMessageRecipients
+	lwaFlags
+	QueueStates
+	fappcommandFlags
+	dwlFlags
+	BorderType
+	ButtonState
+	csoundFlags
+	bmFlags
+	bnFlags
+	KeybdEventFlags
+	cbnFlags
+	setwallpaperFlags
+	bsFlags
+	wheelFlags
+	mngofFlags
+	cbsFlags
+	BorderStyle
+	pwrFlags
+	hideFlags
+	riFlags
+	sizeFlags
+	mncFlags
+	mndFlags
+	sbmFlags
+	ImageType
+	cbFlags
+	MenuFlags
+	MenuItemInfoState
+	MenuItemInfoType
+	sbsFlags
+	ClipboardFormats
+	RedrawWindowFlags
+	mnsFlags
+	inputFlags
+	kfFlags
+	TrackPopupMenuFlags
+	ssgfFlags
+	sbFlags
+	ClassStyles
+	scFlags
+	dwlpFlags
+	klFlags
+	cwFlags
+	ScrollWhich
+	ScrollEnableFlags
+	TrackMouseEventFlags
+	LUID
+	GetWindowCmd
+	WindowLongIndex
+	InSendMessageExFlags
+	FlashWindowExFlags
+	MouseEventFlags
+	WINEVENTPROC
+	SetWinEventReturn
+	WinEventHookFlags
+	PILevel
+	DILevel
+	JILevel
+	AJILevel
+	FILevel
+	PPCLevel
+	PPILevel
+	DTILevel
+	DocILevel
+	MILevel
+	PortILevel
+	ProvILevel
+	PCILevel
+	PrinterEnum
+	PrinterAccessMode
+	SetPrinterCommand
+	AddPrinterDriverExFlags
+	DPDFlags
+	DPFlags
+	FormInfoFlags
+	PCFlags
+	DeviceCapabilitiesEnum
+	vftFlags
+	vffFlags
+	vft2Flags
+	vifFlags
+	vosFlags
+	vfffFlags
+	vsFlags
+	viffFlags
+	viffFailFlags
+	resourcedisplaytypeFlags
+	discFlags
+	connectionInfoFlags
+	ErrorFlags
+	networktypeFlags
+	resourceFlags
+	infolevelFlags
+	resourcetypeFlags
+	connectFlags
+	wnfmtFlags
+	netpropertyFlags
+	resourceusageFlags
+	dialogtypeFlags
+	NetworkProviderCharacteristicsFlag
+	WSAEVENT
+	LPWSAEVENT
+	soFlags
+	msgFlags
+	tcpFlags
+	invalidFlags
+	resFlags1
+	fdFlags
+	fromFlags
+	jlFlags
+	xp1Flags
+	thFlags
+	nsFlags
+	pflFlags
+	layeredFlags
+	inclFlags
+	afFlags
+	socketFlags
+	cfFlags
+	ipprotoFlags
+	inaddrFlags
+	implinkFlags
+	inFlags
+	sdFlags
+	securityFlags
+	sgFlags
+	baseFlags
+	iocFlags
+	ipportFlags
+	LUPControlFlags
+	WindowMessage
+	LPCONDITIONPROC
+	LPWSAOVERLAPPED_COMPLETION_ROUTINE
+	AppBarMessage
+	FindExecutableError
+	NotifyIconMessage
+	ShellExecuteError
+	SHEmptyRecycleBinFlags
+	FILEOP_FLAGS
+	ShellFolderGetAttributesOf
+	SHGetFolderPathFlags
+	SHGetSettingsMask
+	TranslateUrlFlags
+	URLAssociationDialogFlags
+	CLSCTX
+	DirectDrawOptSurfaceDescFlags
+	DirectDrawOptSurfaceDescCapsFlags
+	DirectDrawGetDeviceIdentifierFlags
+	DirectDrawSurfaceDescFlags
+	DirectDrawEnumerateExFlags
+	DirectDrawCreateFlags
+	DirectDrawColorControlFlags
+	DirectDrawCapsFlags
+	DirectDrawCapabilityFlags2
+	DirectDrawDriverCapsFlags
+	DirectDrawDriverCapsFlags2
+	DirectDrawFxAlphaCapsFlags
+	DirectDrawFxCapsFlags
+	DirectDrawStereoViewCapsFlags
+	DirectDrawPaletteCapsFlags
+	DirectDrawSurfaceSetPrivateDataConstants
+	DirectDrawSurfaceSetPaletteConstants
+	DirectDrawSurfaceSetGetColorKeyFlags
+	DirectDrawColorKeyCapsFlags
+	DirectDrawPixelFormatFlags
+	DirectDrawEnumSurfacesFlags
+	DirectDrawSetDisplayModeFlags
+	DirectDrawEnumDisplayModesFlags
+	DirectDrawSetCooperativeLevelFlags
+	DirectDrawBltFlags
+	DirectDrawBltFastFlags
+	DirectDrawFlipFlags
+	DirectDrawSurfaceOverlayFlags
+	DirectDrawSurfaceLockFlags
+	DirectDrawSurfaceBltFxFlags
+	DirectDrawOverlayFxFlags
+	DirectDrawWaitForVerticalBlankFlags
+	DirectDrawGetFlipStatusFlags
+	DirectDrawGetBltStatusFlags
+	DirectDrawEnumOverlayZOrderFlags
+	DirectDrawUpdateOverlayZOrderFlags
+	DirectDrawSetGammaRampFlags
+	DirectDrawStartModeTestFlags
+	DirectDrawEvaluateModeFlags
+	DDRESULT
+	PlaySoundFlags
+	WaveOutCapsFlags
+	WaveCapsFormatFlags
+	WAVE_OUT_OPEN_FLAGS
+	MMRESULT_VALUES
+	DRVCALLBACK
+		WAVECALLBACK
+			LPWAVECALLBACK
+	MCIERROR
+	MCI_SEND_COMMAND_MASK
+	FOURCC
+	MMIOINFO_MASK
+	MMIO_SEEK_VALUE
+	MMIO_RW_VALUE
+	DPID
+	LPDPID
+	DPlayObjectFlags
+	DPSESSION_Flags
+	DPLCONNECTIONFlags
+	DPRESULT
+	EnumConnectionsFlags
+	EnumPlayersMask
+	CreatePlayerFlags
+	CreateGroupFlags
+	EnumSessionsFlags
+	GetCapsFlags
+	GetDataFlags
+	OpenFlags
+	ReceiveFlags
+	SendFlags
+	SetDataFlags
+	GetMessageQueueFlags
+	DirectPlayMessages
+	PlayerTypeValue
+	D3DMATERIALHANDLE
+	LPD3DMATERIALHANDLE
+	D3DTEXTUREHANDLE
+	LPD3DTEXTUREHANDLE
+	D3DMATRIXHANDLE
+	LPD3DMATRIXHANDLE
+	D3DCOLORMODEL
+	D3DCOLOR
+	d3dpvFlags
+	d3dclearFlags
+	d3dclipFlags
+	d3dtriflagFlags
+	d3dclipstatusFlags
+	d3dsetstatusFlags
+	d3dwrapcoordFlags
+	d3dvisFlags
+	d3dexecuteFlags
+	d3dvopFlags
+	d3dtaFlags
+	d3ddevinfoidFlags
+	d3dlightFlags
+	d3dwrapFlags
+	d3dtssFlags
+	d3dtransformFlags
+	d3dpalFlags
+	d3dvbcapsFlags
+	d3dcolorFlags
+	d3denumretFlags
+	d3dstateFlags
+	d3drenderstateFlags
+	d3dfvfFlags
+	d3dstatusFlags
+	d3dprocessverticesFlags
+	D3DBLEND
+	D3DTEXTURESTAGESTATETYPE
+	D3DSHADEMODE
+	D3DTEXTUREMAGFILTER
+	D3DCMPFUNC
+	D3DFILLMODE
+	D3DSTATEBLOCKTYPE
+	D3DVERTEXBLENDFLAGS
+	D3DTEXTUREOP
+	D3DCULL
+	D3DSTENCILOP
+	D3DTEXTUREBLEND
+	D3DZBUFFERTYPE
+	D3DTEXTUREFILTER
+	D3DTEXTUREADDRESS
+	D3DTEXTURETRANSFORMFLAGS
+	D3DLIGHTTYPE
+	D3DOPCODE
+	D3DTEXTUREMINFILTER
+	D3DLIGHTSTATETYPE
+	D3DANTIALIASMODE
+	D3DPRIMITIVETYPE
+	D3DTEXTUREMIPFILTER
+	D3DMATERIALCOLORSOURCE
+	D3DTRANSFORMSTATETYPE
+	D3DVERTEXTYPE
+	D3DFOGMODE
+	D3DRENDERSTATETYPE
+	d3ddevcapsFlags
+	d3dlightingmodelFlags
+	d3dddFlags
+	d3dptexturecapsFlags
+	d3dprastercapsFlags
+	d3dfvfcapsFlags
+	d3ddebFlags
+	d3dptblendcapsFlags
+	d3dptaddresscapsFlags
+	d3dptfiltercapsFlags
+	d3ddebcapsFlags
+	d3dpcmpcapsFlags
+	d3dtexopcapsFlags
+	d3dvtxpcapsFlags
+	d3dstencilcapsFlags
+	d3dpblendcapsFlags
+	d3dpshadecapsFlags
+	d3dfdsFlags
+	d3dlightcapsFlags
+	d3dpmisccapsFlags
+	d3dtransformcapsFlags
+	d3dnextFlags
+	direct3dFlags
+	D3D7RESULT
+	d3ddpFlags
+	d3dUsage8
+	d3dPresentParamsFlags8
+	d3dPresentationIntervals8
+	d3dLockFlags8
+	d3dFVF8
+	d3dBehaviorFlags8
+	d3dClearFlags8
+	d3dClipStatus8
+	d3dProcessVerticesFlags
+	D3DDEVTYPE
+	D3DMULTISAMPLE_TYPE
+	D3DRESOURCETYPE
+	D3DSWAPEFFECT
+	D3DPOOL
+	D3DCUBEMAP_FACES
+	D3DBACKBUFFER_TYPE
+	D3DTRANSFORMSTATETYPE8
+	D3DLIGHTTYPE8
+	D3DRENDERSTATETYPE8
+	D3DTEXTURESTAGESTATETYPE8
+	D3DSTATEBLOCKTYPE8
+	D3DPRIMITIVETYPE8
+	D3DBASISTYPE
+	D3DORDERTYPE
+	D3DFORMAT
+	d3dCaps8
+	d3dCaps28
+	d3dCaps38
+	d3dCursorCaps8
+	d3dDevCaps8
+	d3dPrimitiveMiscCaps8
+	d3dLineCaps8
+	d3dRasterCaps8
+	d3dCmpCaps8
+	d3dBlendCaps8
+	d3dShadeCaps8
+	d3dTextureCaps8
+	d3dTextureFilterCaps8
+	d3dTextureAddressCaps8
+	d3dStencilCaps8
+	d3dTextureOpCaps8
+	d3dFVFCaps8
+	d3dVertexProcessingCaps8
+	d3dAdaperIdentifierFlags8
+	d3dSetPrivateDataFlags8
+	d3dSetCursorPositionFlags8
+	d3dSetGammaRamp8
+	D3DRESULT8
+	DSCAPS_MASK
+	DSBPLAY_MASK
+	DSBSTATUS_MASK
+	DSBLOCK_VALUE
+	DSSCL_VALUE
+	DS3DMODE_VALUE
+	DSBCAPS_MASK
+	DSSPEAKER_VALUE
+	DSBFREQUENCY_VALUE
+	DSBPAN_VALUE
+	DSBVOLUME_VALUE
+	DSBSIZE_VALUE
+	DS3D_VALUE
+	DSCBLOCK_MASK
+	DSCBSTATUS_MASK
+	DSCBSTART_MASK
+	DSFX_MASK
+	DSFXR_MASK
+	DSFXR_ENUM
+	DSRESULT
+	DSFXGARGLE_VALUE
+	KSPROPERTY_SUPPORT_MASK
+	WindowsMediaSampleFlags
+	WindowsMediaReaderAllocateExFlags
+	WMT_STATUS
+	WMT_RIGHTS
+	WMT_STREAM_SELECTION
+	WMT_ATTR_DATATYPE
+	WMT_ATTR_IMAGETYPE
+	WMT_VERSION
+	WMT_NET_PROTOCOL
+	WMT_PLAY_MODE
+	WMT_PROXY_SETTINGS
+	WMT_CODEC_INFO_TYPE
+	WindowsMediaDeinterlaceModeValues
+	WMT_OFFSET_FORMAT
+	DRM_LICENSE_STATE_CATEGORY
+	PACKAGEACTIVATIONSETTINGS
+	ACTIVATEOPTIONSINTERNAL
+	unsigned
+LONG
+	int
+		LPINT
+		SpoolerError
+		FilePointerStartingPosition
+		_lcreatFileAttributes
+		SidNameUse
+		_ODD_FAILURE
+		_CombineRgn
+		_PS
+		_FW
+		u_int
+		GROUP
+		recvFlags
+		SocketType
+		WSAStartupError
+		WSACOMPLETIONTYPE
+		WSAECOMPARATOR
+		WSAESETSERVICEOP
+		SHGetIconOverlayIndexValue
+		CSIDL
+		_PinDirection
+		_FilterState
+		tagAM_SAMPLE_PROPERTY_FLAGS
+		AM_SEEKING_SeekingFlags
+		AM_SEEKING_SeekingCapabilities
+		tagQualityMessageType
+		__MIDL_IConfigInterleaving_0001
+			InterleavingMode
+		tagAMTunerModeType
+		tagAMTunerEventType
+		tagTunerInputType
+		_DECIMATION_USAGE
+		__MIDL___MIDL_itf_strmif_0137_0004
+		__MIDL___MIDL_itf_strmif_0141_0001
+		__MIDL___MIDL_itf_strmif_0141_0002
+		__MIDL___MIDL_itf_strmif_0148_0001
+			AM_FILESINK_FLAGS
+		_AM_RENSDEREXFLAGS
+		__MIDL___MIDL_itf_strmif_0159_0001
+			AM_STREAM_INFO_FLAGS
+		__MIDL___MIDL_itf_strmif_0166_0001
+			CompressionCaps
+		__MIDL___MIDL_itf_strmif_0167_0001
+			VfwCaptureDialogs
+		__MIDL___MIDL_itf_strmif_0167_0002
+			VfwCompressDialogs
+		tagAnalogVideoStandard
+		__MIDL___MIDL_itf_strmif_0172_0001
+			VideoCopyProtectionType
+		tagPhysicalConnectorType
+		tagVideoProcAmpProperty
+		tagVideoProcAmpFlags
+		tagCameraControlProperty
+		tagCameraControlFlags
+		tagVideoControlFlags
+		tagAMTunerSubChannel
+		tagAMTunerSignalStrength
+		tagTVAudioMode
+		tagAMTVAudioEventType
+		__MIDL___MIDL_itf_strmif_0184_0001
+			AMPROPERTY_PIN
+		_AMSTREAMSELECTINFOFLAGS
+		_AMSTREAMSELECTENABLEFLAGS
+		_AMRESCTL_RESERVEFLAGS
+		_AM_FILTER_MISC_FLAGS
+		_AM_PUSHSOURCE_FLAGS
+		_DVENCODERRESOLUTION
+		_DVENCODERVIDEOFORMAT
+		_DVENCODERFORMAT
+		_DVDECODERRESOLUTION
+		_DVRESOLUTION
+		_AM_AUDIO_RENDERER_STAT_PARAM
+		_AM_INTF_SEARCH_FLAGS
+		AMOVERLAYFX
+		__MIDL___MIDL_itf_strmif_0363_0001
+			VIDEOENCODER_API
+		__MIDL___MIDL_itf_strmif_0363_0002
+			VideoEncoder_BitRate_Mode
+		tagDVD_MENU_ID
+		tagDVD_DOMAIN
+		tagDVD_DISC_SIDE
+		tagDVD_PREFERRED_DISPLAY_MODE
+		tagDVD_FRAMERATE
+		tagDVD_TIMECODE_FLAGS
+		__MIDL___MIDL_itf_strmif_0365_0001
+			VALID_UOP_FLAG
+		__MIDL___MIDL_itf_strmif_0365_0002
+			DVD_CMD_FLAGS
+		__MIDL___MIDL_itf_strmif_0365_0003
+			DVD_OPTION_FLAG
+		__MIDL___MIDL_itf_strmif_0365_0004
+			DVD_RELATIVE_BUTTON
+		tagDVD_PARENTAL_LEVEL
+		tagDVD_AUDIO_LANG_EXT
+		tagDVD_SUBPICTURE_LANG_EXT
+		tagDVD_AUDIO_APPMODE
+		tagDVD_AUDIO_FORMAT
+		tagDVD_KARAOKE_DOWNMIX
+		tagDVD_KARAOKE_CONTENTS
+		tagDVD_KARAOKE_ASSIGNMENT
+		tagDVD_VIDEO_COMPRESSION
+		tagDVD_SUBPICTURE_TYPE
+		tagDVD_SUBPICTURE_CODING
+		tagDVD_TITLE_APPMODE
+		DVD_TextStringType
+		DVD_TextCharSet
+		_AM_DVD_GRAPH_FLAGS
+		_AM_DVD_STREAM_FLAGS
+		_AM_OVERLAY_NOTIFY_FLAGS
+		_AM_PIN_FLOW_CONTROL_BLOCK_FLAGS
+		_AM_GRAPH_CONFIG_RECONNECT_FLAGS
+		_REM_FILTER_FLAGS
+		_AM_FILTER_FLAGS
+		__MIDL___MIDL_itf_strmif_0394_0002
+			VMRDeinterlaceTech
+		__MIDL___MIDL_itf_strmif_0386_0002
+			VMRPresentationFlags
+		__MIDL___MIDL_itf_strmif_0387_0001
+			VMRSurfaceAllocationFlags
+		__MIDL___MIDL_itf_strmif_0389_0001
+			VMR_ASPECT_RATIO_MODE
+		__MIDL___MIDL_itf_strmif_0390_0001
+			VMRMixerPrefs
+		__MIDL___MIDL_itf_strmif_0392_0001
+			VMRRenderPrefs
+		__MIDL___MIDL_itf_strmif_0392_0002
+			VMRMode
+		__MIDL___MIDL_itf_strmif_0392_0003
+		__MIDL___MIDL_itf_strmif_0394_0001
+			VMRDeinterlacePrefs
+		CommandStateChangeConstants
+		OLECMDF
+		OLECMDID
+		OLECMDEXECOPT
+		tagREADYSTATE
+		SecureLockIconConstants
+		ShellWindowTypeConstants
+		ShellWindowFindWindowOptions
+		PrinterConstants
+		ColorConstants
+		FileOpenConstants
+		FontsConstants
+		ErrorConstants
+		HelpConstants
+		PrinterOrientationConstants
+		tagDOMNodeType
+			DOMNodeType
+		tagXMLEMEM_TYPE
+			XMLELEM_TYPE
+		_SERVERXMLHTTP_OPTION
+			SERVERXMLHTTP_OPTION
+		_SXH_SERVER_CERT_OPTION
+			SXH_SERVER_CERT_OPTION
+		tagHS_MODE
+		tagSHT_STATUS
+		tagOPT_FONTSIZE
+		tagTB_MODE
+		tagCN_STATUS
+		tagDC_STATUS
+		tagCB_STATUS
+		tagEUploadType
+		__MIDL___MIDL_itf_helpservicetypelib_0113_0002
+			IncidentCollectionOptionEnum
+		__MIDL___MIDL_itf_helpservicetypelib_0113_0001
+			IncidentStatusEnum
+		__MIDL___MIDL_itf_rdshost_0000_0001
+			REMOTE_DESKTOP_SHARING_CLASS
+		tagCN_URL_STATUS
+		__MIDL___MIDL_itf_iwshom_0111_0001
+			WshExecStatus
+		CompareMethod
+		IOMode
+		Tristate
+		__MIDL___MIDL_itf_iwshom_0000_0001
+			FileAttribute
+		__MIDL___MIDL_itf_iwshom_0000_0002
+			DriveTypeConst
+		__MIDL___MIDL_itf_iwshom_0000_0003
+			SpecialFolderConst
+		__MIDL___MIDL_itf_iwshom_0000_0004
+			StandardStreamTypes
+		__MIDL___MIDL_itf_iwshom_0102_0001
+			WshWindowStyle
+		COMAdminInUse
+		COMAdminComponentType
+		COMAdminApplicationInstallOptions
+		COMAdminApplicationExportOptions
+		COMAdminThreadingModels
+		COMAdminTransactionOptions
+		COMAdminTxIsolationLevelOptions
+		COMAdminSynchronizationOptions
+		COMAdminActivationOptions
+		COMAdminAccessChecksLevelOptions
+		COMAdminAuthenticationLevelOptions
+		COMAdminImpersonationLevelOptions
+		COMAdminAuthenticationCapabilitiesOptions
+		COMAdminOS
+		COMAdminServiceOptions
+		COMAdminServiceStatusOptions
+		COMAdminQCMessageAuthenticateOptions
+		COMAdminFileFlags
+		COMAdminComponentFlags
+		COMAdminErrorCodes
+		DIRECTORY_TYPE
+		DIRECTORY_OBJECT_TYPE
+		RND_ADVERTISING_SCOPE
+		__MIDL___MIDL_itf_helpservicetypelib_0113_0003
+			SessionStateEnum
+		tagQR_NAVMODEL
+		tagTYPEKIND
+		tagDESCKIND
+		tagFUNCKIND
+		tagINVOKEKIND
+		tagCALLCONV
+		tagVARKIND
+		tagSYSKIND
+		tagSCRIPTSTATE
+		tagSCRIPTTHREADSTATE
+		__MIDL___MIDL_itf_helpservicetypelib_0142_0001
+			ParamTypeEnum
+		SPRESULTTYPE
+		SPWORDINFOOPT
+		SPRULEINFOOPT
+		SPDATAKEYLOCATION
+		SPLOADOPTIONS
+		SPRULESTATE
+		SPWORDPRONOUNCEABLE
+		SPPROPSRC
+		SPGRAMMARSTATE
+		SPCFGNOTIFY
+		SPCONTEXTSTATE
+		SPRECOSTATE
+		_SPAUDIOSTATE
+		SPWAVEFORMATTYPE
+		SPINTERFERENCE
+		SPAUDIOOPTIONS
+		SPBOOKMARKOPTIONS
+		SPVISEMES
+		SPVPRIORITY
+		SPEVENTENUM
+		SPGRAMMARWORDTYPE
+		_htmlDesignMode
+		_htmlZOrder
+		_htmlClear
+		_htmlControlAlign
+		_htmlBlockAlign
+		_htmlReadyState
+		_htmlLoop
+		_mediaType
+		_styleTextTransform
+		_styleDataRepeat
+		_styleOverflow
+		_styleTableLayout
+		_styleBorderCollapse
+		_styleFontStyle
+		_styleFontVariant
+		_styleBackgroundRepeat
+		_styleBackgroundAttachment
+		_styleVerticalAlign
+		_styleFontWeight
+		_styleBackgroundPositionX
+		_styleBackgroundPositionY
+		_styleFontSize
+		_styleAuto
+		_styleNormal
+		_styleBorderWidth
+		_stylePosition
+		_styleBorderStyle
+		_styleStyleFloat
+		_styleDisplay
+		_styleVisibility
+		_styleListStyleType
+		_styleListStylePosition
+		_styleWhiteSpace
+		_stylePageBreak
+		_styleCursor
+		_styleDir
+		_styleBidi
+		_styleImeMode
+		_styleRubyAlign
+		_styleRubyPosition
+		_styleRubyOverhang
+		_styleLayoutGridChar
+		_styleLayoutGridLine
+		_styleLayoutGridMode
+		_styleLayoutGridType
+		_styleLineBreak
+		_styleWordBreak
+		_styleWordWrap
+		_styleTextJustify
+		_styleTextAlignLast
+		_styleTextJustifyTrim
+		_styleAccelerator
+		_styleLayoutFlow
+		_styleWritingMode
+		_styleBool
+		_styleTextUnderlinePosition
+		_styleTextOverflow
+		_styleTextLineThroughStyle
+		_styleTextUnderlineStyle
+		_styleTextEffect
+		_styleDefaultTextSelection
+		_styleTextDecoration
+		_textDecoration
+		_htmlListType
+		_htmlMethod
+		_htmlWrap
+		_htmlDir
+		_htmlEditable
+		_htmlInput
+		_htmlEncoding
+		_htmlAdjacency
+		_htmlTabIndex
+		_htmlComponent
+		_htmlApplyLocation
+		_htmlGlyphMode
+		_htmlUnit
+		_htmlEndPoints
+		_htmlDirection
+		_htmlStart
+		_bodyScroll
+		_htmlSelectType
+		_htmlSelection
+		_htmlMarqueeBehavior
+		_htmlMarqueeDirection
+		_htmlPersistState
+		_htmlDropEffect
+		_htmlEffectAllowed
+		_htmlCompatMode
+		_BoolValue
+		_htmlCaptionAlign
+		_htmlCaptionVAlign
+		_htmlFrame
+		_htmlRules
+		_htmlCellAlign
+		_htmlCellVAlign
+		_frameScrolling
+		_ELEMENT_CORNER
+		_SECUREURLHOSTVALIDATE_FLAGS
+		_POINTER_GRAVITY
+		_ELEMENT_ADJACENCY
+		_MARKUP_CONTEXT_TYPE
+		_FINDTEXT_FLAGS
+		_MOVEUNIT_ACTION
+		_PARSE_FLAGS
+		_ELEMENT_TAG_ID
+		_SELECTION_TYPE
+		_SAVE_SEGMENTS_FLAGS
+		_CARET_DIRECTION
+		_LINE_DIRECTION
+		_HT_OPTIONS
+		_HT_RESULTS
+		_DISPLAY_MOVEUNIT
+		_DISPLAY_GRAVITY
+		_DISPLAY_BREAK
+		_COORD_SYSTEM
+		_HTML_PAINTER
+		_HTML_PAINT_ZORDER
+		_HTML_PAINT_DRAW_FLAGS
+		_HTML_PAINT_EVENT_FLAGS
+		_HTML_PAINT_DRAW_INFO_FLAGS
+		_HTMLDlgFlag
+		_HTMLDlgBorder
+		_HTMLDlgEdge
+		_HTMLDlgCenter
+		_HTMLAppFlag
+		_HTMLMinimizeFlag
+		_HTMLMaximizeFlag
+		_HTMLCaptionFlag
+		_HTMLSysMenuFlag
+		_HTMLBorder
+		_HTMLBorderStyle
+		_HTMLWindowState
+		_BEHAVIOR_EVENT
+		_BEHAVIOR_EVENT_FLAGS
+		_BEHAVIOR_RENDER_INFO
+		_BEHAVIOR_RELATION
+		_BEHAVIOR_LAYOUT_INFO
+		_BEHAVIOR_LAYOUT_MODE
+		_ELEMENTDESCRIPTOR_FLAGS
+		_ELEMENTNAMESPACE_FLAGS
+		TrustLevel
+			RegisteredTrustLevel
+		RO_INIT_TYPE
+		ACTIVATEOPTIONS
+		PACKAGE_EXECUTION_STATE
+		RegistrationScope
+		ActivationType
+		ThreadingType
+		IdentityType
+		InstancingType
+	long
+		FXPT16DOT16
+		LPFXPT16DOT16
+		FXPT2DOT30
+		LPFXPT2DOT30
+		u_long
+		SERVICETYPE
+	INT
+		ClipboardStatus
+		SHGetDataFromIDListFormat
+	LPLONG
+	PLONG
+	LONG_PTR
+	WinErrorL
+	_TOKEN_TYPE
+		TOKEN_TYPE
+	IntFailIfNeg1
+	IntFailIfZero
+	LongFailIfNeg1
+	LongFailIfZero
+	UnhandledException
+	GdiEscapeCode
+	RegistryType
+	ShowWindowCommand
+	ThreadBasePriority
+	ThreadPriority
+	JobObjectClass
+	HFILE
+	FileErrorReturnValue
+	_FILEEX_INFO_LEVELS
+	OpenFileStyle
+	FINDEX_INFO_LEVELS
+	FINDEX_SEARCH_OPS
+	GET_FILEEX_INFO_LEVELS
+	LATENCY_TIME
+	PlatformId
+	SC_ACTION_TYPE
+	SC_STATUS_TYPE
+	SC_ENUM_TYPE
+	tagWMI_BUFFER_SOURCE
+		WMI_BUFFER_SOURCE
+	_SID_NAME_USE
+		SID_NAME_USE
+	LCSCSTYPE
+	LCSGAMUTMATCH
+	ChangeNotifyEventId
+	ChangeNotifyFlags
+	D3DFIXED
+	d3dCreateVersion8
+	_COMPUTER_NAME_FORMAT
+		COMPUTER_NAME_FORMAT
+	_COMPUTER_NAME_TYPE
+		COMPUTER_NAME_TYPE
+	_MEMORY_RESOURCE_NOTIFICATION_TYPE
+		MEMORY_RESOURCE_NOTIFICATION_TYPE
+	_HEAP_INFORMATION_CLASS
+		HEAP_INFORMATION_CLASS
+	_LSAP_LOOKUP_LEVEL
+		LSAP_LOOKUP_LEVEL
+	_CRED_MARSHAL_TYPE
+		PCRED_MARSHAL_TYPE
+		CRED_MARSHAL_TYPE
+	WELL_KNOWN_SID_TYPE
+	_TOKEN_INFORMATION_CLASS
+		TOKEN_INFORMATION_CLASS
+	_SE_OBJECT_TYPE
+		SE_OBJECT_TYPE
+	_WIN31IO_EVENT
+		WIN31IO_EVENT
+	tagWMI_HEADER_TYPE
+		WMI_HEADER_TYPE
+	_POLICY_INFORMATION_CLASS
+		POLICY_INFORMATION_CLASS
+	_TRUSTED_INFORMATION_CLASS
+		TRUSTED_INFORMATION_CLASS
+	_SAFER_POLICY_INFO_CLASS
+		SAFER_POLICY_INFO_CLASS
+	_POLICY_DOMAIN_INFORMATION_CLASS
+		POLICY_DOMAIN_INFORMATION_CLASS
+	_ACL_INFORMATION_CLASS
+		ACL_INFORMATION_CLASS
+	_AUDIT_EVENT_TYPE
+		AUDIT_EVENT_TYPE
+	_SAFER_OBJECT_INFO_CLASS
+		SAFER_OBJECT_INFO_CLASS
+	_SECURITY_IMPERSONATION_LEVEL
+		SECURITY_IMPERSONATION_LEVEL
+	_WTOA_ENUM
+		WTOA_ENUM
+	_PROGRESS_INVOKE_SETTING
+		PROG_INVOKE_SETTING
+	_ENCODE_BLOB_ENUM
+		ENCODE_BLOB_ENUM
+	_IT_IDLE_TASK_ID
+		IT_IDLE_TASK_ID
+	tagINSTALLSTATE
+		INSTALLSTATE
+	tagMSIDBERROR
+	tagMSICOSTTREE
+		MSICOSTTREE
+	tagINSTALLMESSAGE
+		INSTALLMESSAGE
+	tagMIGRATIONOPTIONS
+		MIGRATIONOPTIONS
+	tagMSICOLINFO
+		MSICOLINFO
+	tagINSTALLTYPE
+		INSTALLTYPE
+	tagMSICONDITION
+	tagUSERINFOSTATE
+	tagINSTALLUILEVEL
+		INSTALLUILEVEL
+	tagMSIRUNMODE
+		MSIRUNMODE
+	tagMSIDBSTATE
+	tagMSIMODIFY
+		MSIMODIFY
+	_APTTYPE
+		APTTYPE
+BOOL
+	PBOOL
+	LPBOOL
+	FailOnFalse
+FLOAT
+	float
+		LPFLOAT
+		PFLOAT
+		D3DVALUE
+		LPD3DVALUE
+		DATE
+DOUBLE
+CHAR
+	char
+		u_char
+		HPSTR
+WCHAR
+	PWCHAR
+	LPOLECHAR
+LPSTR
+	LPCSTR
+	PSTR
+	LpstrFailIfNull
+	CursorValueA
+	IconValueA
+	ImageValueA
+LPWSTR
+	LPCWSTR
+	PWSTR
+	PCWSTR
+	BSTR
+	LPOLESTR
+	LPCOLESTR
+	LpwstrFailIfNull
+	CursorValueW
+	IconValueW
+	ImageValueW
+	PZZWSTR
+	SNB
+	LPBSTR
+GUID
+	LPGUID
+	PGUID
+	REFGUID
+	REFCLSID
+	REFIID
+	LPCGUID
+HSTRING
+COM_INTERFACE_PTR
+	IUnknown
+		LPUNKNOWN
+		IClassFactory
+		IDispatch
+			IWebBrowser
+				IWebBrowserApp
+					IWEBBROWSERAPP
+						LPIWEBBROWSERAPP
+						LPLPIWEBBROWSERAPP
+					IWebBrowser2
+						IWEBBROWSER2
+							LPIWEBBROWSER2
+							LPLPIWEBBROWSER2
+			IPCHBehaviors_Common
+				IPCHBEHAVIORS_COMMON
+					LPIPCHBEHAVIORS_COMMON
+					LPLPIPCHBEHAVIORS_COMMON
+			IPCHBehaviors_SubSite
+				IPCHBEHAVIORS_SUBSITE
+					LPIPCHBEHAVIORS_SUBSITE
+					LPLPIPCHBEHAVIORS_SUBSITE
+			IPCHBehaviors_Tree
+				IPCHBEHAVIORS_TREE
+					LPIPCHBEHAVIORS_TREE
+					LPLPIPCHBEHAVIORS_TREE
+			IPCHBehaviors_TreeNode
+				IPCHBEHAVIORS_TREENODE
+					LPIPCHBEHAVIORS_TREENODE
+					LPLPIPCHBEHAVIORS_TREENODE
+			IPCHBehaviors_Context
+				IPCHBEHAVIORS_CONTEXT
+					LPIPCHBEHAVIORS_CONTEXT
+					LPLPIPCHBEHAVIORS_CONTEXT
+			IPCHBehaviors_State
+				IPCHBEHAVIORS_STATE
+					LPIPCHBEHAVIORS_STATE
+					LPLPIPCHBEHAVIORS_STATE
+			ICommonDialog
+				ICommonDialog11
+				ICOMMONDIALOG
+					LPICOMMONDIALOG
+					LPLPICOMMONDIALOG
+			ICommonDialogEvents
+				ICOMMONDIALOGEVENTS
+					LPICOMMONDIALOGEVENTS
+					LPLPICOMMONDIALOGEVENTS
+			IXMLDOMImplementation
+				IXMLDOMIMPLEMENTATION
+					LPIXMLDOMIMPLEMENTATION
+					LPLPIXMLDOMIMPLEMENTATION
+			IXMLDOMNodeList
+				IXMLDOMNODELIST
+					LPIXMLDOMNODELIST
+					LPLPIXMLDOMNODELIST
+			IXMLDOMNamedNodeMap
+				IXMLDOMNAMEDNODEMAP
+					LPIXMLDOMNAMEDNODEMAP
+					LPLPIXMLDOMNAMEDNODEMAP
+			IXMLDOMDocumentType
+				IXMLDOMDOCUMENTTYPE
+					LPIXMLDOMDOCUMENTTYPE
+					LPLPIXMLDOMDOCUMENTTYPE
+			IXMLDOMAttribute
+				IXMLDOMATTRIBUTE
+					LPIXMLDOMATTRIBUTE
+					LPLPIXMLDOMATTRIBUTE
+			IXMLDOMElement
+				IXMLDOMELEMENT
+					LPIXMLDOMELEMENT
+					LPLPIXMLDOMELEMENT
+			IXMLDOMDocumentFragment
+				IXMLDOMDOCUMENTFRAGMENT
+					LPIXMLDOMDOCUMENTFRAGMENT
+					LPLPIXMLDOMDOCUMENTFRAGMENT
+			IXMLDOMText
+				IXMLDOMTEXT
+					LPIXMLDOMTEXT
+					LPLPIXMLDOMTEXT
+			IXMLDOMComment
+				IXMLDOMCOMMENT
+					LPIXMLDOMCOMMENT
+					LPLPIXMLDOMCOMMENT
+			IXMLDOMCDATASection
+				IXMLDOMCDATASECTION
+					LPIXMLDOMCDATASECTION
+					LPLPIXMLDOMCDATASECTION
+			IXMLDOMProcessingInstruction
+				IXMLDOMPROCESSINGINSTRUCTION
+					LPIXMLDOMPROCESSINGINSTRUCTION
+					LPLPIXMLDOMPROCESSINGINSTRUCTION
+			IXMLDOMEntityReference
+				IXMLDOMENTITYREFERENCE
+					LPIXMLDOMENTITYREFERENCE
+					LPLPIXMLDOMENTITYREFERENCE
+			IXMLDOMParseError
+				IXMLDOMPARSEERROR
+					LPIXMLDOMPARSEERROR
+					LPLPIXMLDOMPARSEERROR
+			IXMLDOMDocument
+				IXMLDOMDOCUMENT
+					LPIXMLDOMDOCUMENT
+					LPLPIXMLDOMDOCUMENT
+			IXMLDOMNode
+				IXMLDOMNODE
+					LPIXMLDOMNODE
+					LPLPIXMLDOMNODE
+			IXMLDOMCharacterData
+				IXMLDOMCHARACTERDATA
+					LPIXMLDOMCHARACTERDATA
+					LPLPIXMLDOMCHARACTERDATA
+			IXMLDOMSchemaCollection
+				IXMLDOMSCHEMACOLLECTION
+					LPIXMLDOMSCHEMACOLLECTION
+					LPLPIXMLDOMSCHEMACOLLECTION
+			IXMLDOMDocument2
+				IXMLDOMDOCUMENT2
+					LPIXMLDOMDOCUMENT2
+					LPLPIXMLDOMDOCUMENT2
+			IXMLDOMNotation
+				IXMLDOMNOTATION
+					LPIXMLDOMNOTATION
+					LPLPIXMLDOMNOTATION
+			IXMLDOMEntity
+				IXMLDOMENTITY
+					LPIXMLDOMENTITY
+					LPLPIXMLDOMENTITY
+			IXTLRuntime
+				IXTLRUNTIME
+					LPIXTLRUNTIME
+					LPLPIXTLRUNTIME
+			IXSLProcessor
+				IXSLPROCESSOR
+					LPIXSLPROCESSOR
+					LPLPIXSLPROCESSOR
+			IXSLTemplate
+				IXSLTEMPLATE
+					LPIXSLTEMPLATE
+					LPLPIXSLTEMPLATE
+			IVBSAXEntityResolver
+				IVBSAXENTITYRESOLVER
+					LPIVBSAXENTITYRESOLVER
+					LPLPIVBSAXENTITYRESOLVER
+			IVBSAXLocator
+				IVBSAXLOCATOR
+					LPIVBSAXLOCATOR
+					LPLPIVBSAXLOCATOR
+			IVBSAXAttributes
+				IVBSAXATTRIBUTES
+					LPIVBSAXATTRIBUTES
+					LPLPIVBSAXATTRIBUTES
+			IVBSAXContentHandler
+				IVBSAXCONTENTHANDLER
+					LPIVBSAXCONTENTHANDLER
+					LPLPIVBSAXCONTENTHANDLER
+			IVBSAXDTDHandler
+				IVBSAXDTDHANDLER
+					LPIVBSAXDTDHANDLER
+					LPLPIVBSAXDTDHANDLER
+			IVBSAXErrorHandler
+				IVBSAXERRORHANDLER
+					LPIVBSAXERRORHANDLER
+					LPLPIVBSAXERRORHANDLER
+			IVBSAXXMLReader
+				IVBSAXXMLREADER
+					LPIVBSAXXMLREADER
+					LPLPIVBSAXXMLREADER
+			IVBSAXXMLFilter
+				IVBSAXXMLFILTER
+					LPIVBSAXXMLFILTER
+					LPLPIVBSAXXMLFILTER
+			IVBSAXLexicalHandler
+				IVBSAXLEXICALHANDLER
+					LPIVBSAXLEXICALHANDLER
+					LPLPIVBSAXLEXICALHANDLER
+			IVBSAXDeclHandler
+				IVBSAXDECLHANDLER
+					LPIVBSAXDECLHANDLER
+					LPLPIVBSAXDECLHANDLER
+			IMXWriter
+				IMXWRITER
+					LPIMXWRITER
+					LPLPIMXWRITER
+			IMXAttributes
+				IMXATTRIBUTES
+					LPIMXATTRIBUTES
+					LPLPIMXATTRIBUTES
+			IMXReaderControl
+				IMXREADERCONTROL
+					LPIMXREADERCONTROL
+					LPLPIMXREADERCONTROL
+			IXMLElementCollection
+				IXMLELEMENTCOLLECTION
+					LPIXMLELEMENTCOLLECTION
+					LPLPIXMLELEMENTCOLLECTION
+			IXMLElement
+				IXMLELEMENT
+					LPIXMLELEMENT
+					LPLPIXMLELEMENT
+			IXMLDocument
+				IXMLDOCUMENT
+					LPIXMLDOCUMENT
+					LPLPIXMLDOCUMENT
+			IXMLElement2
+				IXMLELEMENT2
+					LPIXMLELEMENT2
+					LPLPIXMLELEMENT2
+			IXMLDocument2
+				IXMLDOCUMENT2
+					LPIXMLDOCUMENT2
+					LPLPIXMLDOCUMENT2
+			IXMLAttribute
+				IXMLATTRIBUTE
+					LPIXMLATTRIBUTE
+					LPLPIXMLATTRIBUTE
+			IXMLDOMSelection
+				IXMLDOMSELECTION
+					LPIXMLDOMSELECTION
+					LPLPIXMLDOMSELECTION
+			XMLDOMDocumentEvents
+				XMLDOMDOCUMENTEVENTS
+					LPXMLDOMDOCUMENTEVENTS
+					LPLPXMLDOMDOCUMENTEVENTS
+			IDSOControl
+				IDSOCONTROL
+					LPIDSOCONTROL
+					LPLPIDSOCONTROL
+			IXMLHTTPRequest
+				IXMLHTTPREQUEST
+					LPIXMLHTTPREQUEST
+					LPLPIXMLHTTPREQUEST
+			IServerXMLHTTPRequest
+				ISERVERXMLHTTPREQUEST
+					LPISERVERXMLHTTPREQUEST
+					LPLPISERVERXMLHTTPREQUEST
+			IPCHHelpSessionItem
+				IPCHHELPSESSIONITEM
+					LPIPCHHELPSESSIONITEM
+					LPLPIPCHHELPSESSIONITEM
+			IPCHCollection
+				IPCHCOLLECTION
+					LPIPCHCOLLECTION
+					LPLPIPCHCOLLECTION
+			IPCHHelpSession
+				IPCHHELPSESSION
+					LPIPCHHELPSESSION
+					LPLPIPCHHELPSESSION
+			ISAFReg
+				ISAFREG
+					LPISAFREG
+					LPLPISAFREG
+			IPCHSetOfHelpTopics
+				IPCHSETOFHELPTOPICS
+					LPIPCHSETOFHELPTOPICS
+					LPLPIPCHSETOFHELPTOPICS
+			IPCHFavorites
+				IPCHFAVORITES
+					LPIPCHFAVORITES
+					LPLPIPCHFAVORITES
+			IPCHOptions
+				IPCHOPTIONS
+					LPIPCHOPTIONS
+					LPLPIPCHOPTIONS
+			IPCHUserSettings2
+				IPCHUSERSETTINGS2
+					LPIPCHUSERSETTINGS2
+					LPLPIPCHUSERSETTINGS2
+			IPCHAccessControlEntry
+				IPCHACCESSCONTROLENTRY
+					LPIPCHACCESSCONTROLENTRY
+					LPLPIPCHACCESSCONTROLENTRY
+			IPCHAccessControlList
+				IPCHACCESSCONTROLLIST
+					LPIPCHACCESSCONTROLLIST
+					LPLPIPCHACCESSCONTROLLIST
+			IPCHSecurityDescriptor
+				IPCHSECURITYDESCRIPTOR
+					LPIPCHSECURITYDESCRIPTOR
+					LPLPIPCHSECURITYDESCRIPTOR
+			IPCHSecurity
+				IPCHSECURITY
+					LPIPCHSECURITY
+					LPLPIPCHSECURITY
+			IPCHConnectionCheck
+				IPCHCONNECTIONCHECK
+					LPIPCHCONNECTIONCHECK
+					LPLPIPCHCONNECTIONCHECK
+			IPCHConnectivity
+				IPCHCONNECTIVITY
+					LPIPCHCONNECTIVITY
+					LPLPIPCHCONNECTIVITY
+			IPCHTaxonomyDatabase
+				IPCHTAXONOMYDATABASE
+					LPIPCHTAXONOMYDATABASE
+					LPLPIPCHTAXONOMYDATABASE
+			IPCHParsedURL
+				IPCHPARSEDURL
+					LPIPCHPARSEDURL
+					LPLPIPCHPARSEDURL
+			IPCHTextHelpers
+				IPCHTEXTHELPERS
+					LPIPCHTEXTHELPERS
+					LPLPIPCHTEXTHELPERS
+			IPCHSEManager
+				IPCHSEMANAGER
+					LPIPCHSEMANAGER
+					LPLPIPCHSEMANAGER
+			ISAFDataCollection
+				ISAFDATACOLLECTION
+					LPISAFDATACOLLECTION
+					LPLPISAFDATACOLLECTION
+			ISAFCabinet
+				ISAFCABINET
+					LPISAFCABINET
+					LPLPISAFCABINET
+			ISAFEncrypt
+				ISAFENCRYPT
+					LPISAFENCRYPT
+					LPLPISAFENCRYPT
+			ISAFIncident
+				ISAFINCIDENT
+					LPISAFINCIDENT
+					LPLPISAFINCIDENT
+			ISAFIncidentItem
+				ISAFINCIDENTITEM
+					LPISAFINCIDENTITEM
+					LPLPISAFINCIDENTITEM
+			ISAFChannel
+				ISAFCHANNEL
+					LPISAFCHANNEL
+					LPLPISAFCHANNEL
+			ISAFRemoteDesktopDataChannel
+				ISAFREMOTEDESKTOPDATACHANNEL
+					LPISAFREMOTEDESKTOPDATACHANNEL
+					LPLPISAFREMOTEDESKTOPDATACHANNEL
+			ISAFRemoteDesktopChannelMgr
+				ISAFREMOTEDESKTOPCHANNELMGR
+					LPISAFREMOTEDESKTOPCHANNELMGR
+					LPLPISAFREMOTEDESKTOPCHANNELMGR
+			ISAFRemoteDesktopSession
+				ISAFREMOTEDESKTOPSESSION
+					LPISAFREMOTEDESKTOPSESSION
+					LPLPISAFREMOTEDESKTOPSESSION
+			ISAFRemoteDesktopManager
+				ISAFREMOTEDESKTOPMANAGER
+					LPISAFREMOTEDESKTOPMANAGER
+					LPLPISAFREMOTEDESKTOPMANAGER
+			ISAFRemoteConnectionData
+				ISAFREMOTECONNECTIONDATA
+					LPISAFREMOTECONNECTIONDATA
+					LPLPISAFREMOTECONNECTIONDATA
+			ISAFRemoteDesktopConnection
+				ISAFREMOTEDESKTOPCONNECTION
+					LPISAFREMOTEDESKTOPCONNECTION
+					LPLPISAFREMOTEDESKTOPCONNECTION
+			ISAFIntercomClient
+				ISAFINTERCOMCLIENT
+					LPISAFINTERCOMCLIENT
+					LPLPISAFINTERCOMCLIENT
+			ISAFIntercomServer
+				ISAFINTERCOMSERVER
+					LPISAFINTERCOMSERVER
+					LPLPISAFINTERCOMSERVER
+			IPCHContextMenu
+				IPCHCONTEXTMENU
+					LPIPCHCONTEXTMENU
+					LPLPIPCHCONTEXTMENU
+			IPCHPrintEngine
+				IPCHPRINTENGINE
+					LPIPCHPRINTENGINE
+					LPLPIPCHPRINTENGINE
+			IPCHHelpCenterExternal
+				IPCHHELPCENTEREXTERNAL
+					LPIPCHHELPCENTEREXTERNAL
+					LPLPIPCHHELPCENTEREXTERNAL
+			IPCHEvent
+				IPCHEVENT
+					LPIPCHEVENT
+					LPLPIPCHEVENT
+			IPCHScriptableStream
+				IPCHSCRIPTABLESTREAM
+					LPIPCHSCRIPTABLESTREAM
+					LPLPIPCHSCRIPTABLESTREAM
+			DPCHPrintEngineEvents
+				DPCHPRINTENGINEEVENTS
+					LPDPCHPRINTENGINEEVENTS
+					LPLPDPCHPRINTENGINEEVENTS
+			DSAFIntercomClientEvents
+				DSAFINTERCOMCLIENTEVENTS
+					LPDSAFINTERCOMCLIENTEVENTS
+					LPLPDSAFINTERCOMCLIENTEVENTS
+			DSAFIntercomServerEvents
+				DSAFINTERCOMSERVEREVENTS
+					LPDSAFINTERCOMSERVEREVENTS
+					LPLPDSAFINTERCOMSERVEREVENTS
+			DPCHConnectionCheckEvents
+				DPCHCONNECTIONCHECKEVENTS
+					LPDPCHCONNECTIONCHECKEVENTS
+					LPLPDPCHCONNECTIONCHECKEVENTS
+			IPCHToolBar
+				IPCHTOOLBAR
+					LPIPCHTOOLBAR
+					LPLPIPCHTOOLBAR
+			DPCHToolBarEvents
+				DPCHTOOLBAREVENTS
+					LPDPCHTOOLBAREVENTS
+					LPLPDPCHTOOLBAREVENTS
+			IPCHProgressBar
+				IPCHPROGRESSBAR
+					LPIPCHPROGRESSBAR
+					LPLPIPCHPROGRESSBAR
+			IPCHHelpViewerWrapper
+				IPCHHELPVIEWERWRAPPER
+					LPIPCHHELPVIEWERWRAPPER
+					LPLPIPCHHELPVIEWERWRAPPER
+			IPCHHelpHost
+				IPCHHELPHOST
+					LPIPCHHELPHOST
+					LPLPIPCHHELPHOST
+			ITextStream
+				ITEXTSTREAM
+				LPITEXTSTREAM
+				LPLPITEXTSTREAM
+			IWshCollection
+				IWSHCOLLECTION
+				LPIWSHCOLLECTION
+				LPLPIWSHCOLLECTION
+			IWshEnvironment
+				IWSHENVIRONMENT
+				LPIWSHENVIRONMENT
+				LPLPIWSHENVIRONMENT
+			IWshShell
+				IWSHSHELL
+				LPIWSHSHELL
+				LPLPIWSHSHELL
+			IWshShell2
+				IWSHSHELL2
+				LPIWSHSHELL2
+				LPLPIWSHSHELL2
+			IWshExec
+				IWSHEXEC
+				LPIWSHEXEC
+				LPLPIWSHEXEC
+			IWshShell3
+				IWSHSHELL3
+				LPIWSHSHELL3
+				LPLPIWSHSHELL3
+			IWshShortcut
+				IWSHSHORTCUT
+				LPIWSHSHORTCUT
+				LPLPIWSHSHORTCUT
+			IWshNetwork
+				IWSHNETWORK
+				LPIWSHNETWORK
+				LPLPIWSHNETWORK
+			IWshNetwork2
+				IWSHNETWORK2
+				LPIWSHNETWORK2
+				LPLPIWSHNETWORK2
+			IWshURLShortcut
+				IWSHURLSHORTCUT
+				LPIWSHURLSHORTCUT
+				LPLPIWSHURLSHORTCUT
+			IFolderCollection
+				IFOLDERCOLLECTION
+				LPIFOLDERCOLLECTION
+				LPLPIFOLDERCOLLECTION
+			IFile
+				IFILE
+				LPIFILE
+				LPLPIFILE
+			IFileCollection
+				IFILECOLLECTION
+				LPIFILECOLLECTION
+				LPLPIFILECOLLECTION
+			IFolder
+				IFOLDER
+				LPIFOLDER
+				LPLPIFOLDER
+			IDrive
+				IDRIVE
+				LPIDRIVE
+				LPLPIDRIVE
+			IDriveCollection
+				IDRIVECOLLECTION
+				LPIDRIVECOLLECTION
+				LPLPIDRIVECOLLECTION
+			IFileSystem
+				IFILESYSTEM
+				LPIFILESYSTEM
+				LPLPIFILESYSTEM
+			IFileSystem3
+				IFILESYSTEM3
+				LPIFILESYSTEM3
+				LPLPIFILESYSTEM3
+			ICOMAdminCatalog2
+				ICOMADMINCATALOG2
+				LPICOMADMINCATALOG2
+				LPLPICOMADMINCATALOG2
+			ICOMAdminCatalog
+				ICOMADMINCATALOG
+				LPICOMADMINCATALOG
+				LPLPICOMADMINCATALOG
+			ICatalogObject
+				ICATALOGOBJECT
+				LPICATALOGOBJECT
+				LPLPICATALOGOBJECT
+			ICatalogCollection
+				ICATALOGCOLLECTION
+				LPICATALOGCOLLECTION
+				LPLPICATALOGCOLLECTION
+			IAgentCtlBalloon
+				IAGENTCTLBALLOON
+				LPIAGENTCTLBALLOON
+				LPLPIAGENTCTLBALLOON
+			IAgentCtlCommand
+				IAGENTCTLCOMMAND
+				LPIAGENTCTLCOMMAND
+				LPLPIAGENTCTLCOMMAND
+			IAgentCtlCommands
+				IAGENTCTLCOMMANDS
+				LPIAGENTCTLCOMMANDS
+				LPLPIAGENTCTLCOMMANDS
+			IAgentCtlRequest
+				IAGENTCTLREQUEST
+				LPIAGENTCTLREQUEST
+				LPLPIAGENTCTLREQUEST
+			IAgentCtlCharacter
+				IAGENTCTLCHARACTER
+				LPIAGENTCTLCHARACTER
+				LPLPIAGENTCTLCHARACTER
+			IAgentCtlCharacters
+				IAGENTCTLCHARACTERS
+				LPIAGENTCTLCHARACTERS
+				LPLPIAGENTCTLCHARACTERS
+			IAgentCtlAudioObject
+				IAGENTCTLAUDIOOBJECT
+				LPIAGENTCTLAUDIOOBJECT
+				LPLPIAGENTCTLAUDIOOBJECT
+			IAgentCtlSpeechInput
+				IAGENTCTLSPEECHINPUT
+				LPIAGENTCTLSPEECHINPUT
+				LPLPIAGENTCTLSPEECHINPUT
+			IAgentCtlPropertySheet
+				IAGENTCTLPROPERTYSHEET
+				LPIAGENTCTLPROPERTYSHEET
+				LPLPIAGENTCTLPROPERTYSHEET
+			IAgentCtlUserInput
+				IAGENTCTLUSERINPUT
+				LPIAGENTCTLUSERINPUT
+				LPLPIAGENTCTLUSERINPUT
+			IAgentCtlCommandsWindow
+				IAGENTCTLCOMMANDSWINDOW
+				LPIAGENTCTLCOMMANDSWINDOW
+				LPLPIAGENTCTLCOMMANDSWINDOW
+			_AgentEvents
+				_AGENTEVENTS
+				LP_AGENTEVENTS
+				LPLP_AGENTEVENTS
+			IAgentCtl
+				IAGENTCTL
+				LPIAGENTCTL
+				LPLPIAGENTCTL
+			ITDirectoryObject
+				ITDIRECTORYOBJECT
+				LPITDIRECTORYOBJECT
+				LPLPITDIRECTORYOBJECT
+			ITDirectory
+				ITDIRECTORY
+				LPITDIRECTORY
+				LPLPITDIRECTORY
+			ITRendezvous
+				ITRENDEZVOUS
+				LPITRENDEZVOUS
+				LPLPITRENDEZVOUS
+			ITDirectoryObjectConference
+				ITDIRECTORYOBJECTCONFERENCE
+				LPITDIRECTORYOBJECTCONFERENCE
+				LPLPITDIRECTORYOBJECTCONFERENCE
+			ITDirectoryObjectUser
+				ITDIRECTORYOBJECTUSER
+				LPITDIRECTORYOBJECTUSER
+				LPLPITDIRECTORYOBJECTUSER
+			ITILSConfig
+				ITILSCONFIG
+				LPITILSCONFIG
+				LPLPITILSCONFIG
+			IPgCntObj
+				IPGCNTOBJ
+					LPIPGCNTOBJ
+					LPLPIPGCNTOBJ
+			IMSInfo
+				IMSINFO
+				LPIMSINFO
+				LPLPIMSINFO
+			IMSPID
+				LPIMSPID
+				LPLPIMSPID
+			IMarsPanel
+				IMARSPANEL
+				LPIMARSPANEL
+				LPLPIMARSPANEL
+			IMarsPanelCollection
+				IMARSPANELCOLLECTION
+				LPIMARSPANELCOLLECTION
+				LPLPIMARSPANELCOLLECTION
+			IMarsPlace
+				IMARSPLACE
+				LPIMARSPLACE
+				LPLPIMARSPLACE
+			IMarsPlaceCollection
+				IMARSPLACECOLLECTION
+				LPIMARSPLACECOLLECTION
+				LPLPIMARSPLACECOLLECTION
+			IMarsWindowOM
+				IMARSWINDOWOM
+				LPIMARSWINDOWOM
+				LPLPIMARSWINDOWOM
+			IMarsExternal
+				IMARSEXTERNAL
+				LPIMARSEXTERNAL
+				LPLPIMARSEXTERNAL
+			IPCHVersionItem
+				IPCHVERSIONITEM
+				LPIPCHVERSIONITEM
+				LPLPIPCHVERSIONITEM
+			IPCHUpdate
+				IPCHUPDATE
+				LPIPCHUPDATE
+				LPLPIPCHUPDATE
+			IPCHUserSettings
+				IPCHUSERSETTINGS
+				LPIPCHUSERSETTINGS
+				LPLPIPCHUSERSETTINGS
+			IPCHUtility
+				IPCHUTILITY
+				LPIPCHUTILITY
+				LPLPIPCHUTILITY
+			IPCHRemoteHelpContents
+				IPCHREMOTEHELPCONTENTS
+				LPIPCHREMOTEHELPCONTENTS
+				LPLPIPCHREMOTEHELPCONTENTS
+			IPCHService
+				IPCHSERVICE
+				LPIPCHSERVICE
+				LPLPIPCHSERVICE
+			DSAFDataCollectionEvents
+				DSAFDATACOLLECTIONEVENTS
+				LPDSAFDATACOLLECTIONEVENTS
+				LPLPDSAFDATACOLLECTIONEVENTS
+			ISAFDataCollectionReport
+				ISAFDATACOLLECTIONREPORT
+				LPISAFDATACOLLECTIONREPORT
+				LPLPISAFDATACOLLECTIONREPORT
+			DSAFCabinetEvents
+				DSAFCABINETEVENTS
+				LPDSAFCABINETEVENTS
+				LPLPDSAFCABINETEVENTS
+			ISAFUser
+				ISAFUSER
+				LPISAFUSER
+				LPLPISAFUSER
+			ISAFSession
+				ISAFSESSION
+				LPISAFSESSION
+				LPLPISAFSESSION
+			IPCHQueryResult
+				IPCHQUERYRESULT
+				LPIPCHQUERYRESULT
+				LPLPIPCHQUERYRESULT
+			DPCHSetOfHelpTopicsEvents
+				DPCHSETOFHELPTOPICSEVENTS
+				LPDPCHSETOFHELPTOPICSEVENTS
+				LPLPDPCHSETOFHELPTOPICSEVENTS
+			IPCHSEWrapperItem
+				IPCHSEWRAPPERITEM
+				LPIPCHSEWRAPPERITEM
+				LPLPIPCHSEWRAPPERITEM
+			IPCHSEResultItem
+				IPCHSERESULTITEM
+				LPIPCHSERESULTITEM
+				LPLPIPCHSERESULTITEM
+			IPCHSEManagerInternal
+				IPCHSEMANAGERINTERNAL
+				LPIPCHSEMANAGERINTERNAL
+				LPLPIPCHSEMANAGERINTERNAL
+			IPCHSEWrapperInternal
+				IPCHSEWRAPPERINTERNAL
+				LPIPCHSEWRAPPERINTERNAL
+				LPLPIPCHSEWRAPPERINTERNAL
+			DPCHSEMgrEvents
+				DPCHSEMGREVENTS
+				LPDPCHSEMGREVENTS
+				LPLPDPCHSEMGREVENTS
+			IPCHSlaveProcess
+				IPCHSLAVEPROCESS
+				LPIPCHSLAVEPROCESS
+				LPLPIPCHSLAVEPROCESS
+			IPCHActiveScriptSite
+				IPCHACTIVESCRIPTSITE
+				LPIPCHACTIVESCRIPTSITE
+				LPLPIPCHACTIVESCRIPTSITE
+			IPCHActiveScript
+				IPCHACTIVESCRIPT
+				LPIPCHACTIVESCRIPT
+				LPLPIPCHACTIVESCRIPT
+			ISAFChannelNotifyIncident
+				ISAFCHANNELNOTIFYINCIDENT
+				LPISAFCHANNELNOTIFYINCIDENT
+				LPLPISAFCHANNELNOTIFYINCIDENT
+			IPCHSEParamItem
+				IPCHSEPARAMITEM
+				LPIPCHSEPARAMITEM
+				LPLPIPCHSEPARAMITEM
+			IHTMLStyle
+				IHTMLSTYLE
+					LPIHTMLSTYLE
+					LPLPIHTMLSTYLE
+			IHTMLFiltersCollection
+				IHTMLFILTERSCOLLECTION
+					LPIHTMLFILTERSCOLLECTION
+					LPLPIHTMLFILTERSCOLLECTION
+			IHTMLElement
+				IHTMLELEMENT
+					LPIHTMLELEMENT
+					LPLPIHTMLELEMENT
+			IHTMLEventObj
+				IHTMLEVENTOBJ
+					LPIHTMLEVENTOBJ
+					LPLPIHTMLEVENTOBJ
+			IHTMLStyle2
+				IHTMLSTYLE2
+					LPIHTMLSTYLE2
+					LPLPIHTMLSTYLE2
+			IHTMLStyle3
+				IHTMLSTYLE3
+					LPIHTMLSTYLE3
+					LPLPIHTMLSTYLE3
+			IHTMLStyle4
+				IHTMLSTYLE4
+					LPIHTMLSTYLE4
+					LPLPIHTMLSTYLE4
+			IHTMLRuleStyle
+				IHTMLRULESTYLE
+					LPIHTMLRULESTYLE
+					LPLPIHTMLRULESTYLE
+			IHTMLRuleStyle2
+				IHTMLRULESTYLE2
+					LPIHTMLRULESTYLE2
+					LPLPIHTMLRULESTYLE2
+			IHTMLRuleStyle3
+				IHTMLRULESTYLE3
+					LPIHTMLRULESTYLE3
+					LPLPIHTMLRULESTYLE3
+			IHTMLRuleStyle4
+				IHTMLRULESTYLE4
+					LPIHTMLRULESTYLE4
+					LPLPIHTMLRULESTYLE4
+			DispHTMLStyle
+				DISPHTMLSTYLE
+					LPDISPHTMLSTYLE
+					LPLPDISPHTMLSTYLE
+			DispHTMLRuleStyle
+				DISPHTMLRULESTYLE
+					LPDISPHTMLRULESTYLE
+					LPLPDISPHTMLRULESTYLE
+			IHTMLRenderStyle
+				IHTMLRENDERSTYLE
+					LPIHTMLRENDERSTYLE
+					LPLPIHTMLRENDERSTYLE
+			DispHTMLRenderStyle
+				DISPHTMLRENDERSTYLE
+					LPDISPHTMLRENDERSTYLE
+					LPLPDISPHTMLRENDERSTYLE
+			IHTMLCurrentStyle
+				IHTMLCURRENTSTYLE
+					LPIHTMLCURRENTSTYLE
+					LPLPIHTMLCURRENTSTYLE
+			IHTMLCurrentStyle2
+				IHTMLCURRENTSTYLE2
+					LPIHTMLCURRENTSTYLE2
+					LPLPIHTMLCURRENTSTYLE2
+			IHTMLCurrentStyle3
+				IHTMLCURRENTSTYLE3
+					LPIHTMLCURRENTSTYLE3
+					LPLPIHTMLCURRENTSTYLE3
+			DispHTMLCurrentStyle
+				DISPHTMLCURRENTSTYLE
+					LPDISPHTMLCURRENTSTYLE
+					LPLPDISPHTMLCURRENTSTYLE
+			IHTMLRect
+				IHTMLRECT
+					LPIHTMLRECT
+					LPLPIHTMLRECT
+			IHTMLRectCollection
+				IHTMLRECTCOLLECTION
+					LPIHTMLRECTCOLLECTION
+					LPLPIHTMLRECTCOLLECTION
+			IHTMLDOMNode
+				IHTMLDOMNODE
+					LPIHTMLDOMNODE
+					LPLPIHTMLDOMNODE
+			IHTMLDOMNode2
+				IHTMLDOMNODE2
+					LPIHTMLDOMNODE2
+					LPLPIHTMLDOMNODE2
+			IHTMLDOMAttribute
+				IHTMLDOMATTRIBUTE
+					LPIHTMLDOMATTRIBUTE
+					LPLPIHTMLDOMATTRIBUTE
+			IHTMLDOMAttribute2
+				IHTMLDOMATTRIBUTE2
+					LPIHTMLDOMATTRIBUTE2
+					LPLPIHTMLDOMATTRIBUTE2
+			IHTMLDOMTextNode
+				IHTMLDOMTEXTNODE
+					LPIHTMLDOMTEXTNODE
+					LPLPIHTMLDOMTEXTNODE
+			IHTMLDOMTextNode2
+				IHTMLDOMTEXTNODE2
+					LPIHTMLDOMTEXTNODE2
+					LPLPIHTMLDOMTEXTNODE2
+			IHTMLDOMImplementation
+				IHTMLDOMIMPLEMENTATION
+					LPIHTMLDOMIMPLEMENTATION
+					LPLPIHTMLDOMIMPLEMENTATION
+			DispHTMLDOMAttribute
+				DISPHTMLDOMATTRIBUTE
+					LPDISPHTMLDOMATTRIBUTE
+					LPLPDISPHTMLDOMATTRIBUTE
+			DispHTMLDOMTextNode
+				DISPHTMLDOMTEXTNODE
+					LPDISPHTMLDOMTEXTNODE
+					LPLPDISPHTMLDOMTEXTNODE
+			DispHTMLDOMImplementation
+				DISPHTMLDOMIMPLEMENTATION
+					LPDISPHTMLDOMIMPLEMENTATION
+					LPLPDISPHTMLDOMIMPLEMENTATION
+			IHTMLAttributeCollection
+				IHTMLATTRIBUTECOLLECTION
+					LPIHTMLATTRIBUTECOLLECTION
+					LPLPIHTMLATTRIBUTECOLLECTION
+			IHTMLAttributeCollection2
+				IHTMLATTRIBUTECOLLECTION2
+					LPIHTMLATTRIBUTECOLLECTION2
+					LPLPIHTMLATTRIBUTECOLLECTION2
+			IHTMLDOMChildrenCollection
+				IHTMLDOMCHILDRENCOLLECTION
+					LPIHTMLDOMCHILDRENCOLLECTION
+					LPLPIHTMLDOMCHILDRENCOLLECTION
+			DispHTMLAttributeCollection
+				DISPHTMLATTRIBUTECOLLECTION
+					LPDISPHTMLATTRIBUTECOLLECTION
+					LPLPDISPHTMLATTRIBUTECOLLECTION
+			DispDOMChildrenCollection
+				DISPDOMCHILDRENCOLLECTION
+					LPDISPDOMCHILDRENCOLLECTION
+					LPLPDISPDOMCHILDRENCOLLECTION
+			HTMLElementEvents2
+				HTMLELEMENTEVENTS2
+					LPHTMLELEMENTEVENTS2
+					LPLPHTMLELEMENTEVENTS2
+			HTMLElementEvents
+				HTMLELEMENTEVENTS
+					LPHTMLELEMENTEVENTS
+					LPLPHTMLELEMENTEVENTS
+			IHTMLElementCollection
+				IHTMLELEMENTCOLLECTION
+					LPIHTMLELEMENTCOLLECTION
+					LPLPIHTMLELEMENTCOLLECTION
+			IHTMLElement2
+				IHTMLELEMENT2
+					LPIHTMLELEMENT2
+					LPLPIHTMLELEMENT2
+			IHTMLElement3
+				IHTMLELEMENT3
+					LPIHTMLELEMENT3
+					LPLPIHTMLELEMENT3
+			IHTMLElement4
+				IHTMLELEMENT4
+					LPIHTMLELEMENT4
+					LPLPIHTMLELEMENT4
+			IHTMLUniqueName
+				IHTMLUNIQUENAME
+					LPIHTMLUNIQUENAME
+					LPLPIHTMLUNIQUENAME
+			IHTMLDatabinding
+				IHTMLDATABINDING
+					LPIHTMLDATABINDING
+					LPLPIHTMLDATABINDING
+			IHTMLDocument
+				IHTMLDOCUMENT
+					LPIHTMLDOCUMENT
+					LPLPIHTMLDOCUMENT
+			IHTMLElementDefaults
+				IHTMLELEMENTDEFAULTS
+					LPIHTMLELEMENTDEFAULTS
+					LPLPIHTMLELEMENTDEFAULTS
+			DispHTMLDefaults
+				DISPHTMLDEFAULTS
+					LPDISPHTMLDEFAULTS
+					LPLPDISPHTMLDEFAULTS
+			IHTCDefaultDispatch
+				IHTCDEFAULTDISPATCH
+					LPIHTCDEFAULTDISPATCH
+					LPLPIHTCDEFAULTDISPATCH
+			IHTCPropertyBehavior
+				IHTCPROPERTYBEHAVIOR
+					LPIHTCPROPERTYBEHAVIOR
+					LPLPIHTCPROPERTYBEHAVIOR
+			IHTCEventBehavior
+				IHTCEVENTBEHAVIOR
+					LPIHTCEVENTBEHAVIOR
+					LPLPIHTCEVENTBEHAVIOR
+			IHTCAttachBehavior
+				IHTCATTACHBEHAVIOR
+					LPIHTCATTACHBEHAVIOR
+					LPLPIHTCATTACHBEHAVIOR
+			IHTCAttachBehavior2
+				IHTCATTACHBEHAVIOR2
+					LPIHTCATTACHBEHAVIOR2
+					LPLPIHTCATTACHBEHAVIOR2
+			IHTCDescBehavior
+				IHTCDESCBEHAVIOR
+					LPIHTCDESCBEHAVIOR
+					LPLPIHTCDESCBEHAVIOR
+			DispHTCDefaultDispatch
+				DISPHTCDEFAULTDISPATCH
+					LPDISPHTCDEFAULTDISPATCH
+					LPLPDISPHTCDEFAULTDISPATCH
+			DispHTCPropertyBehavior
+				DISPHTCPROPERTYBEHAVIOR
+					LPDISPHTCPROPERTYBEHAVIOR
+					LPLPDISPHTCPROPERTYBEHAVIOR
+			DispHTCEventBehavior
+				DISPHTCEVENTBEHAVIOR
+					LPDISPHTCEVENTBEHAVIOR
+					LPLPDISPHTCEVENTBEHAVIOR
+			DispHTCAttachBehavior
+				DISPHTCATTACHBEHAVIOR
+					LPDISPHTCATTACHBEHAVIOR
+					LPLPDISPHTCATTACHBEHAVIOR
+			DispHTCDescBehavior
+				DISPHTCDESCBEHAVIOR
+					LPDISPHTCDESCBEHAVIOR
+					LPLPDISPHTCDESCBEHAVIOR
+			IHTMLUrnCollection
+				IHTMLURNCOLLECTION
+					LPIHTMLURNCOLLECTION
+					LPLPIHTMLURNCOLLECTION
+			IHTMLGenericElement
+				IHTMLGENERICELEMENT
+					LPIHTMLGENERICELEMENT
+					LPLPIHTMLGENERICELEMENT
+			DispHTMLGenericElement
+				DISPHTMLGENERICELEMENT
+					LPDISPHTMLGENERICELEMENT
+					LPLPDISPHTMLGENERICELEMENT
+			IHTMLStyleSheetRule
+				IHTMLSTYLESHEETRULE
+					LPIHTMLSTYLESHEETRULE
+					LPLPIHTMLSTYLESHEETRULE
+			IHTMLStyleSheetRulesCollection
+				IHTMLSTYLESHEETRULESCOLLECTION
+					LPIHTMLSTYLESHEETRULESCOLLECTION
+					LPLPIHTMLSTYLESHEETRULESCOLLECTION
+			IHTMLStyleSheetPage
+				IHTMLSTYLESHEETPAGE
+					LPIHTMLSTYLESHEETPAGE
+					LPLPIHTMLSTYLESHEETPAGE
+			IHTMLStyleSheetPagesCollection
+				IHTMLSTYLESHEETPAGESCOLLECTION
+					LPIHTMLSTYLESHEETPAGESCOLLECTION
+					LPLPIHTMLSTYLESHEETPAGESCOLLECTION
+			IHTMLStyleSheetsCollection
+				IHTMLSTYLESHEETSCOLLECTION
+					LPIHTMLSTYLESHEETSCOLLECTION
+					LPLPIHTMLSTYLESHEETSCOLLECTION
+			IHTMLStyleSheet
+				IHTMLSTYLESHEET
+					LPIHTMLSTYLESHEET
+					LPLPIHTMLSTYLESHEET
+			IHTMLStyleSheet2
+				IHTMLSTYLESHEET2
+					LPIHTMLSTYLESHEET2
+					LPLPIHTMLSTYLESHEET2
+			DispHTMLStyleSheet
+				DISPHTMLSTYLESHEET
+					LPDISPHTMLSTYLESHEET
+					LPLPDISPHTMLSTYLESHEET
+			HTMLLinkElementEvents2
+				HTMLLINKELEMENTEVENTS2
+					LPHTMLLINKELEMENTEVENTS2
+					LPLPHTMLLINKELEMENTEVENTS2
+			HTMLLinkElementEvents
+				HTMLLINKELEMENTEVENTS
+					LPHTMLLINKELEMENTEVENTS
+					LPLPHTMLLINKELEMENTEVENTS
+			IHTMLLinkElement
+				IHTMLLINKELEMENT
+					LPIHTMLLINKELEMENT
+					LPLPIHTMLLINKELEMENT
+			IHTMLLinkElement2
+				IHTMLLINKELEMENT2
+					LPIHTMLLINKELEMENT2
+					LPLPIHTMLLINKELEMENT2
+			IHTMLLinkElement3
+				IHTMLLINKELEMENT3
+					LPIHTMLLINKELEMENT3
+					LPLPIHTMLLINKELEMENT3
+			DispHTMLLinkElement
+				DISPHTMLLINKELEMENT
+					LPDISPHTMLLINKELEMENT
+					LPLPDISPHTMLLINKELEMENT
+			IHTMLTxtRange
+				IHTMLTXTRANGE
+					LPIHTMLTXTRANGE
+					LPLPIHTMLTXTRANGE
+			IHTMLTextRangeMetrics
+				IHTMLTEXTRANGEMETRICS
+					LPIHTMLTEXTRANGEMETRICS
+					LPLPIHTMLTEXTRANGEMETRICS
+			IHTMLTextRangeMetrics2
+				IHTMLTEXTRANGEMETRICS2
+					LPIHTMLTEXTRANGEMETRICS2
+					LPLPIHTMLTEXTRANGEMETRICS2
+			IHTMLTxtRangeCollection
+				IHTMLTXTRANGECOLLECTION
+					LPIHTMLTXTRANGECOLLECTION
+					LPLPIHTMLTXTRANGECOLLECTION
+			HTMLFormElementEvents2
+				HTMLFORMELEMENTEVENTS2
+					LPHTMLFORMELEMENTEVENTS2
+					LPLPHTMLFORMELEMENTEVENTS2
+			HTMLFormElementEvents
+				HTMLFORMELEMENTEVENTS
+					LPHTMLFORMELEMENTEVENTS
+					LPLPHTMLFORMELEMENTEVENTS
+			IHTMLFormElement
+				IHTMLFORMELEMENT
+					LPIHTMLFORMELEMENT
+					LPLPIHTMLFORMELEMENT
+			IHTMLFormElement2
+				IHTMLFORMELEMENT2
+					LPIHTMLFORMELEMENT2
+					LPLPIHTMLFORMELEMENT2
+			IHTMLFormElement3
+				IHTMLFORMELEMENT3
+					LPIHTMLFORMELEMENT3
+					LPLPIHTMLFORMELEMENT3
+			IHTMLSubmitData
+				IHTMLSUBMITDATA
+					LPIHTMLSUBMITDATA
+					LPLPIHTMLSUBMITDATA
+			DispHTMLFormElement
+				DISPHTMLFORMELEMENT
+					LPDISPHTMLFORMELEMENT
+					LPLPDISPHTMLFORMELEMENT
+			HTMLControlElementEvents2
+				HTMLCONTROLELEMENTEVENTS2
+					LPHTMLCONTROLELEMENTEVENTS2
+					LPLPHTMLCONTROLELEMENTEVENTS2
+			HTMLControlElementEvents
+				HTMLCONTROLELEMENTEVENTS
+					LPHTMLCONTROLELEMENTEVENTS
+					LPLPHTMLCONTROLELEMENTEVENTS
+			IHTMLControlElement
+				IHTMLCONTROLELEMENT
+					LPIHTMLCONTROLELEMENT
+					LPLPIHTMLCONTROLELEMENT
+			DispHTMLTextElement
+				DISPHTMLTEXTELEMENT
+					LPDISPHTMLTEXTELEMENT
+					LPLPDISPHTMLTEXTELEMENT
+			HTMLTextContainerEvents2
+				HTMLTEXTCONTAINEREVENTS2
+					LPHTMLTEXTCONTAINEREVENTS2
+					LPLPHTMLTEXTCONTAINEREVENTS2
+			HTMLTextContainerEvents
+				HTMLTEXTCONTAINEREVENTS
+					LPHTMLTEXTCONTAINEREVENTS
+					LPLPHTMLTEXTCONTAINEREVENTS
+			IHTMLTextContainer
+				IHTMLTEXTCONTAINER
+					LPIHTMLTEXTCONTAINER
+					LPLPIHTMLTEXTCONTAINER
+			IHTMLControlRange
+				IHTMLCONTROLRANGE
+					LPIHTMLCONTROLRANGE
+					LPLPIHTMLCONTROLRANGE
+			IHTMLControlRange2
+				IHTMLCONTROLRANGE2
+					LPIHTMLCONTROLRANGE2
+					LPLPIHTMLCONTROLRANGE2
+			HTMLImgEvents2
+				HTMLIMGEVENTS2
+					LPHTMLIMGEVENTS2
+					LPLPHTMLIMGEVENTS2
+			HTMLImgEvents
+				HTMLIMGEVENTS
+					LPHTMLIMGEVENTS
+					LPLPHTMLIMGEVENTS
+			IHTMLImgElement
+				IHTMLIMGELEMENT
+					LPIHTMLIMGELEMENT
+					LPLPIHTMLIMGELEMENT
+			IHTMLImgElement2
+				IHTMLIMGELEMENT2
+					LPIHTMLIMGELEMENT2
+					LPLPIHTMLIMGELEMENT2
+			IHTMLImageElementFactory
+				IHTMLIMAGEELEMENTFACTORY
+					LPIHTMLIMAGEELEMENTFACTORY
+					LPLPIHTMLIMAGEELEMENTFACTORY
+			DispHTMLImg
+				DISPHTMLIMG
+					LPDISPHTMLIMG
+					LPLPDISPHTMLIMG
+			IHTMLBodyElement
+				IHTMLBODYELEMENT
+					LPIHTMLBODYELEMENT
+					LPLPIHTMLBODYELEMENT
+			IHTMLBodyElement2
+				IHTMLBODYELEMENT2
+					LPIHTMLBODYELEMENT2
+					LPLPIHTMLBODYELEMENT2
+			DispHTMLBody
+				DISPHTMLBODY
+					LPDISPHTMLBODY
+					LPLPDISPHTMLBODY
+			IHTMLFontElement
+				IHTMLFONTELEMENT
+					LPIHTMLFONTELEMENT
+					LPLPIHTMLFONTELEMENT
+			DispHTMLFontElement
+				DISPHTMLFONTELEMENT
+					LPDISPHTMLFONTELEMENT
+					LPLPDISPHTMLFONTELEMENT
+			HTMLAnchorEvents2
+				HTMLANCHOREVENTS2
+					LPHTMLANCHOREVENTS2
+					LPLPHTMLANCHOREVENTS2
+			HTMLAnchorEvents
+				HTMLANCHOREVENTS
+					LPHTMLANCHOREVENTS
+					LPLPHTMLANCHOREVENTS
+			IHTMLAnchorElement
+				IHTMLANCHORELEMENT
+					LPIHTMLANCHORELEMENT
+					LPLPIHTMLANCHORELEMENT
+			IHTMLAnchorElement2
+				IHTMLANCHORELEMENT2
+					LPIHTMLANCHORELEMENT2
+					LPLPIHTMLANCHORELEMENT2
+			DispHTMLAnchorElement
+				DISPHTMLANCHORELEMENT
+					LPDISPHTMLANCHORELEMENT
+					LPLPDISPHTMLANCHORELEMENT
+			HTMLLabelEvents2
+				HTMLLABELEVENTS2
+					LPHTMLLABELEVENTS2
+					LPLPHTMLLABELEVENTS2
+			HTMLLabelEvents
+				HTMLLABELEVENTS
+					LPHTMLLABELEVENTS
+					LPLPHTMLLABELEVENTS
+			IHTMLLabelElement
+				IHTMLLABELELEMENT
+					LPIHTMLLABELELEMENT
+					LPLPIHTMLLABELELEMENT
+			IHTMLLabelElement2
+				IHTMLLABELELEMENT2
+					LPIHTMLLABELELEMENT2
+					LPLPIHTMLLABELELEMENT2
+			DispHTMLLabelElement
+				DISPHTMLLABELELEMENT
+					LPDISPHTMLLABELELEMENT
+					LPLPDISPHTMLLABELELEMENT
+			IHTMLListElement2
+				IHTMLLISTELEMENT2
+					LPIHTMLLISTELEMENT2
+					LPLPIHTMLLISTELEMENT2
+			DispHTMLListElement
+				DISPHTMLLISTELEMENT
+					LPDISPHTMLLISTELEMENT
+					LPLPDISPHTMLLISTELEMENT
+			IHTMLUListElement
+				IHTMLULISTELEMENT
+					LPIHTMLULISTELEMENT
+					LPLPIHTMLULISTELEMENT
+			DispHTMLUListElement
+				DISPHTMLULISTELEMENT
+					LPDISPHTMLULISTELEMENT
+					LPLPDISPHTMLULISTELEMENT
+			IHTMLOListElement
+				IHTMLOLISTELEMENT
+					LPIHTMLOLISTELEMENT
+					LPLPIHTMLOLISTELEMENT
+			DispHTMLOListElement
+				DISPHTMLOLISTELEMENT
+					LPDISPHTMLOLISTELEMENT
+					LPLPDISPHTMLOLISTELEMENT
+			IHTMLLIElement
+				IHTMLLIELEMENT
+					LPIHTMLLIELEMENT
+					LPLPIHTMLLIELEMENT
+			DispHTMLLIElement
+				DISPHTMLLIELEMENT
+					LPDISPHTMLLIELEMENT
+					LPLPDISPHTMLLIELEMENT
+			IHTMLBlockElement
+				IHTMLBLOCKELEMENT
+					LPIHTMLBLOCKELEMENT
+					LPLPIHTMLBLOCKELEMENT
+			IHTMLBlockElement2
+				IHTMLBLOCKELEMENT2
+					LPIHTMLBLOCKELEMENT2
+					LPLPIHTMLBLOCKELEMENT2
+			DispHTMLBlockElement
+				DISPHTMLBLOCKELEMENT
+					LPDISPHTMLBLOCKELEMENT
+					LPLPDISPHTMLBLOCKELEMENT
+			IHTMLDivElement
+				IHTMLDIVELEMENT
+					LPIHTMLDIVELEMENT
+					LPLPIHTMLDIVELEMENT
+			DispHTMLDivElement
+				DISPHTMLDIVELEMENT
+					LPDISPHTMLDIVELEMENT
+					LPLPDISPHTMLDIVELEMENT
+			IHTMLDDElement
+				IHTMLDDELEMENT
+					LPIHTMLDDELEMENT
+					LPLPIHTMLDDELEMENT
+			DispHTMLDDElement
+				DISPHTMLDDELEMENT
+					LPDISPHTMLDDELEMENT
+					LPLPDISPHTMLDDELEMENT
+			IHTMLDTElement
+				IHTMLDTELEMENT
+					LPIHTMLDTELEMENT
+					LPLPIHTMLDTELEMENT
+			DispHTMLDTElement
+				DISPHTMLDTELEMENT
+					LPDISPHTMLDTELEMENT
+					LPLPDISPHTMLDTELEMENT
+			IHTMLBRElement
+				IHTMLBRELEMENT
+					LPIHTMLBRELEMENT
+					LPLPIHTMLBRELEMENT
+			DispHTMLBRElement
+				DISPHTMLBRELEMENT
+					LPDISPHTMLBRELEMENT
+					LPLPDISPHTMLBRELEMENT
+			IHTMLDListElement
+				IHTMLDLISTELEMENT
+					LPIHTMLDLISTELEMENT
+					LPLPIHTMLDLISTELEMENT
+			DispHTMLDListElement
+				DISPHTMLDLISTELEMENT
+					LPDISPHTMLDLISTELEMENT
+					LPLPDISPHTMLDLISTELEMENT
+			IHTMLHRElement
+				IHTMLHRELEMENT
+					LPIHTMLHRELEMENT
+					LPLPIHTMLHRELEMENT
+			DispHTMLHRElement
+				DISPHTMLHRELEMENT
+					LPDISPHTMLHRELEMENT
+					LPLPDISPHTMLHRELEMENT
+			IHTMLParaElement
+				IHTMLPARAELEMENT
+					LPIHTMLPARAELEMENT
+					LPLPIHTMLPARAELEMENT
+			DispHTMLParaElement
+				DISPHTMLPARAELEMENT
+					LPDISPHTMLPARAELEMENT
+					LPLPDISPHTMLPARAELEMENT
+			IHTMLElementCollection2
+				IHTMLELEMENTCOLLECTION2
+					LPIHTMLELEMENTCOLLECTION2
+					LPLPIHTMLELEMENTCOLLECTION2
+			IHTMLElementCollection3
+				IHTMLELEMENTCOLLECTION3
+					LPIHTMLELEMENTCOLLECTION3
+					LPLPIHTMLELEMENTCOLLECTION3
+			DispHTMLElementCollection
+				DISPHTMLELEMENTCOLLECTION
+					LPDISPHTMLELEMENTCOLLECTION
+					LPLPDISPHTMLELEMENTCOLLECTION
+			IHTMLHeaderElement
+				IHTMLHEADERELEMENT
+					LPIHTMLHEADERELEMENT
+					LPLPIHTMLHEADERELEMENT
+			DispHTMLHeaderElement
+				DISPHTMLHEADERELEMENT
+					LPDISPHTMLHEADERELEMENT
+					LPLPDISPHTMLHEADERELEMENT
+			HTMLSelectElementEvents2
+				HTMLSELECTELEMENTEVENTS2
+					LPHTMLSELECTELEMENTEVENTS2
+					LPLPHTMLSELECTELEMENTEVENTS2
+			HTMLSelectElementEvents
+				HTMLSELECTELEMENTEVENTS
+					LPHTMLSELECTELEMENTEVENTS
+					LPLPHTMLSELECTELEMENTEVENTS
+			IHTMLSelectElement
+				IHTMLSELECTELEMENT
+					LPIHTMLSELECTELEMENT
+					LPLPIHTMLSELECTELEMENT
+			IHTMLSelectElement2
+				IHTMLSELECTELEMENT2
+					LPIHTMLSELECTELEMENT2
+					LPLPIHTMLSELECTELEMENT2
+			IHTMLSelectElement4
+				IHTMLSELECTELEMENT4
+					LPIHTMLSELECTELEMENT4
+					LPLPIHTMLSELECTELEMENT4
+			DispHTMLSelectElement
+				DISPHTMLSELECTELEMENT
+					LPDISPHTMLSELECTELEMENT
+					LPLPDISPHTMLSELECTELEMENT
+			IHTMLSelectionObject
+				IHTMLSELECTIONOBJECT
+					LPIHTMLSELECTIONOBJECT
+					LPLPIHTMLSELECTIONOBJECT
+			IHTMLSelectionObject2
+				IHTMLSELECTIONOBJECT2
+					LPIHTMLSELECTIONOBJECT2
+					LPLPIHTMLSELECTIONOBJECT2
+			IHTMLOptionElement
+				IHTMLOPTIONELEMENT
+					LPIHTMLOPTIONELEMENT
+					LPLPIHTMLOPTIONELEMENT
+			IHTMLOptionElement3
+				IHTMLOPTIONELEMENT3
+					LPIHTMLOPTIONELEMENT3
+					LPLPIHTMLOPTIONELEMENT3
+			IHTMLOptionElementFactory
+				IHTMLOPTIONELEMENTFACTORY
+					LPIHTMLOPTIONELEMENTFACTORY
+					LPLPIHTMLOPTIONELEMENTFACTORY
+			DispHTMLOptionElement
+				DISPHTMLOPTIONELEMENT
+					LPDISPHTMLOPTIONELEMENT
+					LPLPDISPHTMLOPTIONELEMENT
+			HTMLButtonElementEvents2
+				HTMLBUTTONELEMENTEVENTS2
+					LPHTMLBUTTONELEMENTEVENTS2
+					LPLPHTMLBUTTONELEMENTEVENTS2
+			HTMLButtonElementEvents
+				HTMLBUTTONELEMENTEVENTS
+					LPHTMLBUTTONELEMENTEVENTS
+					LPLPHTMLBUTTONELEMENTEVENTS
+			HTMLInputTextElementEvents2
+				HTMLINPUTTEXTELEMENTEVENTS2
+					LPHTMLINPUTTEXTELEMENTEVENTS2
+					LPLPHTMLINPUTTEXTELEMENTEVENTS2
+			HTMLOptionButtonElementEvents2
+				HTMLOPTIONBUTTONELEMENTEVENTS2
+					LPHTMLOPTIONBUTTONELEMENTEVENTS2
+					LPLPHTMLOPTIONBUTTONELEMENTEVENTS2
+			HTMLInputFileElementEvents2
+				HTMLINPUTFILEELEMENTEVENTS2
+					LPHTMLINPUTFILEELEMENTEVENTS2
+					LPLPHTMLINPUTFILEELEMENTEVENTS2
+			HTMLInputImageEvents2
+				HTMLINPUTIMAGEEVENTS2
+					LPHTMLINPUTIMAGEEVENTS2
+					LPLPHTMLINPUTIMAGEEVENTS2
+			HTMLInputTextElementEvents
+				HTMLINPUTTEXTELEMENTEVENTS
+					LPHTMLINPUTTEXTELEMENTEVENTS
+					LPLPHTMLINPUTTEXTELEMENTEVENTS
+			HTMLOptionButtonElementEvents
+				HTMLOPTIONBUTTONELEMENTEVENTS
+					LPHTMLOPTIONBUTTONELEMENTEVENTS
+					LPLPHTMLOPTIONBUTTONELEMENTEVENTS
+			HTMLInputFileElementEvents
+				HTMLINPUTFILEELEMENTEVENTS
+					LPHTMLINPUTFILEELEMENTEVENTS
+					LPLPHTMLINPUTFILEELEMENTEVENTS
+			HTMLInputImageEvents
+				HTMLINPUTIMAGEEVENTS
+					LPHTMLINPUTIMAGEEVENTS
+					LPLPHTMLINPUTIMAGEEVENTS
+			IHTMLInputElement
+				IHTMLINPUTELEMENT
+					LPIHTMLINPUTELEMENT
+					LPLPIHTMLINPUTELEMENT
+			IHTMLInputElement2
+				IHTMLINPUTELEMENT2
+					LPIHTMLINPUTELEMENT2
+					LPLPIHTMLINPUTELEMENT2
+			IHTMLInputButtonElement
+				IHTMLINPUTBUTTONELEMENT
+					LPIHTMLINPUTBUTTONELEMENT
+					LPLPIHTMLINPUTBUTTONELEMENT
+			IHTMLInputHiddenElement
+				IHTMLINPUTHIDDENELEMENT
+					LPIHTMLINPUTHIDDENELEMENT
+					LPLPIHTMLINPUTHIDDENELEMENT
+			IHTMLInputTextElement
+				IHTMLINPUTTEXTELEMENT
+					LPIHTMLINPUTTEXTELEMENT
+					LPLPIHTMLINPUTTEXTELEMENT
+			IHTMLInputFileElement
+				IHTMLINPUTFILEELEMENT
+					LPIHTMLINPUTFILEELEMENT
+					LPLPIHTMLINPUTFILEELEMENT
+			IHTMLOptionButtonElement
+				IHTMLOPTIONBUTTONELEMENT
+					LPIHTMLOPTIONBUTTONELEMENT
+					LPLPIHTMLOPTIONBUTTONELEMENT
+			IHTMLInputImage
+				IHTMLINPUTIMAGE
+					LPIHTMLINPUTIMAGE
+					LPLPIHTMLINPUTIMAGE
+			DispHTMLInputElement
+				DISPHTMLINPUTELEMENT
+					LPDISPHTMLINPUTELEMENT
+					LPLPDISPHTMLINPUTELEMENT
+			IHTMLTextAreaElement
+				IHTMLTEXTAREAELEMENT
+					LPIHTMLTEXTAREAELEMENT
+					LPLPIHTMLTEXTAREAELEMENT
+			DispHTMLTextAreaElement
+				DISPHTMLTEXTAREAELEMENT
+					LPDISPHTMLTEXTAREAELEMENT
+					LPLPDISPHTMLTEXTAREAELEMENT
+			DispHTMLRichtextElement
+				DISPHTMLRICHTEXTELEMENT
+					LPDISPHTMLRICHTEXTELEMENT
+					LPLPDISPHTMLRICHTEXTELEMENT
+			IHTMLButtonElement
+				IHTMLBUTTONELEMENT
+					LPIHTMLBUTTONELEMENT
+					LPLPIHTMLBUTTONELEMENT
+			DispHTMLButtonElement
+				DISPHTMLBUTTONELEMENT
+					LPDISPHTMLBUTTONELEMENT
+					LPLPDISPHTMLBUTTONELEMENT
+			HTMLMarqueeElementEvents2
+				HTMLMARQUEEELEMENTEVENTS2
+					LPHTMLMARQUEEELEMENTEVENTS2
+					LPLPHTMLMARQUEEELEMENTEVENTS2
+			HTMLMarqueeElementEvents
+				HTMLMARQUEEELEMENTEVENTS
+					LPHTMLMARQUEEELEMENTEVENTS
+					LPLPHTMLMARQUEEELEMENTEVENTS
+			IHTMLMarqueeElement
+				IHTMLMARQUEEELEMENT
+					LPIHTMLMARQUEEELEMENT
+					LPLPIHTMLMARQUEEELEMENT
+			DispHTMLMarqueeElement
+				DISPHTMLMARQUEEELEMENT
+					LPDISPHTMLMARQUEEELEMENT
+					LPLPDISPHTMLMARQUEEELEMENT
+			IHTMLHtmlElement
+				IHTMLHTMLELEMENT
+					LPIHTMLHTMLELEMENT
+					LPLPIHTMLHTMLELEMENT
+			IHTMLHeadElement
+				IHTMLHEADELEMENT
+					LPIHTMLHEADELEMENT
+					LPLPIHTMLHEADELEMENT
+			IHTMLTitleElement
+				IHTMLTITLEELEMENT
+					LPIHTMLTITLEELEMENT
+					LPLPIHTMLTITLEELEMENT
+			IHTMLMetaElement
+				IHTMLMETAELEMENT
+					LPIHTMLMETAELEMENT
+					LPLPIHTMLMETAELEMENT
+			IHTMLMetaElement2
+				IHTMLMETAELEMENT2
+					LPIHTMLMETAELEMENT2
+					LPLPIHTMLMETAELEMENT2
+			IHTMLBaseElement
+				IHTMLBASEELEMENT
+					LPIHTMLBASEELEMENT
+					LPLPIHTMLBASEELEMENT
+			IHTMLIsIndexElement
+				IHTMLISINDEXELEMENT
+					LPIHTMLISINDEXELEMENT
+					LPLPIHTMLISINDEXELEMENT
+			IHTMLIsIndexElement2
+				IHTMLISINDEXELEMENT2
+					LPIHTMLISINDEXELEMENT2
+					LPLPIHTMLISINDEXELEMENT2
+			IHTMLNextIdElement
+				IHTMLNEXTIDELEMENT
+					LPIHTMLNEXTIDELEMENT
+					LPLPIHTMLNEXTIDELEMENT
+			DispHTMLHtmlElement
+				DISPHTMLHTMLELEMENT
+					LPDISPHTMLHTMLELEMENT
+					LPLPDISPHTMLHTMLELEMENT
+			DispHTMLHeadElement
+				DISPHTMLHEADELEMENT
+					LPDISPHTMLHEADELEMENT
+					LPLPDISPHTMLHEADELEMENT
+			DispHTMLTitleElement
+				DISPHTMLTITLEELEMENT
+					LPDISPHTMLTITLEELEMENT
+					LPLPDISPHTMLTITLEELEMENT
+			DispHTMLMetaElement
+				DISPHTMLMETAELEMENT
+					LPDISPHTMLMETAELEMENT
+					LPLPDISPHTMLMETAELEMENT
+			DispHTMLBaseElement
+				DISPHTMLBASEELEMENT
+					LPDISPHTMLBASEELEMENT
+					LPLPDISPHTMLBASEELEMENT
+			DispHTMLIsIndexElement
+				DISPHTMLISINDEXELEMENT
+					LPDISPHTMLISINDEXELEMENT
+					LPLPDISPHTMLISINDEXELEMENT
+			DispHTMLNextIdElement
+				DISPHTMLNEXTIDELEMENT
+					LPDISPHTMLNEXTIDELEMENT
+					LPLPDISPHTMLNEXTIDELEMENT
+			IHTMLBaseFontElement
+				IHTMLBASEFONTELEMENT
+					LPIHTMLBASEFONTELEMENT
+					LPLPIHTMLBASEFONTELEMENT
+			DispHTMLBaseFontElement
+				DISPHTMLBASEFONTELEMENT
+					LPDISPHTMLBASEFONTELEMENT
+					LPLPDISPHTMLBASEFONTELEMENT
+			DispHTMLUnknownElement
+				DISPHTMLUNKNOWNELEMENT
+					LPDISPHTMLUNKNOWNELEMENT
+					LPLPDISPHTMLUNKNOWNELEMENT
+			IOmHistory
+				IOMHISTORY
+					LPIOMHISTORY
+					LPLPIOMHISTORY
+			IHTMLMimeTypesCollection
+				IHTMLMIMETYPESCOLLECTION
+					LPIHTMLMIMETYPESCOLLECTION
+					LPLPIHTMLMIMETYPESCOLLECTION
+			IHTMLPluginsCollection
+				IHTMLPLUGINSCOLLECTION
+					LPIHTMLPLUGINSCOLLECTION
+					LPLPIHTMLPLUGINSCOLLECTION
+			IHTMLOpsProfile
+				IHTMLOPSPROFILE
+					LPIHTMLOPSPROFILE
+					LPLPIHTMLOPSPROFILE
+			IOmNavigator
+				IOMNAVIGATOR
+					LPIOMNAVIGATOR
+					LPLPIOMNAVIGATOR
+			IHTMLLocation
+				IHTMLLOCATION
+					LPIHTMLLOCATION
+					LPLPIHTMLLOCATION
+			IHTMLBookmarkCollection
+				IHTMLBOOKMARKCOLLECTION
+					LPIHTMLBOOKMARKCOLLECTION
+					LPLPIHTMLBOOKMARKCOLLECTION
+			IHTMLDataTransfer
+				IHTMLDATATRANSFER
+					LPIHTMLDATATRANSFER
+					LPLPIHTMLDATATRANSFER
+			IHTMLEventObj2
+				IHTMLEVENTOBJ2
+					LPIHTMLEVENTOBJ2
+					LPLPIHTMLEVENTOBJ2
+			IHTMLEventObj3
+				IHTMLEVENTOBJ3
+					LPIHTMLEVENTOBJ3
+					LPLPIHTMLEVENTOBJ3
+			IHTMLEventObj4
+				IHTMLEVENTOBJ4
+					LPIHTMLEVENTOBJ4
+					LPLPIHTMLEVENTOBJ4
+			DispCEventObj
+				DISPCEVENTOBJ
+					LPDISPCEVENTOBJ
+					LPLPDISPCEVENTOBJ
+			HTMLWindowEvents2
+				HTMLWINDOWEVENTS2
+					LPHTMLWINDOWEVENTS2
+					LPLPHTMLWINDOWEVENTS2
+			HTMLWindowEvents
+				HTMLWINDOWEVENTS
+					LPHTMLWINDOWEVENTS
+					LPLPHTMLWINDOWEVENTS
+			IHTMLFramesCollection2
+				IHTMLFRAMESCOLLECTION2
+					LPIHTMLFRAMESCOLLECTION2
+					LPLPIHTMLFRAMESCOLLECTION2
+			IHTMLScreen
+				IHTMLSCREEN
+					LPIHTMLSCREEN
+					LPLPIHTMLSCREEN
+			IHTMLWindow2
+				IHTMLWINDOW2
+					LPIHTMLWINDOW2
+					LPLPIHTMLWINDOW2
+			IHTMLDocument2
+				IHTMLDOCUMENT2
+					LPIHTMLDOCUMENT2
+					LPLPIHTMLDOCUMENT2
+			IHTMLWindow3
+				IHTMLWINDOW3
+					LPIHTMLWINDOW3
+					LPLPIHTMLWINDOW3
+			IHTMLFrameBase
+				IHTMLFRAMEBASE
+					LPIHTMLFRAMEBASE
+					LPLPIHTMLFRAMEBASE
+			IHTMLScreen2
+				IHTMLSCREEN2
+					LPIHTMLSCREEN2
+					LPLPIHTMLSCREEN2
+			IHTMLWindow4
+				IHTMLWINDOW4
+					LPIHTMLWINDOW4
+					LPLPIHTMLWINDOW4
+			DispHTMLScreen
+				DISPHTMLSCREEN
+					LPDISPHTMLSCREEN
+					LPLPDISPHTMLSCREEN
+			DispHTMLWindow2
+				DISPHTMLWINDOW2
+					LPDISPHTMLWINDOW2
+					LPLPDISPHTMLWINDOW2
+			DispHTMLWindowProxy
+				DISPHTMLWINDOWPROXY
+					LPDISPHTMLWINDOWPROXY
+					LPLPDISPHTMLWINDOWPROXY
+			HTMLDocumentEvents2
+				HTMLDOCUMENTEVENTS2
+					LPHTMLDOCUMENTEVENTS2
+					LPLPHTMLDOCUMENTEVENTS2
+			HTMLDocumentEvents
+				HTMLDOCUMENTEVENTS
+					LPHTMLDOCUMENTEVENTS
+					LPLPHTMLDOCUMENTEVENTS
+			IHTMLDocument3
+				IHTMLDOCUMENT3
+					LPIHTMLDOCUMENT3
+					LPLPIHTMLDOCUMENT3
+			IHTMLDocument4
+				IHTMLDOCUMENT4
+					LPIHTMLDOCUMENT4
+					LPLPIHTMLDOCUMENT4
+			IHTMLDocument5
+				IHTMLDOCUMENT5
+					LPIHTMLDOCUMENT5
+					LPLPIHTMLDOCUMENT5
+			DispHTMLDocument
+				DISPHTMLDOCUMENT
+					LPDISPHTMLDOCUMENT
+					LPLPDISPHTMLDOCUMENT
+			DWebBridgeEvents
+				DWEBBRIDGEEVENTS
+					LPDWEBBRIDGEEVENTS
+					LPLPDWEBBRIDGEEVENTS
+			IWebBridge
+				IWEBBRIDGE
+					LPIWEBBRIDGE
+					LPLPIWEBBRIDGE
+			IWBScriptControl
+				IWBSCRIPTCONTROL
+					LPIWBSCRIPTCONTROL
+					LPLPIWBSCRIPTCONTROL
+			IHTMLEmbedElement
+				IHTMLEMBEDELEMENT
+					LPIHTMLEMBEDELEMENT
+					LPLPIHTMLEMBEDELEMENT
+			DispHTMLEmbed
+				DISPHTMLEMBED
+					LPDISPHTMLEMBED
+					LPLPDISPHTMLEMBED
+			HTMLMapEvents2
+				HTMLMAPEVENTS2
+					LPHTMLMAPEVENTS2
+					LPLPHTMLMAPEVENTS2
+			HTMLMapEvents
+				HTMLMAPEVENTS
+					LPHTMLMAPEVENTS
+					LPLPHTMLMAPEVENTS
+			IHTMLAreasCollection
+				IHTMLAREASCOLLECTION
+					LPIHTMLAREASCOLLECTION
+					LPLPIHTMLAREASCOLLECTION
+			IHTMLAreasCollection2
+				IHTMLAREASCOLLECTION2
+					LPIHTMLAREASCOLLECTION2
+					LPLPIHTMLAREASCOLLECTION2
+			IHTMLAreasCollection3
+				IHTMLAREASCOLLECTION3
+					LPIHTMLAREASCOLLECTION3
+					LPLPIHTMLAREASCOLLECTION3
+			IHTMLMapElement
+				IHTMLMAPELEMENT
+					LPIHTMLMAPELEMENT
+					LPLPIHTMLMAPELEMENT
+			DispHTMLAreasCollection
+				DISPHTMLAREASCOLLECTION
+					LPDISPHTMLAREASCOLLECTION
+					LPLPDISPHTMLAREASCOLLECTION
+			DispHTMLMapElement
+				DISPHTMLMAPELEMENT
+					LPDISPHTMLMAPELEMENT
+					LPLPDISPHTMLMAPELEMENT
+			HTMLAreaEvents2
+				HTMLAREAEVENTS2
+					LPHTMLAREAEVENTS2
+					LPLPHTMLAREAEVENTS2
+			HTMLAreaEvents
+				HTMLAREAEVENTS
+					LPHTMLAREAEVENTS
+					LPLPHTMLAREAEVENTS
+			IHTMLAreaElement
+				IHTMLAREAELEMENT
+					LPIHTMLAREAELEMENT
+					LPLPIHTMLAREAELEMENT
+			DispHTMLAreaElement
+				DISPHTMLAREAELEMENT
+					LPDISPHTMLAREAELEMENT
+					LPLPDISPHTMLAREAELEMENT
+			IHTMLTableCaption
+				IHTMLTABLECAPTION
+					LPIHTMLTABLECAPTION
+					LPLPIHTMLTABLECAPTION
+			DispHTMLTableCaption
+				DISPHTMLTABLECAPTION
+					LPDISPHTMLTABLECAPTION
+					LPLPDISPHTMLTABLECAPTION
+			IHTMLCommentElement
+				IHTMLCOMMENTELEMENT
+					LPIHTMLCOMMENTELEMENT
+					LPLPIHTMLCOMMENTELEMENT
+			IHTMLCommentElement2
+				IHTMLCOMMENTELEMENT2
+					LPIHTMLCOMMENTELEMENT2
+					LPLPIHTMLCOMMENTELEMENT2
+			DispHTMLCommentElement
+				DISPHTMLCOMMENTELEMENT
+					LPDISPHTMLCOMMENTELEMENT
+					LPLPDISPHTMLCOMMENTELEMENT
+			IHTMLPhraseElement2
+				IHTMLPHRASEELEMENT2
+					LPIHTMLPHRASEELEMENT2
+					LPLPIHTMLPHRASEELEMENT2
+			DispHTMLPhraseElement
+				DISPHTMLPHRASEELEMENT
+					LPDISPHTMLPHRASEELEMENT
+					LPLPDISPHTMLPHRASEELEMENT
+			DispHTMLSpanElement
+				DISPHTMLSPANELEMENT
+					LPDISPHTMLSPANELEMENT
+					LPLPDISPHTMLSPANELEMENT
+			HTMLTableEvents2
+				HTMLTABLEEVENTS2
+					LPHTMLTABLEEVENTS2
+					LPLPHTMLTABLEEVENTS2
+			HTMLTableEvents
+				HTMLTABLEEVENTS
+					LPHTMLTABLEEVENTS
+					LPLPHTMLTABLEEVENTS
+			IHTMLTableSection
+				IHTMLTABLESECTION
+					LPIHTMLTABLESECTION
+					LPLPIHTMLTABLESECTION
+			IHTMLTable
+				IHTMLTABLE
+					LPIHTMLTABLE
+					LPLPIHTMLTABLE
+			IHTMLTable2
+				IHTMLTABLE2
+					LPIHTMLTABLE2
+					LPLPIHTMLTABLE2
+			IHTMLTable3
+				IHTMLTABLE3
+					LPIHTMLTABLE3
+					LPLPIHTMLTABLE3
+			IHTMLTableCol
+				IHTMLTABLECOL
+					LPIHTMLTABLECOL
+					LPLPIHTMLTABLECOL
+			IHTMLTableCol2
+				IHTMLTABLECOL2
+					LPIHTMLTABLECOL2
+					LPLPIHTMLTABLECOL2
+			IHTMLTableSection2
+				IHTMLTABLESECTION2
+					LPIHTMLTABLESECTION2
+					LPLPIHTMLTABLESECTION2
+			IHTMLTableSection3
+				IHTMLTABLESECTION3
+					LPIHTMLTABLESECTION3
+					LPLPIHTMLTABLESECTION3
+			IHTMLTableRow
+				IHTMLTABLEROW
+					LPIHTMLTABLEROW
+					LPLPIHTMLTABLEROW
+			IHTMLTableRow2
+				IHTMLTABLEROW2
+					LPIHTMLTABLEROW2
+					LPLPIHTMLTABLEROW2
+			IHTMLTableRow3
+				IHTMLTABLEROW3
+					LPIHTMLTABLEROW3
+					LPLPIHTMLTABLEROW3
+			IHTMLTableRowMetrics
+				IHTMLTABLEROWMETRICS
+					LPIHTMLTABLEROWMETRICS
+					LPLPIHTMLTABLEROWMETRICS
+			IHTMLTableCell
+				IHTMLTABLECELL
+					LPIHTMLTABLECELL
+					LPLPIHTMLTABLECELL
+			IHTMLTableCell2
+				IHTMLTABLECELL2
+					LPIHTMLTABLECELL2
+					LPLPIHTMLTABLECELL2
+			DispHTMLTable
+				DISPHTMLTABLE
+					LPDISPHTMLTABLE
+					LPLPDISPHTMLTABLE
+			DispHTMLTableCol
+				DISPHTMLTABLECOL
+					LPDISPHTMLTABLECOL
+					LPLPDISPHTMLTABLECOL
+			DispHTMLTableSection
+				DISPHTMLTABLESECTION
+					LPDISPHTMLTABLESECTION
+					LPLPDISPHTMLTABLESECTION
+			DispHTMLTableRow
+				DISPHTMLTABLEROW
+					LPDISPHTMLTABLEROW
+					LPLPDISPHTMLTABLEROW
+			DispHTMLTableCell
+				DISPHTMLTABLECELL
+					LPDISPHTMLTABLECELL
+					LPLPDISPHTMLTABLECELL
+			HTMLScriptEvents2
+				HTMLSCRIPTEVENTS2
+					LPHTMLSCRIPTEVENTS2
+					LPLPHTMLSCRIPTEVENTS2
+			HTMLScriptEvents
+				HTMLSCRIPTEVENTS
+					LPHTMLSCRIPTEVENTS
+					LPLPHTMLSCRIPTEVENTS
+			IHTMLScriptElement
+				IHTMLSCRIPTELEMENT
+					LPIHTMLSCRIPTELEMENT
+					LPLPIHTMLSCRIPTELEMENT
+			IHTMLScriptElement2
+				IHTMLSCRIPTELEMENT2
+					LPIHTMLSCRIPTELEMENT2
+					LPLPIHTMLSCRIPTELEMENT2
+			DispHTMLScriptElement
+				DISPHTMLSCRIPTELEMENT
+					LPDISPHTMLSCRIPTELEMENT
+					LPLPDISPHTMLSCRIPTELEMENT
+			DispHTMLNoShowElement
+				DISPHTMLNOSHOWELEMENT
+					LPDISPHTMLNOSHOWELEMENT
+					LPLPDISPHTMLNOSHOWELEMENT
+			HTMLObjectElementEvents2
+				HTMLOBJECTELEMENTEVENTS2
+					LPHTMLOBJECTELEMENTEVENTS2
+					LPLPHTMLOBJECTELEMENTEVENTS2
+			HTMLObjectElementEvents
+				HTMLOBJECTELEMENTEVENTS
+					LPHTMLOBJECTELEMENTEVENTS
+					LPLPHTMLOBJECTELEMENTEVENTS
+			IHTMLObjectElement
+				IHTMLOBJECTELEMENT
+					LPIHTMLOBJECTELEMENT
+					LPLPIHTMLOBJECTELEMENT
+			IHTMLObjectElement2
+				IHTMLOBJECTELEMENT2
+					LPIHTMLOBJECTELEMENT2
+					LPLPIHTMLOBJECTELEMENT2
+			IHTMLObjectElement3
+				IHTMLOBJECTELEMENT3
+					LPIHTMLOBJECTELEMENT3
+					LPLPIHTMLOBJECTELEMENT3
+			IHTMLParamElement
+				IHTMLPARAMELEMENT
+					LPIHTMLPARAMELEMENT
+					LPLPIHTMLPARAMELEMENT
+			DispHTMLObjectElement
+				DISPHTMLOBJECTELEMENT
+					LPDISPHTMLOBJECTELEMENT
+					LPLPDISPHTMLOBJECTELEMENT
+			DispHTMLParamElement
+				DISPHTMLPARAMELEMENT
+					LPDISPHTMLPARAMELEMENT
+					LPLPDISPHTMLPARAMELEMENT
+			HTMLFrameSiteEvents2
+				HTMLFRAMESITEEVENTS2
+					LPHTMLFRAMESITEEVENTS2
+					LPLPHTMLFRAMESITEEVENTS2
+			HTMLFrameSiteEvents
+				HTMLFRAMESITEEVENTS
+					LPHTMLFRAMESITEEVENTS
+					LPLPHTMLFRAMESITEEVENTS
+			IHTMLFrameBase2
+				IHTMLFRAMEBASE2
+					LPIHTMLFRAMEBASE2
+					LPLPIHTMLFRAMEBASE2
+			IHTMLFrameBase3
+				IHTMLFRAMEBASE3
+					LPIHTMLFRAMEBASE3
+					LPLPIHTMLFRAMEBASE3
+			DispHTMLFrameBase
+				DISPHTMLFRAMEBASE
+					LPDISPHTMLFRAMEBASE
+					LPLPDISPHTMLFRAMEBASE
+			IHTMLFrameElement
+				IHTMLFRAMEELEMENT
+					LPIHTMLFRAMEELEMENT
+					LPLPIHTMLFRAMEELEMENT
+			IHTMLFrameElement2
+				IHTMLFRAMEELEMENT2
+					LPIHTMLFRAMEELEMENT2
+					LPLPIHTMLFRAMEELEMENT2
+			DispHTMLFrameElement
+				DISPHTMLFRAMEELEMENT
+					LPDISPHTMLFRAMEELEMENT
+					LPLPDISPHTMLFRAMEELEMENT
+			IHTMLIFrameElement
+				IHTMLIFRAMEELEMENT
+					LPIHTMLIFRAMEELEMENT
+					LPLPIHTMLIFRAMEELEMENT
+			IHTMLIFrameElement2
+				IHTMLIFRAMEELEMENT2
+					LPIHTMLIFRAMEELEMENT2
+					LPLPIHTMLIFRAMEELEMENT2
+			DispHTMLIFrame
+				DISPHTMLIFRAME
+					LPDISPHTMLIFRAME
+					LPLPDISPHTMLIFRAME
+			IHTMLDivPosition
+				IHTMLDIVPOSITION
+					LPIHTMLDIVPOSITION
+					LPLPIHTMLDIVPOSITION
+			IHTMLFieldSetElement
+				IHTMLFIELDSETELEMENT
+					LPIHTMLFIELDSETELEMENT
+					LPLPIHTMLFIELDSETELEMENT
+			IHTMLFieldSetElement2
+				IHTMLFIELDSETELEMENT2
+					LPIHTMLFIELDSETELEMENT2
+					LPLPIHTMLFIELDSETELEMENT2
+			IHTMLLegendElement
+				IHTMLLEGENDELEMENT
+					LPIHTMLLEGENDELEMENT
+					LPLPIHTMLLEGENDELEMENT
+			IHTMLLegendElement2
+				IHTMLLEGENDELEMENT2
+					LPIHTMLLEGENDELEMENT2
+					LPLPIHTMLLEGENDELEMENT2
+			DispHTMLDivPosition
+				DISPHTMLDIVPOSITION
+					LPDISPHTMLDIVPOSITION
+					LPLPDISPHTMLDIVPOSITION
+			DispHTMLFieldSetElement
+				DISPHTMLFIELDSETELEMENT
+					LPDISPHTMLFIELDSETELEMENT
+					LPLPDISPHTMLFIELDSETELEMENT
+			DispHTMLLegendElement
+				DISPHTMLLEGENDELEMENT
+					LPDISPHTMLLEGENDELEMENT
+					LPLPDISPHTMLLEGENDELEMENT
+			IHTMLSpanFlow
+				IHTMLSPANFLOW
+					LPIHTMLSPANFLOW
+					LPLPIHTMLSPANFLOW
+			DispHTMLSpanFlow
+				DISPHTMLSPANFLOW
+					LPDISPHTMLSPANFLOW
+					LPLPDISPHTMLSPANFLOW
+			IHTMLFrameSetElement
+				IHTMLFRAMESETELEMENT
+					LPIHTMLFRAMESETELEMENT
+					LPLPIHTMLFRAMESETELEMENT
+			IHTMLFrameSetElement2
+				IHTMLFRAMESETELEMENT2
+					LPIHTMLFRAMESETELEMENT2
+					LPLPIHTMLFRAMESETELEMENT2
+			DispHTMLFrameSetSite
+				DISPHTMLFRAMESETSITE
+					LPDISPHTMLFRAMESETSITE
+					LPLPDISPHTMLFRAMESETSITE
+			IHTMLBGsound
+				IHTMLBGSOUND
+					LPIHTMLBGSOUND
+					LPLPIHTMLBGSOUND
+			DispHTMLBGsound
+				DISPHTMLBGSOUND
+					LPDISPHTMLBGSOUND
+					LPLPDISPHTMLBGSOUND
+			IHTMLFontNamesCollection
+				IHTMLFONTNAMESCOLLECTION
+					LPIHTMLFONTNAMESCOLLECTION
+					LPLPIHTMLFONTNAMESCOLLECTION
+			IHTMLFontSizesCollection
+				IHTMLFONTSIZESCOLLECTION
+					LPIHTMLFONTSIZESCOLLECTION
+					LPLPIHTMLFONTSIZESCOLLECTION
+			IHTMLOptionsHolder
+				IHTMLOPTIONSHOLDER
+					LPIHTMLOPTIONSHOLDER
+					LPLPIHTMLOPTIONSHOLDER
+			HTMLStyleElementEvents2
+				HTMLSTYLEELEMENTEVENTS2
+					LPHTMLSTYLEELEMENTEVENTS2
+					LPLPHTMLSTYLEELEMENTEVENTS2
+			HTMLStyleElementEvents
+				HTMLSTYLEELEMENTEVENTS
+					LPHTMLSTYLEELEMENTEVENTS
+					LPLPHTMLSTYLEELEMENTEVENTS
+			IHTMLStyleElement
+				IHTMLSTYLEELEMENT
+					LPIHTMLSTYLEELEMENT
+					LPLPIHTMLSTYLEELEMENT
+			DispHTMLStyleElement
+				DISPHTMLSTYLEELEMENT
+					LPDISPHTMLSTYLEELEMENT
+					LPLPDISPHTMLSTYLEELEMENT
+			IHTMLStyleFontFace
+				IHTMLSTYLEFONTFACE
+					LPIHTMLSTYLEFONTFACE
+					LPLPIHTMLSTYLEFONTFACE
+			IHtmlDlgSafeHelper
+				IHTMLDLGSAFEHELPER
+					LPIHTMLDLGSAFEHELPER
+					LPLPIHTMLDLGSAFEHELPER
+			IBlockFormats
+				IBLOCKFORMATS
+					LPIBLOCKFORMATS
+					LPLPIBLOCKFORMATS
+			IFontNames
+				IFONTNAMES
+					LPIFONTNAMES
+					LPLPIFONTNAMES
+			HTMLNamespaceEvents
+				HTMLNAMESPACEEVENTS
+					LPHTMLNAMESPACEEVENTS
+					LPLPHTMLNAMESPACEEVENTS
+			IHTMLNamespace
+				IHTMLNAMESPACE
+					LPIHTMLNAMESPACE
+					LPLPIHTMLNAMESPACE
+			IHTMLNamespaceCollection
+				IHTMLNAMESPACECOLLECTION
+					LPIHTMLNAMESPACECOLLECTION
+					LPLPIHTMLNAMESPACECOLLECTION
+			IHTMLIPrintCollection
+				IHTMLIPRINTCOLLECTION
+					LPIHTMLIPRINTCOLLECTION
+					LPLPIHTMLIPRINTCOLLECTION
+			IHTMLDialog
+				IHTMLDIALOG
+					LPIHTMLDIALOG
+					LPLPIHTMLDIALOG
+			IHTMLDialog2
+				IHTMLDIALOG2
+					LPIHTMLDIALOG2
+					LPLPIHTMLDIALOG2
+			IHTMLDialog3
+				IHTMLDIALOG3
+					LPIHTMLDIALOG3
+					LPLPIHTMLDIALOG3
+			IHTMLModelessInit
+				IHTMLMODELESSINIT
+					LPIHTMLMODELESSINIT
+					LPLPIHTMLMODELESSINIT
+			IHTMLPopup
+				IHTMLPOPUP
+					LPIHTMLPOPUP
+					LPLPIHTMLPOPUP
+			DispHTMLPopup
+				DISPHTMLPOPUP
+					LPDISPHTMLPOPUP
+					LPLPDISPHTMLPOPUP
+			IHTMLAppBehavior
+				IHTMLAPPBEHAVIOR
+					LPIHTMLAPPBEHAVIOR
+					LPLPIHTMLAPPBEHAVIOR
+			IHTMLAppBehavior2
+				IHTMLAPPBEHAVIOR2
+					LPIHTMLAPPBEHAVIOR2
+					LPLPIHTMLAPPBEHAVIOR2
+			IHTMLAppBehavior3
+				IHTMLAPPBEHAVIOR3
+					LPIHTMLAPPBEHAVIOR3
+					LPLPIHTMLAPPBEHAVIOR3
+			DispHTMLAppBehavior
+				DISPHTMLAPPBEHAVIOR
+					LPDISPHTMLAPPBEHAVIOR
+					LPLPDISPHTMLAPPBEHAVIOR
+			DispIHTMLInputButtonElement
+				DISPIHTMLINPUTBUTTONELEMENT
+					LPDISPIHTMLINPUTBUTTONELEMENT
+					LPLPDISPIHTMLINPUTBUTTONELEMENT
+			DispIHTMLInputTextElement
+				DISPIHTMLINPUTTEXTELEMENT
+					LPDISPIHTMLINPUTTEXTELEMENT
+					LPLPDISPIHTMLINPUTTEXTELEMENT
+			DispIHTMLInputFileElement
+				DISPIHTMLINPUTFILEELEMENT
+					LPDISPIHTMLINPUTFILEELEMENT
+					LPLPDISPIHTMLINPUTFILEELEMENT
+			DispIHTMLOptionButtonElement
+				DISPIHTMLOPTIONBUTTONELEMENT
+					LPDISPIHTMLOPTIONBUTTONELEMENT
+					LPLPDISPIHTMLOPTIONBUTTONELEMENT
+			DispIHTMLInputImage
+				DISPIHTMLINPUTIMAGE
+					LPDISPIHTMLINPUTIMAGE
+					LPLPDISPIHTMLINPUTIMAGE
+		IPersist
+			IPersistFile
+			IPersistStream
+				IPERSISTSTREAM
+					LPIPERSISTSTREAM
+					LPLPIPERSISTSTREAM
+				IMoniker
+					IMONIKER
+						LPIMONIKER
+						LPLPIMONIKER
+			IMediaFilter
+				IMEDIAFILTER
+					LPIMEDIAFILTER
+					LPLPIMEDIAFILTER
+				IBaseFilter
+					IBASEFILTER
+						LPIBASEFILTER
+						LPLPIBASEFILTER
+			IPersistMediaPropertyBag
+				IPERSISTMEDIAPROPERTYBAG
+					LPIPERSISTMEDIAPROPERTYBAG
+					LPLPIPERSISTMEDIAPROPERTYBAG
+		IMalloc
+		IServiceProvider
+		IGlobalInterfaceTable
+		IProxyServerIdentity
+		IShellFolder
+		IShellLinkA
+		IShellLinkW
+		IDirectDraw
+			LPDIRECTDRAW
+			IDIRECTDRAW
+				LPIDIRECTDRAW
+				LPLPIDIRECTDRAW
+		IDirectDraw2
+			LPDIRECTDRAW2
+		IDirectDraw4
+			LPDIRECTDRAW4
+		IDirectDraw7
+			LPDIRECTDRAW7
+		IDirectDrawPalette
+			LPDIRECTDRAWPALETTE
+		IDirectDrawClipper
+			LPDIRECTDRAWCLIPPER
+		IDirectDrawSurface
+			LPDIRECTDRAWSURFACE
+			IDIRECTDRAWSURFACE
+				LPIDIRECTDRAWSURFACE
+				LPLPIDIRECTDRAWSURFACE
+		IDirectDrawSurface2
+			LPDIRECTDRAWSURFACE2
+		IDirectDrawSurface3
+			LPDIRECTDRAWSURFACE3
+		IDirectDrawSurface4
+			LPDIRECTDRAWSURFACE4
+		IDirectDrawSurface7
+			LPDIRECTDRAWSURFACE7
+		IDirectDrawColorControl
+			LPDIRECTDRAWCOLORCONTROL
+		IDirectDrawGammaControl
+			LPDIRECTDRAWGAMMACONTROL
+		IAVIStream
+			PAVISTREAM
+		IAVIStreaming
+			PAVISTREAMING
+		IAVIEditStream
+			PAVIEDITSTREAM
+		IAVIFile_deprecated
+			PAVIFILE_deprecated
+		IAVIFile
+			PAVIFILE
+		IGetFrame
+			PGETFRAME
+		LPDIRECTPLAY
+		IDirectPlay2
+			LPDIRECTPLAY2
+			LPDIRECTPLAY2A
+			IDirectPlay2A
+			IDirectPlay3
+				LPDIRECTPLAY3
+				LPDIRECTPLAY3A
+				IDirectPlay3A
+				IDirectPlay4
+					LPDIRECTPLAY4
+					LPDIRECTPLAY4A
+					IDirectPlay4A
+		IDirect3DDevice7
+			LPDIRECT3DDEVICE7
+			IDIRECT3DDEVICE7
+			LPIDIRECT3DDEVICE7
+			LPLPIDIRECT3DDEVICE7
+		IDirect3D7
+			LPDIRECT3D7
+			IDIRECT3D7
+			LPIDIRECT3D7
+			LPLPIDIRECT3D7
+		IDirect3DVertexBuffer
+			LPDIRECT3DVERTEXBUFFER
+			IDIRECT3DVERTEXBUFFER
+			LPIDIRECT3DVERTEXBUFFER
+			LPLPIDIRECT3DVERTEXBUFFER
+		IDirect3DLight
+			LPDIRECT3DLIGHT
+			IDIRECT3DLIGHT
+			LPIDIRECT3DLIGHT
+			LPLPIDIRECT3DLIGHT
+		IDirect3DExecuteBuffer
+			LPDIRECT3DEXECUTEBUFFER
+			IDIRECT3DEXECUTEBUFFER
+			LPIDIRECT3DEXECUTEBUFFER
+			LPLPIDIRECT3DEXECUTEBUFFER
+		IDirect3DVertexBuffer7
+			LPDIRECT3DVERTEXBUFFER7
+			IDIRECT3DVERTEXBUFFER7
+			LPIDIRECT3DVERTEXBUFFER7
+			LPLPIDIRECT3DVERTEXBUFFER7
+		IDirect3DMaterial
+			LPDIRECT3DMATERIAL
+			IDIRECT3DMATERIAL
+			LPIDIRECT3DMATERIAL
+			LPLPIDIRECT3DMATERIAL
+		IDirect3DViewport
+			LPDIRECT3DVIEWPORT
+			IDIRECT3DVIEWPORT
+			LPIDIRECT3DVIEWPORT
+			LPLPIDIRECT3DVIEWPORT
+			IDirect3DViewport2
+				LPDIRECT3DVIEWPORT2
+				IDIRECT3DVIEWPORT2
+				LPIDIRECT3DVIEWPORT2
+				LPLPIDIRECT3DVIEWPORT2
+				IDirect3DViewport3
+					LPDIRECT3DVIEWPORT3
+					IDIRECT3DVIEWPORT3
+					LPIDIRECT3DVIEWPORT3
+					LPLPIDIRECT3DVIEWPORT3
+		IDirect3D
+			LPDIRECT3D
+			IDIRECT3D
+			LPIDIRECT3D
+			LPLPIDIRECT3D
+		IDirect3DDevice
+			LPDIRECT3DDEVICE
+			IDIRECT3DDEVICE
+			LPIDIRECT3DDEVICE
+			LPLPIDIRECT3DDEVICE
+		IDirect3DTexture
+			LPDIRECT3DTEXTURE
+			IDIRECT3DTEXTURE
+			LPIDIRECT3DTEXTURE
+			LPLPIDIRECT3DTEXTURE
+		IDirect3DMaterial2
+			LPDIRECT3DMATERIAL2
+			IDIRECT3DMATERIAL2
+			LPIDIRECT3DMATERIAL2
+			LPLPIDIRECT3DMATERIAL2
+		IDirect3DMaterial3
+			LPDIRECT3DMATERIAL3
+			IDIRECT3DMATERIAL3
+			LPIDIRECT3DMATERIAL3
+			LPLPIDIRECT3DMATERIAL3
+		IDirect3D2
+			LPDIRECT3D2
+			IDIRECT3D2
+			LPIDIRECT3D2
+			LPLPIDIRECT3D2
+		IDirect3DDevice2
+			LPDIRECT3DDEVICE2
+			IDIRECT3DDEVICE2
+			LPIDIRECT3DDEVICE2
+			LPLPIDIRECT3DDEVICE2
+		IDirect3DTexture2
+			LPDIRECT3DTEXTURE2
+			IDIRECT3DTEXTURE2
+			LPIDIRECT3DTEXTURE2
+			LPLPIDIRECT3DTEXTURE2
+		IDirect3D3
+			LPDIRECT3D3
+			IDIRECT3D3
+			LPIDIRECT3D3
+			LPLPIDIRECT3D3
+		IDirect3DDevice3
+			LPDIRECT3DDEVICE3
+			IDIRECT3DDEVICE3
+			LPIDIRECT3DDEVICE3
+			LPLPIDIRECT3DDEVICE3
+		IDirect3D8
+			LPDIRECT3D8
+			LPLPDIRECT3D8
+		IDirect3DDevice8
+			LPDIRECT3DDEVICE8
+			LPLPDIRECT3DDEVICE8
+		IDirect3DResource8
+			LPDIRECT3DRESOURCE8
+			LPLPDIRECT3DRESOURCE8
+			IDirect3DBaseTexture8
+				LPDIRECT3DBASETEXTURE8
+				LPLPDIRECT3DBASETEXTURE8
+				IDirect3DTexture8
+					LPDIRECT3DTEXTURE8
+					LPLPDIRECT3DTEXTURE8
+				IDirect3DVolumeTexture8
+					LPDIRECT3DVOLUMETEXTURE8
+					LPLPDIRECT3DVOLUMETEXTURE8
+				IDirect3DCubeTexture8
+					LPDIRECT3DCUBETEXTURE8
+					LPLPDIRECT3DCUBETEXTURE8
+			IDirect3DVertexBuffer8
+				LPDIRECT3DVERTEXBUFFER8
+				LPLPDIRECT3DVERTEXBUFFER8
+			IDirect3DIndexBuffer8
+				LPDIRECT3DINDEXBUFFER8
+				LPLPDIRECT3DINDEXBUFFER8
+		IDirect3DSurface8
+			LPDIRECT3DSURFACE8
+			LPLPDIRECT3DSURFACE8
+		IDirect3DVolume8
+			LPDIRECT3DVOLUME8
+			LPLPDIRECT3DVOLUME8
+		IDirect3DSwapChain8
+			LPDIRECT3DSWAPCHAIN8
+			LPLPDIRECT3DSWAPCHAIN8
+		IDirectSound
+			LPDIRECTSOUND
+				LPLPDIRECTSOUND
+			IDirectSound8
+				LPDIRECTSOUND8
+					LPLPDIRECTSOUND8
+		IDirectSoundBuffer
+			LPDIRECTSOUNDBUFFER
+				LPLPDIRECTSOUNDBUFFER
+			IDirectSoundBuffer8
+				LPDIRECTSOUNDBUFFER8
+					LPLPDIRECTSOUNDBUFFER8
+		IDirectSound3DListener
+			LPDIRECTSOUND3DLISTENER
+				LPLPDIRECTSOUND3DLISTENER
+		IDirectSound3DBuffer
+			LPDIRECTSOUND3DBUFFER
+				LPLPDIRECTSOUND3DBUFFER
+		IDirectSoundCapture
+			LPDIRECTSOUNDCAPTURE
+				LPLPDIRECTSOUNDCAPTURE
+			IDirectSoundCaptureBuffer8
+				LPDIRECTSOUNDCAPTUREBUFFER8
+					LPLPDIRECTSOUNDCAPTUREBUFFER8
+		IDirectSoundCaptureBuffer
+			LPDIRECTSOUNDCAPTUREBUFFER
+				LPLPDIRECTSOUNDCAPTUREBUFFER
+		IDirectSoundNotify_deprecated
+		IDirectSoundNotify
+			LPDIRECTSOUNDNOTIFY
+				LPLPDIRECTSOUNDNOTIFY
+		IDirectSoundFXSend
+			LPDIRECTSOUNDFXSEND
+		IDirectSoundFXGargle
+			LPDIRECTSOUNDFXGARGLE
+		IDirectSoundFXChorus
+			LPDIRECTSOUNDFXCHORUS
+		IDirectSoundFXFlanger
+			LPDIRECTSOUNDFXFLANGER
+		IDirectSoundFXEcho
+			LPDIRECTSOUNDFXECHO
+		IDirectSoundFXDistortion
+			LPDIRECTSOUNDFXDISTORTION
+		IDirectSoundFXCompressor
+			LPDIRECTSOUNDFXCOMPRESSOR
+		IDirectSoundFXParamEq
+			LPDIRECTSOUNDFXPARAMEQ
+		IDirectSoundFXI3DL2Reverb
+			LPDIRECTSOUNDFXI3DL2REVERB
+		IDirectSoundFXWavesReverb
+			LPDIRECTSOUNDFXWAVESREVERB
+		IDirectSoundCaptureFXAec
+			LPDIRECTSOUNDCAPTUREFXAEC
+		IDirectSoundCaptureFXNoiseSuppress
+			LPDIRECTSOUNDCAPTUREFXNOISESUPPRESS
+		IDirectSoundFullDuplex
+			LPDIRECTSOUNDFULLDUPLEX
+		IKsPropertySet
+			LPKSPROPERTYSET
+			IKSPROPERTYSET
+				LPIKSPROPERTYSET
+				LPLPIKSPROPERTYSET
+		IRunningObjectTable
+			IRUNNINGOBJECTTABLE
+				LPIRUNNINGOBJECTTABLE
+				LPLPIRUNNINGOBJECTTABLE
+		IEnumString
+			IENUMSTRING
+				LPIENUMSTRING
+				LPLPIENUMSTRING
+		IBindCtx
+			IBINDCTX
+				LPIBINDCTX
+				LPLPIBINDCTX
+		IEnumMoniker
+			IENUMMONIKER
+				LPIENUMMONIKER
+				LPLPIENUMMONIKER
+		ICreateDevEnum
+			ICREATEDEVENUM
+				LPICREATEDEVENUM
+				LPLPICREATEDEVENUM
+		ISequentialStream
+			ISEQUENTIALSTREAM
+				LPISEQUENTIALSTREAM
+				LPLPISEQUENTIALSTREAM
+			IStream
+				ISTREAM
+					LPISTREAM
+					LPLPISTREAM
+				ISpStreamFormat
+					ISPSTREAMFORMAT
+					LPISPSTREAMFORMAT
+					LPLPISPSTREAMFORMAT
+				LPSTREAM
+		IAMovieSetup
+			IAMOVIESETUP
+				LPIAMOVIESETUP
+				LPLPIAMOVIESETUP
+		IEnumMediaTypes
+			IENUMMEDIATYPES
+				LPIENUMMEDIATYPES
+				LPLPIENUMMEDIATYPES
+		IPin
+			IPIN
+				LPIPIN
+				LPLPIPIN
+		IEnumPins
+			IENUMPINS
+				LPIENUMPINS
+				LPLPIENUMPINS
+		IFilterGraph
+			IFILTERGRAPH
+				LPIFILTERGRAPH
+				LPLPIFILTERGRAPH
+			IGraphBuilder
+				IGRAPHBUILDER
+					LPIGRAPHBUILDER
+					LPLPIGRAPHBUILDER
+				IFilterGraph2
+					IFILTERGRAPH2
+						LPIFILTERGRAPH2
+						LPLPIFILTERGRAPH2
+		IEnumFilters
+			IENUMFILTERS
+				LPIENUMFILTERS
+				LPLPIENUMFILTERS
+		IReferenceClock
+			IREFERENCECLOCK
+				LPIREFERENCECLOCK
+				LPLPIREFERENCECLOCK
+		IMediaSample
+			IMEDIASAMPLE
+				LPIMEDIASAMPLE
+				LPLPIMEDIASAMPLE
+			IMediaSample2
+				IMEDIASAMPLE2
+					LPIMEDIASAMPLE2
+					LPLPIMEDIASAMPLE2
+		IMemAllocator
+			IMEMALLOCATOR
+				LPIMEMALLOCATOR
+				LPLPIMEMALLOCATOR
+			IMemAllocatorCallbackTemp
+				IMEMALLOCATORCALLBACKTEMP
+					LPIMEMALLOCATORCALLBACKTEMP
+					LPLPIMEMALLOCATORCALLBACKTEMP
+		IMemAllocatorNotifyCallbackTemp
+			IMEMALLOCATORNOTIFYCALLBACKTEMP
+				LPIMEMALLOCATORNOTIFYCALLBACKTEMP
+				LPLPIMEMALLOCATORNOTIFYCALLBACKTEMP
+		IMemInputPin
+			IMEMINPUTPIN
+				LPIMEMINPUTPIN
+				LPLPIMEMINPUTPIN
+		IMediaSeeking
+			IMEDIASEEKING
+				LPIMEDIASEEKING
+				LPLPIMEDIASEEKING
+		IEnumRegFilters
+			IENUMREGFILTERS
+				LPIENUMREGFILTERS
+				LPLPIENUMREGFILTERS
+		IFileSourceFilter
+			IFILESOURCEFILTER
+				LPIFILESOURCEFILTER
+				LPLPIFILESOURCEFILTER
+		IFileSinkFilter
+			IFILESINKFILTER
+				LPIFILESINKFILTER
+				LPLPIFILESINKFILTER
+			IFileSinkFilter2
+				IFILESINKFILTER2
+					LPIFILESINKFILTER2
+					LPLPIFILESINKFILTER2
+		IAMCopyCaptureFileProgress
+			IAMCOPYCAPTUREFILEPROGRESS
+				LPIAMCOPYCAPTUREFILEPROGRESS
+				LPLPIAMCOPYCAPTUREFILEPROGRESS
+		ICaptureGraphBuilder
+			ICAPTUREGRAPHBUILDER
+				LPICAPTUREGRAPHBUILDER
+				LPLPICAPTUREGRAPHBUILDER
+		ICaptureGraphBuilder2
+			ICAPTUREGRAPHBUILDER2
+				LPICAPTUREGRAPHBUILDER2
+				LPLPICAPTUREGRAPHBUILDER2
+		IFilterMapper
+			IFILTERMAPPER
+				LPIFILTERMAPPER
+				LPLPIFILTERMAPPER
+		IFilterMapper2
+			IFILTERMAPPER2
+				LPIFILTERMAPPER2
+				LPLPIFILTERMAPPER2
+			IFilterMapper3
+				IFILTERMAPPER3
+					LPIFILTERMAPPER3
+					LPLPIFILTERMAPPER3
+		IMediaEventSink
+			IMEDIAEVENTSINK
+				LPIMEDIAEVENTSINK
+				LPLPIMEDIAEVENTSINK
+		IOverlayNotify
+			IOVERLAYNOTIFY
+				LPIOVERLAYNOTIFY
+				LPLPIOVERLAYNOTIFY
+			IOverlayNotify2
+				IOVERLAYNOTIFY2
+					LPIOVERLAYNOTIFY2
+					LPLPIOVERLAYNOTIFY2
+		IOverlay
+			IOVERLAY
+				LPIOVERLAY
+				LPLPIOVERLAY
+		IQualityControl
+			IQUALITYCONTROL
+				LPIQUALITYCONTROL
+				LPLPIQUALITYCONTROL
+		ISeekingPassThru
+			ISEEKINGPASSTHRU
+				LPISEEKINGPASSTHRU
+				LPLPISEEKINGPASSTHRU
+		IAMStreamConfig
+			IAMSTREAMCONFIG
+				LPIAMSTREAMCONFIG
+				LPLPIAMSTREAMCONFIG
+		IAMDevMemoryAllocator
+			IAMDEVMEMORYALLOCATOR
+				LPIAMDEVMEMORYALLOCATOR
+				LPLPIAMDEVMEMORYALLOCATOR
+		IAMDevMemoryControl
+			IAMDEVMEMORYCONTROL
+				LPIAMDEVMEMORYCONTROL
+				LPLPIAMDEVMEMORYCONTROL
+		IConfigInterleaving
+			ICONFIGINTERLEAVING
+				LPICONFIGINTERLEAVING
+				LPLPICONFIGINTERLEAVING
+		IConfigAviMux
+			ICONFIGAVIMUX
+				LPICONFIGAVIMUX
+				LPLPICONFIGAVIMUX
+		IAMVideoCompression
+			IAMVIDEOCOMPRESSION
+				LPIAMVIDEOCOMPRESSION
+				LPLPIAMVIDEOCOMPRESSION
+		IAMVfwCaptureDialogs
+			IAMVFWCAPTUREDIALOGS
+				LPIAMVFWCAPTUREDIALOGS
+				LPLPIAMVFWCAPTUREDIALOGS
+		IAMVfwCompressDialogs
+			IAMVFWCOMPRESSDIALOGS
+				LPIAMVFWCOMPRESSDIALOGS
+				LPLPIAMVFWCOMPRESSDIALOGS
+		IAMDroppedFrames
+			IAMDROPPEDFRAMES
+				LPIAMDROPPEDFRAMES
+				LPLPIAMDROPPEDFRAMES
+		IAMAudioInputMixer
+			IAMAUDIOINPUTMIXER
+				LPIAMAUDIOINPUTMIXER
+				LPLPIAMAUDIOINPUTMIXER
+		IAMBufferNegotiation
+			IAMBUFFERNEGOTIATION
+				LPIAMBUFFERNEGOTIATION
+				LPLPIAMBUFFERNEGOTIATION
+		IAMAnalogVideoDecoder
+			IAMANALOGVIDEODECODER
+				LPIAMANALOGVIDEODECODER
+				LPLPIAMANALOGVIDEODECODER
+		IAMVideoProcAmp
+			IAMVIDEOPROCAMP
+				LPIAMVIDEOPROCAMP
+				LPLPIAMVIDEOPROCAMP
+		IAMAnalogVideoEncoder
+			IAMANALOGVIDEOENCODER
+				LPIAMANALOGVIDEOENCODER
+				LPLPIAMANALOGVIDEOENCODER
+		IAMCameraControl
+			IAMCAMERACONTROL
+				LPIAMCAMERACONTROL
+				LPLPIAMCAMERACONTROL
+		IAMCrossbar
+			IAMCROSSBAR
+				LPIAMCROSSBAR
+				LPLPIAMCROSSBAR
+		IAMTunerNotification
+			IAMTUNERNOTIFICATION
+				LPIAMTUNERNOTIFICATION
+				LPLPIAMTUNERNOTIFICATION
+		IAMTuner
+			IAMTUNER
+				LPIAMTUNER
+				LPLPIAMTUNER
+			IAMTVTuner
+				IAMTVTUNER
+					LPIAMTVTUNER
+					LPLPIAMTVTUNER
+			IBPCSatelliteTuner
+				IBPCSATELLITETUNER
+					LPIBPCSATELLITETUNER
+					LPLPIBPCSATELLITETUNER
+		IAMPhysicalPinInfo
+			IAMPHYSICALPININFO
+				LPIAMPHYSICALPININFO
+				LPLPIAMPHYSICALPININFO
+		IAMExtDevice
+			IAMEXTDEVICE
+				LPIAMEXTDEVICE
+				LPLPIAMEXTDEVICE
+		IAMExtTransport
+			IAMEXTTRANSPORT
+				LPIAMEXTTRANSPORT
+				LPLPIAMEXTTRANSPORT
+		IAMTimecodeReader
+			IAMTIMECODEREADER
+				LPIAMTIMECODEREADER
+				LPLPIAMTIMECODEREADER
+		IAMTimecodeGenerator
+			IAMTIMECODEGENERATOR
+				LPIAMTIMECODEGENERATOR
+				LPLPIAMTIMECODEGENERATOR
+		IAMTimecodeDisplay
+			IAMTIMECODEDISPLAY
+				LPIAMTIMECODEDISPLAY
+				LPLPIAMTIMECODEDISPLAY
+		IDrawVideoImage
+			IDRAWVIDEOIMAGE
+				LPIDRAWVIDEOIMAGE
+				LPLPIDRAWVIDEOIMAGE
+		IDecimateVideoImage
+			IDECIMATEVIDEOIMAGE
+				LPIDECIMATEVIDEOIMAGE
+				LPLPIDECIMATEVIDEOIMAGE
+		IAMVideoDecimationProperties
+			IAMVIDEODECIMATIONPROPERTIES
+				LPIAMVIDEODECIMATIONPROPERTIES
+				LPLPIAMVIDEODECIMATIONPROPERTIES
+		IAMLatency
+			IAMLATENCY
+				LPIAMLATENCY
+				LPLPIAMLATENCY
+			IAMPushSource
+				IAMPUSHSOURCE
+					LPIAMPUSHSOURCE
+					LPLPIAMPUSHSOURCE
+		IAMAudioRendererStats
+			IAMAUDIORENDERERSTATS
+				LPIAMAUDIORENDERERSTATS
+				LPLPIAMAUDIORENDERERSTATS
+		IAMGraphStreams
+			IAMGRAPHSTREAMS
+				LPIAMGRAPHSTREAMS
+				LPLPIAMGRAPHSTREAMS
+		IAMOverlayFX
+			IAMOVERLAYFX
+				LPIAMOVERLAYFX
+				LPLPIAMOVERLAYFX
+		IAMOpenProgress
+			IAMOPENPROGRESS
+				LPIAMOPENPROGRESS
+				LPLPIAMOPENPROGRESS
+		IMpeg2Demultiplexer
+			IMPEG2DEMULTIPLEXER
+				LPIMPEG2DEMULTIPLEXER
+				LPLPIMPEG2DEMULTIPLEXER
+		IEnumStreamIdMap
+			IENUMSTREAMIDMAP
+				LPIENUMSTREAMIDMAP
+				LPLPIENUMSTREAMIDMAP
+		IMPEG2StreamIdMap
+			IMPEG2STREAMIDMAP
+				LPIMPEG2STREAMIDMAP
+				LPLPIMPEG2STREAMIDMAP
+		IAMClockSlave
+			IAMCLOCKSLAVE
+				LPIAMCLOCKSLAVE
+				LPLPIAMCLOCKSLAVE
+		IEncoderAPI
+			IENCODERAPI
+				LPIENCODERAPI
+				LPLPIENCODERAPI
+		IStreamBuilder
+			ISTREAMBUILDER
+				LPISTREAMBUILDER
+				LPLPISTREAMBUILDER
+		IAsyncReader
+			IASYNCREADER
+				LPIASYNCREADER
+				LPLPIASYNCREADER
+		IGraphVersion
+			IGRAPHVERSION
+				LPIGRAPHVERSION
+				LPLPIGRAPHVERSION
+		IResourceConsumer
+			IRESOURCECONSUMER
+				LPIRESOURCECONSUMER
+				LPLPIRESOURCECONSUMER
+		IResourceManager
+			IRESOURCEMANAGER
+				LPIRESOURCEMANAGER
+				LPLPIRESOURCEMANAGER
+		IDistributorNotify
+			IDISTRIBUTORNOTIFY
+				LPIDISTRIBUTORNOTIFY
+				LPLPIDISTRIBUTORNOTIFY
+		IAMStreamControl
+			IAMSTREAMCONTROL
+				LPIAMSTREAMCONTROL
+				LPLPIAMSTREAMCONTROL
+		IAMVideoControl
+			IAMVIDEOCONTROL
+				LPIAMVIDEOCONTROL
+				LPLPIAMVIDEOCONTROL
+		IAMTVAudioNotification
+			IAMTVAUDIONOTIFICATION
+				LPIAMTVAUDIONOTIFICATION
+				LPLPIAMTVAUDIONOTIFICATION
+		IAMTVAudio
+			IAMTVAUDIO
+				LPIAMTVAUDIO
+				LPLPIAMTVAUDIO
+		IErrorLog
+			IERRORLOG
+				LPIERRORLOG
+				LPLPIERRORLOG
+		IPropertyBag
+			IPROPERTYBAG
+				LPIPROPERTYBAG
+				LPLPIPROPERTYBAG
+			IMediaPropertyBag
+				IMEDIAPROPERTYBAG
+					LPIMEDIAPROPERTYBAG
+					LPLPIMEDIAPROPERTYBAG
+		IAMStreamSelect
+			IAMSTREAMSELECT
+				LPIAMSTREAMSELECT
+				LPLPIAMSTREAMSELECT
+		IAMResourceControl
+			IAMRESOURCECONTROL
+				LPIAMRESOURCECONTROL
+				LPLPIAMRESOURCECONTROL
+		IAMClockAdjust
+			IAMCLOCKADJUST
+				LPIAMCLOCKADJUST
+				LPLPIAMCLOCKADJUST
+		IAMFilterMiscFlags
+			IAMFILTERMISCFLAGS
+				LPIAMFILTERMISCFLAGS
+				LPLPIAMFILTERMISCFLAGS
+		IVideoFrameStep
+			IVIDEOFRAMESTEP
+				LPIVIDEOFRAMESTEP
+				LPLPIVIDEOFRAMESTEP
+		IAMDeviceRemoval
+			IAMDEVICEREMOVAL
+				LPIAMDEVICEREMOVAL
+				LPLPIAMDEVICEREMOVAL
+		IDVEnc
+			IDVENC
+				LPIDVENC
+				LPLPIDVENC
+		IIPDVDec
+			IIPDVDEC
+				LPIIPDVDEC
+				LPLPIIPDVDEC
+		IDVRGB219
+			LPIDVRGB219
+			LPLPIDVRGB219
+		IDVSplitter
+			IDVSPLITTER
+				LPIDVSPLITTER
+				LPLPIDVSPLITTER
+		IRegisterServiceProvider
+			IREGISTERSERVICEPROVIDER
+				LPIREGISTERSERVICEPROVIDER
+				LPLPIREGISTERSERVICEPROVIDER
+		IAMDecoderCaps
+			IAMDECODERCAPS
+				LPIAMDECODERCAPS
+				LPLPIAMDECODERCAPS
+		IDvdControl
+			IDVDCONTROL
+				LPIDVDCONTROL
+				LPLPIDVDCONTROL
+		IDvdInfo
+			IDVDINFO
+				LPIDVDINFO
+				LPLPIDVDINFO
+		IDvdGraphBuilder
+			IDVDGRAPHBUILDER
+				LPIDVDGRAPHBUILDER
+				LPLPIDVDGRAPHBUILDER
+		IDDrawExclModeVideoCallback
+			IDDRAWEXCLMODEVIDEOCALLBACK
+				LPIDDRAWEXCLMODEVIDEOCALLBACK
+				LPLPIDDRAWEXCLMODEVIDEOCALLBACK
+		IDDrawExclModeVideo
+			IDDRAWEXCLMODEVIDEO
+				LPIDDRAWEXCLMODEVIDEO
+				LPLPIDDRAWEXCLMODEVIDEO
+		IDvdCmd
+			IDVDCMD
+				LPIDVDCMD
+				LPLPIDVDCMD
+		IDvdState
+			IDVDSTATE
+				LPIDVDSTATE
+				LPLPIDVDSTATE
+		IDvdControl2
+			IDVDCONTROL2
+				LPIDVDCONTROL2
+				LPLPIDVDCONTROL2
+		IDvdInfo2
+			IDVDINFO2
+				LPIDVDINFO2
+				LPLPIDVDINFO2
+		IPinConnection
+			IPINCONNECTION
+				LPIPINCONNECTION
+				LPLPIPINCONNECTION
+		IPinFlowControl
+			IPINFLOWCONTROL
+				LPIPINFLOWCONTROL
+				LPLPIPINFLOWCONTROL
+		IGraphConfigCallback
+			IGRAPHCONFIGCALLBACK
+				LPIGRAPHCONFIGCALLBACK
+				LPLPIGRAPHCONFIGCALLBACK
+		IGraphConfig
+			IGRAPHCONFIG
+				LPIGRAPHCONFIG
+				LPLPIGRAPHCONFIG
+		IFilterChain
+			IFILTERCHAIN
+				LPIFILTERCHAIN
+				LPLPIFILTERCHAIN
+		IVMRSurface
+			IVMRSURFACE
+				LPIVMRSURFACE
+				LPLPIVMRSURFACE
+		IVMRSurfaceAllocatorNotify
+			IVMRSURFACEALLOCATORNOTIFY
+				LPIVMRSURFACEALLOCATORNOTIFY
+				LPLPIVMRSURFACEALLOCATORNOTIFY
+		IVMRSurfaceAllocator
+			IVMRSURFACEALLOCATOR
+				LPIVMRSURFACEALLOCATOR
+				LPLPIVMRSURFACEALLOCATOR
+		IVMRImagePresenter
+			IVMRIMAGEPRESENTER
+				LPIVMRIMAGEPRESENTER
+				LPLPIVMRIMAGEPRESENTER
+		IVMRImagePresenterConfig
+			IVMRIMAGEPRESENTERCONFIG
+				LPIVMRIMAGEPRESENTERCONFIG
+				LPLPIVMRIMAGEPRESENTERCONFIG
+			IVMRImagePresenterExclModeConfig
+				IVMRIMAGEPRESENTEREXCLMODECONFIG
+					LPIVMRIMAGEPRESENTEREXCLMODECONFIG
+					LPLPIVMRIMAGEPRESENTEREXCLMODECONFIG
+		IVMRWindowlessControl
+			IVMRWINDOWLESSCONTROL
+				LPIVMRWINDOWLESSCONTROL
+				LPLPIVMRWINDOWLESSCONTROL
+		IVMRMixerControl
+			IVMRMIXERCONTROL
+				LPIVMRMIXERCONTROL
+				LPLPIVMRMIXERCONTROL
+		IVMRMixerBitmap
+			IVMRMIXERBITMAP
+				LPIVMRMIXERBITMAP
+				LPLPIVMRMIXERBITMAP
+		IVMRImageCompositor
+			IVMRIMAGECOMPOSITOR
+				LPIVMRIMAGECOMPOSITOR
+				LPLPIVMRIMAGECOMPOSITOR
+		IVMRFilterConfig
+			IVMRFILTERCONFIG
+				LPIVMRFILTERCONFIG
+				LPLPIVMRFILTERCONFIG
+		IVMRAspectRatioControl
+			IVMRASPECTRATIOCONTROL
+				LPIVMRASPECTRATIOCONTROL
+				LPLPIVMRASPECTRATIOCONTROL
+		IVMRDeinterlaceControl
+			IVMRDEINTERLACECONTROL
+				LPIVMRDEINTERLACECONTROL
+				LPLPIVMRDEINTERLACECONTROL
+		IVMRMonitorConfig
+			IVMRMONITORCONFIG
+				LPIVMRMONITORCONFIG
+				LPLPIVMRMONITORCONFIG
+		IVMRVideoStreamControl
+			IVMRVIDEOSTREAMCONTROL
+				LPIVMRVIDEOSTREAMCONTROL
+				LPLPIVMRVIDEOSTREAMCONTROL
+		IVPManager
+			IVPMANAGER
+				LPIVPMANAGER
+				LPLPIVPMANAGER
+		INSSBuffer
+			INSSBuffer2
+		IWMSBufferAllocator
+		IWMWriterSink
+			IWMWriterFileSink
+				IWMWriterFileSink2
+			IWMWriterNetworkSink
+		IWMStatusCallback
+			IWMReaderCallback
+			IWMWriterPostViewCallback
+		IWMStreamConfig
+		IWMProfile
+			IWMProfile2
+		IWMMediaProps
+			IWMInputMediaProps
+			IWMOutputMediaProps
+			IWMVideoMediaProps
+		IWMWriter
+		IWMPropertyVault
+		IWMReader
+		IWMCredentialCallback
+		IWMMetadataEditor
+			IWMMetadataEditor2
+		IWMHeaderInfo
+			IWMHeaderInfo2
+		IWMProfileManager
+			IWMProfileManager2
+		IWMPacketSize
+		IWMStreamList
+			IWMMutualExclusion
+		IWMWriterAdvanced
+			IWMWriterAdvanced2
+		IWMWriterPostView
+		IWMRegisterCallback
+		IWMClientConnections
+		IWMReaderAdvanced
+			IWMReaderAdvanced2
+				IWMReaderAdvanced3
+		IWMReaderAllocatorEx
+		IWMReaderTypeNegotiation
+		IWMReaderCallbackAdvanced
+		IWMDRMReader
+		IWMReaderNetworkConfig
+		IWMReaderStreamClock
+		IWMIndexer
+		IWMLicenseBackup
+		IWMLicenseRestore
+		IWMBackupRestoreProps
+		IWMCodecInfo
+			IWMCodecInfo2
+		ISAXEntityResolver
+			ISAXENTITYRESOLVER
+				LPISAXENTITYRESOLVER
+				LPLPISAXENTITYRESOLVER
+		ISAXLocator
+			ISAXLOCATOR
+				LPISAXLOCATOR
+				LPLPISAXLOCATOR
+		ISAXAttributes
+			ISAXATTRIBUTES
+				LPISAXATTRIBUTES
+				LPLPISAXATTRIBUTES
+		ISAXContentHandler
+			ISAXCONTENTHANDLER
+				LPISAXCONTENTHANDLER
+				LPLPISAXCONTENTHANDLER
+		ISAXDTDHandler
+			ISAXDTDHANDLER
+				LPISAXDTDHANDLER
+				LPLPISAXDTDHANDLER
+		ISAXErrorHandler
+			ISAXERRORHANDLER
+				LPISAXERRORHANDLER
+				LPLPISAXERRORHANDLER
+		ISAXXMLReader
+			ISAXXMLREADER
+				LPISAXXMLREADER
+				LPLPISAXXMLREADER
+			ISAXXMLFilter
+				ISAXXMLFILTER
+					LPISAXXMLFILTER
+					LPLPISAXXMLFILTER
+		ISAXLexicalHandler
+			ISAXLEXICALHANDLER
+				LPISAXLEXICALHANDLER
+				LPLPISAXLEXICALHANDLER
+		ISAXDeclHandler
+			ISAXDECLHANDLER
+				LPISAXDECLHANDLER
+				LPLPISAXDECLHANDLER
+		IXMLError
+			IXMLERROR
+				LPIXMLERROR
+				LPLPIXMLERROR
+		IEnumDialableAddrs
+			IENUMDIALABLEADDRS
+			LPIENUMDIALABLEADDRS
+			LPLPIENUMDIALABLEADDRS
+		IEnumDirectoryObject
+			IENUMDIRECTORYOBJECT
+			LPIENUMDIRECTORYOBJECT
+			LPLPIENUMDIRECTORYOBJECT
+		IEnumDirectory
+			IENUMDIRECTORY
+			LPIENUMDIRECTORY
+			LPLPIENUMDIRECTORY
+		ITypeComp
+			ITYPECOMP
+			LPITYPECOMP
+			LPLPITYPECOMP
+		ITypeLib
+			ITYPELIB
+			LPITYPELIB
+			LPLPITYPELIB
+		ITypeInfo
+			ITYPEINFO
+			LPITYPEINFO
+			LPLPITYPEINFO
+		ISpSREngineSite
+			ISPSRENGINESITE
+			LPISPSRENGINESITE
+			LPLPISPSRENGINESITE
+		ISpDataKey
+			ISPDATAKEY
+			LPISPDATAKEY
+			LPLPISPDATAKEY
+			ISpObjectTokenCategory
+				ISPOBJECTTOKENCATEGORY
+				LPISPOBJECTTOKENCATEGORY
+				LPLPISPOBJECTTOKENCATEGORY
+			ISpObjectToken
+				ISPOBJECTTOKEN
+				LPISPOBJECTTOKEN
+				LPLPISPOBJECTTOKEN
+		IEnumSpObjectTokens
+			IENUMSPOBJECTTOKENS
+			LPIENUMSPOBJECTTOKENS
+			LPLPIENUMSPOBJECTTOKENS
+		ISpSREngine
+			ISPSRENGINE
+			LPISPSRENGINE
+			LPLPISPSRENGINE
+		ISpPhrase
+			ISPPHRASE
+			LPISPPHRASE
+			LPLPISPPHRASE
+			ISpPhraseBuilder
+				ISPPHRASEBUILDER
+				LPISPPHRASEBUILDER
+				LPLPISPPHRASEBUILDER
+			ISpPhraseAlt
+				ISPPHRASEALT
+				LPISPPHRASEALT
+				LPLPISPPHRASEALT
+			ISpRecoResult
+				ISPRECORESULT
+				LPISPRECORESULT
+				LPLPISPRECORESULT
+		ISpSRAlternates
+			ISPSRALTERNATES
+			LPISPSRALTERNATES
+			LPLPISPSRALTERNATES
+		ISpNotifySink
+			ISPNOTIFYSINK
+			LPISPNOTIFYSINK
+			LPLPISPNOTIFYSINK
+		ISpNotifySource
+			ISPNOTIFYSOURCE
+			LPISPNOTIFYSOURCE
+			LPLPISPNOTIFYSOURCE
+			ISpEventSource
+				ISPEVENTSOURCE
+				LPISPEVENTSOURCE
+				LPLPISPEVENTSOURCE
+				ISpVoice
+					ISPVOICE
+					LPISPVOICE
+					LPLPISPVOICE
+				ISpRecoContext
+					ISPRECOCONTEXT
+					LPISPRECOCONTEXT
+					LPLPISPRECOCONTEXT
+		ISpProperties
+			ISPPROPERTIES
+			LPISPPROPERTIES
+			LPLPISPPROPERTIES
+			ISpRecognizer
+				ISPRECOGNIZER
+				LPISPRECOGNIZER
+				LPLPISPRECOGNIZER
+		ISpGrammarBuilder
+			ISPGRAMMARBUILDER
+			LPISPGRAMMARBUILDER
+			LPLPISPGRAMMARBUILDER
+			ISpRecoGrammar
+				ISPRECOGRAMMAR
+				LPISPRECOGRAMMAR
+				LPLPISPRECOGRAMMAR
+		ISpObjectWithToken
+			ISPOBJECTWITHTOKEN
+			LPISPOBJECTWITHTOKEN
+			LPLPISPOBJECTWITHTOKEN
+			ISpPhoneConverter
+				ISPPHONECONVERTER
+				LPISPPHONECONVERTER
+				LPLPISPPHONECONVERTER
+		IElementBehaviorSite
+			IELEMENTBEHAVIORSITE
+				LPIELEMENTBEHAVIORSITE
+				LPLPIELEMENTBEHAVIORSITE
+		IElementBehavior
+			IELEMENTBEHAVIOR
+				LPIELEMENTBEHAVIOR
+				LPLPIELEMENTBEHAVIOR
+		IElementBehaviorFactory
+			IELEMENTBEHAVIORFACTORY
+				LPIELEMENTBEHAVIORFACTORY
+				LPLPIELEMENTBEHAVIORFACTORY
+		IElementBehaviorSiteOM
+			IELEMENTBEHAVIORSITEOM
+				LPIELEMENTBEHAVIORSITEOM
+				LPLPIELEMENTBEHAVIORSITEOM
+			IElementBehaviorSiteOM2
+				IELEMENTBEHAVIORSITEOM2
+					LPIELEMENTBEHAVIORSITEOM2
+					LPLPIELEMENTBEHAVIORSITEOM2
+		IElementBehaviorRender
+			IELEMENTBEHAVIORRENDER
+				LPIELEMENTBEHAVIORRENDER
+				LPLPIELEMENTBEHAVIORRENDER
+		IElementBehaviorSiteRender
+			IELEMENTBEHAVIORSITERENDER
+				LPIELEMENTBEHAVIORSITERENDER
+				LPLPIELEMENTBEHAVIORSITERENDER
+		IHTMLElementRender
+			IHTMLELEMENTRENDER
+				LPIHTMLELEMENTRENDER
+				LPLPIHTMLELEMENTRENDER
+		ICSSFilterSite
+			ICSSFILTERSITE
+				LPICSSFILTERSITE
+				LPLPICSSFILTERSITE
+		IMarkupContainer
+			IMARKUPCONTAINER
+				LPIMARKUPCONTAINER
+				LPLPIMARKUPCONTAINER
+			IMarkupContainer2
+				IMARKUPCONTAINER2
+					LPIMARKUPCONTAINER2
+					LPLPIMARKUPCONTAINER2
+		IMarkupPointer
+			IMARKUPPOINTER
+				LPIMARKUPPOINTER
+				LPLPIMARKUPPOINTER
+			IMarkupPointer2
+				IMARKUPPOINTER2
+					LPIMARKUPPOINTER2
+					LPLPIMARKUPPOINTER2
+		IHTMLChangeSink
+			IHTMLCHANGESINK
+				LPIHTMLCHANGESINK
+				LPLPIHTMLCHANGESINK
+		IHTMLChangeLog
+			IHTMLCHANGELOG
+				LPIHTMLCHANGELOG
+				LPLPIHTMLCHANGELOG
+		IEnumRegisterWordA
+			IENUMREGISTERWORDA
+				LPIENUMREGISTERWORDA
+				LPLPIENUMREGISTERWORDA
+		IEnumRegisterWordW
+			IENUMREGISTERWORDW
+				LPIENUMREGISTERWORDW
+				LPLPIENUMREGISTERWORDW
+		IEnumInputContext
+			IENUMINPUTCONTEXT
+				LPIENUMINPUTCONTEXT
+				LPLPIENUMINPUTCONTEXT
+		IActiveIMMApp
+			IACTIVEIMMAPP
+				LPIACTIVEIMMAPP
+				LPLPIACTIVEIMMAPP
+		ISegment
+			ISEGMENT
+				LPISEGMENT
+				LPLPISEGMENT
+			IElementSegment
+				IELEMENTSEGMENT
+					LPIELEMENTSEGMENT
+					LPLPIELEMENTSEGMENT
+		ISegmentListIterator
+			ISEGMENTLISTITERATOR
+				LPISEGMENTLISTITERATOR
+				LPLPISEGMENTLISTITERATOR
+		ISegmentList
+			ISEGMENTLIST
+				LPISEGMENTLIST
+				LPLPISEGMENTLIST
+		ILineInfo
+			ILINEINFO
+				LPILINEINFO
+				LPLPILINEINFO
+		IDisplayPointer
+			IDISPLAYPOINTER
+				LPIDISPLAYPOINTER
+				LPLPIDISPLAYPOINTER
+		IHTMLCaret
+			IHTMLCARET
+				LPIHTMLCARET
+				LPLPIHTMLCARET
+		IHighlightRenderingServices
+			IHIGHLIGHTRENDERINGSERVICES
+				LPIHIGHLIGHTRENDERINGSERVICES
+				LPLPIHIGHLIGHTRENDERINGSERVICES
+		IHTMLComputedStyle
+			IHTMLCOMPUTEDSTYLE
+				LPIHTMLCOMPUTEDSTYLE
+				LPLPIHTMLCOMPUTEDSTYLE
+		IDisplayServices
+			IDISPLAYSERVICES
+				LPIDISPLAYSERVICES
+				LPLPIDISPLAYSERVICES
+		ICSSFilter
+			ICSSFILTER
+				LPICSSFILTER
+				LPLPICSSFILTER
+		ISecureUrlHost
+			ISECUREURLHOST
+				LPISECUREURLHOST
+				LPLPISECUREURLHOST
+		IMarkupServices
+			IMARKUPSERVICES
+				LPIMARKUPSERVICES
+				LPLPIMARKUPSERVICES
+			IMarkupServices2
+				IMARKUPSERVICES2
+					LPIMARKUPSERVICES2
+					LPLPIMARKUPSERVICES2
+		IHTMLChangePlayback
+			IHTMLCHANGEPLAYBACK
+				LPIHTMLCHANGEPLAYBACK
+				LPLPIHTMLCHANGEPLAYBACK
+		IMarkupTextFrags
+			IMARKUPTEXTFRAGS
+				LPIMARKUPTEXTFRAGS
+				LPLPIMARKUPTEXTFRAGS
+		IXMLGenericParse
+			IXMLGENERICPARSE
+				LPIXMLGENERICPARSE
+				LPLPIXMLGENERICPARSE
+		IHTMLEditHost
+			IHTMLEDITHOST
+				LPIHTMLEDITHOST
+				LPLPIHTMLEDITHOST
+			IHTMLEditHost2
+				IHTMLEDITHOST2
+					LPIHTMLEDITHOST2
+					LPLPIHTMLEDITHOST2
+		ISequenceNumber
+			ISEQUENCENUMBER
+				LPISEQUENCENUMBER
+				LPLPISEQUENCENUMBER
+		IIMEServices
+			IIMESERVICES
+				LPIIMESERVICES
+				LPLPIIMESERVICES
+		ISelectionServicesListener
+			ISELECTIONSERVICESLISTENER
+				LPISELECTIONSERVICESLISTENER
+				LPLPISELECTIONSERVICESLISTENER
+		ISelectionServices
+			ISELECTIONSERVICES
+				LPISELECTIONSERVICES
+				LPLPISELECTIONSERVICES
+		IHTMLEditDesigner
+			IHTMLEDITDESIGNER
+				LPIHTMLEDITDESIGNER
+				LPLPIHTMLEDITDESIGNER
+		IHTMLEditServices
+			IHTMLEDITSERVICES
+				LPIHTMLEDITSERVICES
+				LPLPIHTMLEDITSERVICES
+			IHTMLEditServices2
+				IHTMLEDITSERVICES2
+					LPIHTMLEDITSERVICES2
+					LPLPIHTMLEDITSERVICES2
+		IHTMLPainter
+			IHTMLPAINTER
+				LPIHTMLPAINTER
+				LPLPIHTMLPAINTER
+		IHTMLPaintSite
+			IHTMLPAINTSITE
+				LPIHTMLPAINTSITE
+				LPLPIHTMLPAINTSITE
+		IHTMLPainterEventInfo
+			IHTMLPAINTEREVENTINFO
+				LPIHTMLPAINTEREVENTINFO
+				LPLPIHTMLPAINTEREVENTINFO
+		IHTMLPainterOverlay
+			IHTMLPAINTEROVERLAY
+				LPIHTMLPAINTEROVERLAY
+				LPLPIHTMLPAINTEROVERLAY
+		IEnumPrivacyRecords
+			IENUMPRIVACYRECORDS
+				LPIENUMPRIVACYRECORDS
+				LPLPIENUMPRIVACYRECORDS
+		IElementNamespace
+			IELEMENTNAMESPACE
+				LPIELEMENTNAMESPACE
+				LPLPIELEMENTNAMESPACE
+		IElementNamespaceTable
+			IELEMENTNAMESPACETABLE
+				LPIELEMENTNAMESPACETABLE
+				LPLPIELEMENTNAMESPACETABLE
+		IElementNamespaceFactory
+			IELEMENTNAMESPACEFACTORY
+				LPIELEMENTNAMESPACEFACTORY
+				LPLPIELEMENTNAMESPACEFACTORY
+			IElementNamespaceFactory2
+				IELEMENTNAMESPACEFACTORY2
+					LPIELEMENTNAMESPACEFACTORY2
+					LPLPIELEMENTNAMESPACEFACTORY2
+		IElementNamespaceFactoryCallback
+			IELEMENTNAMESPACEFACTORYCALLBACK
+				LPIELEMENTNAMESPACEFACTORYCALLBACK
+				LPLPIELEMENTNAMESPACEFACTORYCALLBACK
+		IElementBehaviorCategory
+			IELEMENTBEHAVIORCATEGORY
+				LPIELEMENTBEHAVIORCATEGORY
+				LPLPIELEMENTBEHAVIORCATEGORY
+		IEnumUnknown
+			IENUMUNKNOWN
+				LPIENUMUNKNOWN
+				LPLPIENUMUNKNOWN
+		IElementBehaviorSiteCategory
+			IELEMENTBEHAVIORSITECATEGORY
+				LPIELEMENTBEHAVIORSITECATEGORY
+				LPLPIELEMENTBEHAVIORSITECATEGORY
+		IElementBehaviorSubmit
+			IELEMENTBEHAVIORSUBMIT
+				LPIELEMENTBEHAVIORSUBMIT
+				LPLPIELEMENTBEHAVIORSUBMIT
+		IElementBehaviorFocus
+			IELEMENTBEHAVIORFOCUS
+				LPIELEMENTBEHAVIORFOCUS
+				LPLPIELEMENTBEHAVIORFOCUS
+		IElementBehaviorLayout
+			IELEMENTBEHAVIORLAYOUT
+				LPIELEMENTBEHAVIORLAYOUT
+				LPLPIELEMENTBEHAVIORLAYOUT
+		IElementBehaviorLayout2
+			IELEMENTBEHAVIORLAYOUT2
+				LPIELEMENTBEHAVIORLAYOUT2
+				LPLPIELEMENTBEHAVIORLAYOUT2
+		IElementBehaviorSiteLayout
+			IELEMENTBEHAVIORSITELAYOUT
+				LPIELEMENTBEHAVIORSITELAYOUT
+				LPLPIELEMENTBEHAVIORSITELAYOUT
+		IElementBehaviorSiteLayout2
+			IELEMENTBEHAVIORSITELAYOUT2
+				LPIELEMENTBEHAVIORSITELAYOUT2
+				LPLPIELEMENTBEHAVIORSITELAYOUT2
+		IHostBehaviorInit
+			IHOSTBEHAVIORINIT
+				LPIHOSTBEHAVIORINIT
+				LPLPIHOSTBEHAVIORINIT
+		IInspectable
+			IActivationFactory
+			IGetActivationFactory
+			IActivatableClassRegistration
+			IDllServerActivatableClassRegistration
+			IExeServerRegistration
+			IExeServerActivatableClassRegistration
+			IExtensionRegistration
+			IIterator
+				IIterator_IExtensionRegistration
+			IExtensionCatalog
+		IWinRTNoGuid
+		IWinRTInprocActivator
+		IApplicationActivationManager
+		IApplicationActivationManagerPriv
+		IContractActivation
+		IPackageExecutionStateChangeNotification
+		IPackageDebugSettings
+	Font
+		FONT
+			IFontDisp
+		LPFONT
+		LPLPFONT
+	IWhqlObj
+		IWHQLOBJ
+		LPIWHQLOBJ
+		LPLPIWHQLOBJ
+	IHTCMethodBehavior
+		IHTCMETHODBEHAVIOR
+			LPIHTCMETHODBEHAVIOR
+			LPLPIHTCMETHODBEHAVIOR
+	DispHTCMethodBehavior
+		DISPHTCMETHODBEHAVIOR
+			LPDISPHTCMETHODBEHAVIOR
+			LPLPDISPHTCMETHODBEHAVIOR
+	IHTMLTextElement
+		IHTMLTEXTELEMENT
+			LPIHTMLTEXTELEMENT
+			LPLPIHTMLTEXTELEMENT
+	IHTMLListElement
+		IHTMLLISTELEMENT
+			LPIHTMLLISTELEMENT
+			LPLPIHTMLLISTELEMENT
+	IHTMLUnknownElement
+		IHTMLUNKNOWNELEMENT
+			LPIHTMLUNKNOWNELEMENT
+			LPLPIHTMLUNKNOWNELEMENT
+	IHTMLPhraseElement
+		IHTMLPHRASEELEMENT
+			LPIHTMLPHRASEELEMENT
+			LPLPIHTMLPHRASEELEMENT
+	IHTMLSpanElement
+		IHTMLSPANELEMENT
+			LPIHTMLSPANELEMENT
+			LPLPIHTMLSPANELEMENT
+	IHTMLNoShowElement
+		IHTMLNOSHOWELEMENT
+			LPIHTMLNOSHOWELEMENT
+			LPLPIHTMLNOSHOWELEMENT
+	IHighlightSegment
+		IHIGHLIGHTSEGMENT
+			LPIHIGHLIGHTSEGMENT
+			LPLPIHIGHLIGHTSEGMENT
+UNICODE_STRING
+	PUNICODE_STRING
+_OBJECT_ATTRIBUTES
+	PLSA_OBJECT_ATTRIBUTES
+	POBJECT_ATTRIBUTES
+CLSID
+LONGLONG
+	QWORD
+ULONGLONG
+ULARGE_INTEGER
+PULARGE_INTEGER
+LARGE_INTEGER
+PLARGE_INTEGER
+DWORDLONG
+_FILETIME
+FILETIME
+LPFILETIME
+PFILETIME
+STARTUPINFOA
+LPSTARTUPINFOA
+STARTUPINFOW
+LPSTARTUPINFOW
+PROCESS_INFORMATION
+LPPROCESS_INFORMATION
+WIN32_FIND_DATAW
+LPWIN32_FIND_DATAW
+WIN32_FIND_DATAA
+LPWIN32_FIND_DATAA
+tagPOINT
+POINT
+PPOINT
+LPPOINT
+tagRECT
+	LPCBORDERWIDTHS
+	BORDERWIDTHS
+RECT
+PRECT
+LPRECT
+PALETTEENTRY
+LPPALETTEENTRY
+tagSIZE
+SIZE
+PSIZE
+LPSIZE
+RGNDATAHEADER
+RGNDATA
+PRGNDATA
+LPRGNDATA
+RECTL
+PRECTL
+LPRECTL
+SIZEL
+	PSIZEL
+	LPSIZEL
+SECURITY_ATTRIBUTES
+LPSECURITY_ATTRIBUTES
+_COORD
+COORD
+PCOORD
+SMALL_RECT
+PSMALL_RECT
+DEVMODEA
+PDEVMODEA
+NPDEVMODEA
+LPDEVMODEA
+DEVMODEW
+PDEVMODEW
+NPDEVMODEW
+LPDEVMODEW
+_RemotableHandle
+	wireHWND
+	wireHDC
+IMAGE_DELAYLOAD_DESCRIPTOR
+	PIMAGE_DELAYLOAD_DESCRIPTOR
+	PCIMAGE_DELAYLOAD_DESCRIPTOR
+OVERLAPPED
+IO_COUNTERS
+	LPIO_COUNTERS
+HEAPLIST32
+	PHEAPLIST32
+	LPHEAPLIST32
+HEAPENTRY32
+	PHEAPENTRY32
+	LPHEAPENTRY32
+PROCESSENTRY32W
+	PPROCESSENTRY32W
+	LPPROCESSENTRY32W
+PROCESSENTRY32
+	PPROCESSENTRY32
+	LPPROCESSENTRY32
+THREADENTRY32
+	PTHREADENTRY32
+	LPTHREADENTRY32
+MODULEENTRY32W
+	PMODULEENTRY32W
+	LPMODULEENTRY32W
+MODULEENTRY32
+	PMODULEENTRY32
+	LPMODULEENTRY32
+MEMORYSTATUS
+LPMEMORYSTATUS
+MEMORYSTATUSEX
+LPMEMORYSTATUSEX
+Region
+PROCESS_HEAP_ENTRY
+LPPROCESS_HEAP_ENTRY
+MEMORY_BASIC_INFORMATION
+PMEMORY_BASIC_INFORMATION
+MEMORY_BASIC_INFORMATION_VLM
+PMEMORY_BASIC_INFORMATION_VLM
+SYSTEM_INFO
+CONSOLE_SELECTION_INFO
+PCONSOLE_SELECTION_INFO
+CONSOLE_FONT_INFO
+PCONSOLE_FONT_INFO
+MENU_EVENT_RECORD
+PMENU_EVENT_RECORD
+CONSOLE_SCREEN_BUFFER_INFO
+PCONSOLE_SCREEN_BUFFER_INFO
+MOUSE_EVENT_RECORD
+PMOUSE_EVENT_RECORD
+KEY_EVENT_RECORD
+PKEY_EVENT_RECORD
+WINDOW_BUFFER_SIZE_RECORD
+PWINDOW_BUFFER_SIZE_RECORD
+CHAR_INFO
+PCHAR_INFO
+CONSOLE_CURSOR_INFO
+PCONSOLE_CURSOR_INFO
+INPUT_RECORD
+PINPUT_RECORD
+FOCUS_EVENT_RECORD
+PFOCUS_EVENT_RECORD
+BY_HANDLE_FILE_INFORMATION
+LPBY_HANDLE_FILE_INFORMATION
+OFSTRUCT
+LPOFSTRUCT
+POFSTRUCT
+FILE_NOTIFY_INFORMATION
+LPFILE_NOTIFY_INFORMATION
+DiskBytes
+PDiskBytes
+WIN32_STREAM_ID
+LPWIN32_STREAM_ID
+TAPE_GET_MEDIA_PARAMETERS
+LPTAPE_GET_MEDIA_PARAMETERS
+TAPE_GET_DRIVE_PARAMETERS
+LPTAPE_GET_DRIVE_PARAMETERS
+TAPE_SET_MEDIA_PARAMETERS
+LPTAPE_SET_MEDIA_PARAMETERS
+TAPE_SET_DRIVE_PARAMETERS
+LPTAPE_SET_DRIVE_PARAMETERS
+SYSTEM_POWER_STATUS
+LPSYSTEM_POWER_STATUS
+OSVERSIONINFOA
+LPOSVERSIONINFOA
+OSVERSIONINFOW
+LPOSVERSIONINFOW
+SID_IDENTIFIER_AUTHORITY
+PSID_IDENTIFIER_AUTHORITY
+SERVICE_DESCRIPTIONA
+LPSERVICE_DESCRIPTIONA
+SERVICE_DESCRIPTIONW
+LPSERVICE_DESCRIPTIONW
+SC_ACTION
+LPSC_ACTION
+SERVICE_FAILURE_ACTIONSA
+LPSERVICE_FAILURE_ACTIONSA
+SERVICE_FAILURE_ACTIONSW
+LPSERVICE_FAILURE_ACTIONSW
+SERVICE_STATUS
+LPSERVICE_STATUS
+SERVICE_STATUS_PROCESS
+LPSERVICE_STATUS_PROCESS
+ENUM_SERVICE_STATUSA
+LPENUM_SERVICE_STATUSA
+ENUM_SERVICE_STATUSW
+LPENUM_SERVICE_STATUSW
+ENUM_SERVICE_STATUS_PROCESSA
+LPENUM_SERVICE_STATUS_PROCESSA
+ENUM_SERVICE_STATUS_PROCESSW
+LPENUM_SERVICE_STATUS_PROCESSW
+QUERY_SERVICE_LOCK_STATUSA
+LPQUERY_SERVICE_LOCK_STATUSA
+QUERY_SERVICE_LOCK_STATUSW
+LPQUERY_SERVICE_LOCK_STATUSW
+QUERY_SERVICE_CONFIGA
+LPQUERY_SERVICE_CONFIGA
+QUERY_SERVICE_CONFIGW
+LPQUERY_SERVICE_CONFIGW
+SERVICE_TABLE_ENTRYA
+LPSERVICE_TABLE_ENTRYA
+SERVICE_TABLE_ENTRYW
+LPSERVICE_TABLE_ENTRYW
+EFS_HASH_BLOB
+LPEFS_HASH_BLOB
+PEFS_HASH_BLOB
+EFS_CERTIFICATE_BLOB
+PEFS_CERTIFICATE_BLOB
+ENCRYPTION_CERTIFICATE_HASH
+LPENCRYPTION_CERTIFICATE_HASH
+PENCRYPTION_CERTIFICATE_HASH
+ENCRYPTION_CERTIFICATE_HASH_LIST
+LPENCRYPTION_CERTIFICATE_HASH_LIST
+PENCRYPTION_CERTIFICATE_HASH_LIST
+ENCRYPTION_CERTIFICATE
+LPENCRYPTION_CERTIFICATE
+PENCRYPTION_CERTIFICATE
+ENCRYPTION_CERTIFICATE_LIST
+LPENCRYPTION_CERTIFICATE_LIST
+PENCRYPTION_CERTIFICATE_LIST
+DEV_BROADCAST_HDR
+	LPDEV_BROADCAST_HDR
+SP_DEVINFO_DATA
+PSP_DEVINFO_DATA
+SP_DEVICE_INTERFACE_DATA
+PSP_DEVICE_INTERFACE_DATA
+SP_DEVINFO_LIST_DETAIL_DATA_A
+PSP_DEVINFO_LIST_DETAIL_DATA_A
+SP_DEVINFO_LIST_DETAIL_DATA_W
+PSP_DEVINFO_LIST_DETAIL_DATA_W
+SP_DEVICE_INTERFACE_DETAIL_DATA_A
+PSP_DEVICE_INTERFACE_DETAIL_DATA_A
+SP_DEVICE_INTERFACE_DETAIL_DATA_W
+PSP_DEVICE_INTERFACE_DETAIL_DATA_W
+VALENTA
+PVALENTA
+VALENTW
+PVALENTW
+METAFILEPICT
+LPMETAFILEPICT
+COLORADJUSTMENT
+PCOLORADJUSTMENT
+LPCOLORADJUSTMENT
+POINTL
+PPOINTL
+POINTS
+PPOINTS
+DRAWPATRECT
+PDRAWPATRECT
+PSFEATURE_OUTPUT
+PPSFEATURE_OUTPUT
+PSFEATURE_CUSTPAPER
+PPSFEATURE_CUSTPAPER
+PSINJECTDATA
+PPSINJECTDATA
+XFORM
+PXFORM
+LPXFORM
+BITMAP
+PBITMAP
+NPBITMAP
+LPBITMAP
+RGBTRIPLE
+RGBQUAD
+	LPRGBQUAD
+CIEXYZ
+	LPCIEXYZ
+CIEXYZTRIPLE
+	LPCIEXYZTRIPLE
+LOGCOLORSPACEA
+LPLOGCOLORSPACEA
+LOGCOLORSPACEW
+LPLOGCOLORSPACEW
+BITMAPCOREHEADER
+LPBITMAPCOREHEADER
+PBITMAPCOREHEADER
+BITMAPINFOHEADER
+LPBITMAPINFOHEADER
+PBITMAPINFOHEADER
+BITMAPV4HEADER
+LPBITMAPV4HEADER
+PBITMAPV4HEADER
+BITMAPV5HEADER
+LPBITMAPV5HEADER
+PBITMAPV5HEADER
+BITMAPINFO
+LPBITMAPINFO
+PBITMAPINFO
+BITMAPCOREINFO
+LPBITMAPCOREINFO
+PBITMAPCOREINFO
+BITMAPFILEHEADER
+LPBITMAPFILEHEADER
+PBITMAPFILEHEADER
+FONTSIGNATURE
+PFONTSIGNATURE
+LPFONTSIGNATURE
+CHARSETINFO
+PCHARSETINFO
+NPCHARSETINFO
+LPCHARSETINFO
+LOCALESIGNATURE
+PLOCALESIGNATURE
+LPLOCALESIGNATURE
+HANDLETABLE
+PHANDLETABLE
+LPHANDLETABLE
+METARECORD
+PMETARECORD
+LPMETARECORD
+METAHEADER
+PMETAHEADER
+LPMETAHEADER
+ENHMETARECORD
+PENHMETARECORD
+LPENHMETARECORD
+ENHMETAHEADER
+PENHMETAHEADER
+LPENHMETAHEADER
+TEXTMETRICA
+PTEXTMETRICA
+NPTEXTMETRICA
+LPTEXTMETRICA
+TEXTMETRICW
+PTEXTMETRICW
+NPTEXTMETRICW
+LPTEXTMETRICW
+NEWTEXTMETRICA
+PNEWTEXTMETRICA
+NPNEWTEXTMETRICA
+LPNEWTEXTMETRICA
+NEWTEXTMETRICW
+PNEWTEXTMETRICW
+NPNEWTEXTMETRICW
+LPNEWTEXTMETRICW
+NEWTEXTMETRICEXA
+NEWTEXTMETRICEXW
+PELARRAY
+PPELARRAY
+NPPELARRAY
+LPPELARRAY
+LOGBRUSH
+	PATTERN
+		PPATTERN
+		NPPATTERN
+		LPPATTERN
+PLOGBRUSH
+NPLOGBRUSH
+LPLOGBRUSH
+LOGBRUSH32
+PLOGBRUSH32
+NPLOGBRUSH32
+LPLOGBRUSH32
+LOGPEN
+PLOGPEN
+NPLOGPEN
+LPLOGPEN
+EXTLOGPEN
+PEXTLOGPEN
+NPEXTLOGPEN
+LPEXTLOGPEN
+LOGPALETTE
+PLOGPALETTE
+NPLOGPALETTE
+LPLOGPALETTE
+LOGFONTA
+PLOGFONTA
+NPLOGFONTA
+LPLOGFONTA
+LOGFONTW
+PLOGFONTW
+NPLOGFONTW
+LPLOGFONTW
+ENUMLOGFONTA
+LPENUMLOGFONTA
+ENUMLOGFONTW
+LPENUMLOGFONTW
+ENUMLOGFONTEXA
+LPENUMLOGFONTEXA
+ENUMLOGFONTEXW
+LPENUMLOGFONTEXW
+PANOSE
+LPPANOSE
+EXTLOGFONTA
+PEXTLOGFONTA
+NPEXTLOGFONTA
+LPEXTLOGFONTA
+EXTLOGFONTW
+PEXTLOGFONTW
+NPEXTLOGFONTW
+LPEXTLOGFONTW
+ABC
+PABC
+NPABC
+LPABC
+ABCFLOAT
+PABCFLOAT
+NPABCFLOAT
+LPABCFLOAT
+OUTLINETEXTMETRICA
+POUTLINETEXTMETRICA
+NPOUTLINETEXTMETRICA
+LPOUTLINETEXTMETRICA
+OUTLINETEXTMETRICW
+POUTLINETEXTMETRICW
+NPOUTLINETEXTMETRICW
+LPOUTLINETEXTMETRICW
+POLYTEXTA
+PPOLYTEXTA
+NPPOLYTEXTA
+LPPOLYTEXTA
+POLYTEXTW
+PPOLYTEXTW
+NPPOLYTEXTW
+LPPOLYTEXTW
+FIXED
+MAT2
+LPMAT2
+GLYPHMETRICS
+LPGLYPHMETRICS
+POINTFX
+LPPOINTFX
+TTPOLYCURVE
+LPTTPOLYCURVE
+TTPOLYGONHEADER
+LPTTPOLYGONHEADER
+GCP_RESULTSA
+LPGCP_RESULTSA
+GCP_RESULTSW
+LPGCP_RESULTSW
+RASTERIZER_STATUS
+LPRASTERIZER_STATUS
+PIXELFORMATDESCRIPTOR
+PPIXELFORMATDESCRIPTOR
+LPPIXELFORMATDESCRIPTOR
+WCRANGE
+PWCRANGE
+LPWCRANGE
+GLYPHSET
+PGLYPHSET
+LPGLYPHSET
+DESIGNVECTOR
+PDESIGNVECTOR
+LPDESIGNVECTOR
+AXISINFOA
+PAXISINFOA
+LPAXISINFOA
+AXISINFOW
+PAXISINFOW
+LPAXISINFOW
+AXESLISTA
+PAXESLISTA
+LPAXESLISTA
+AXESLISTW
+PAXESLISTW
+LPAXESLISTW
+ENUMLOGFONTEXDVA
+PENUMLOGFONTEXDVA
+LPENUMLOGFONTEXDVA
+ENUMLOGFONTEXDVW
+PENUMLOGFONTEXDVW
+LPENUMLOGFONTEXDVW
+ENUMTEXTMETRICA
+PENUMTEXTMETRICA
+LPENUMTEXTMETRICA
+ENUMTEXTMETRICW
+PENUMTEXTMETRICW
+LPENUMTEXTMETRICW
+TRIVERTEX
+PTRIVERTEX
+LPTRIVERTEX
+GRADIENT_TRIANGLE
+PGRADIENT_TRIANGLE
+LPGRADIENT_TRIANGLE
+GRADIENT_RECT
+PGRADIENT_RECT
+LPGRADIENT_RECT
+BLENDFUNCTION
+PBLENDFUNCTION
+DIBSECTION
+LPDIBSECTION
+PDIBSECTION
+KERNINGPAIR
+LPKERNINGPAIR
+EMR
+PEMR
+EMRTEXT
+PEMRTEXT
+EMRABORTPATH
+PEMRABORTPATH
+EMRBEGINPATH
+PEMRBEGINPATH
+EMRENDPATH
+PEMRENDPATH
+EMRCLOSEFIGURE
+PEMRCLOSEFIGURE
+EMRFLATTENPATH
+PEMRFLATTENPATH
+EMRWIDENPATH
+PEMRWIDENPATH
+EMRSETMETARGN
+PEMRSETMETARGN
+EMRSAVEDC
+PEMRSAVEDC
+EMRREALIZEPALETTE
+PEMRREALIZEPALETTE
+EMRSELECTCLIPPATH
+PEMRSELECTCLIPPATH
+EMRSETBKMODE
+PEMRSETBKMODE
+EMRSETMAPMODE
+PEMRSETMAPMODE
+EMRSETLAYOUT
+PEMRSETLAYOUT
+EMRSETPOLYFILLMODE
+PEMRSETPOLYFILLMODE
+EMRSETROP2
+PEMRSETROP2
+EMRSETSTRETCHBLTMODE
+PEMRSETSTRETCHBLTMODE
+EMRSETICMMODE
+PEMRSETICMMODE
+EMRSETTEXTALIGN
+PEMRSETTEXTALIGN
+EMRSETMITERLIMIT
+PEMRSETMITERLIMIT
+EMRRESTOREDC
+PEMRRESTOREDC
+EMRSETARCDIRECTION
+PEMRSETARCDIRECTION
+EMRSETMAPPERFLAGS
+PEMRSETMAPPERFLAGS
+EMRSETBKCOLOR
+PEMRSETBKCOLOR
+EMRSETTEXTCOLOR
+PEMRSETTEXTCOLOR
+EMRSELECTOBJECT
+PEMRSELECTOBJECT
+EMRDELETEOBJECT
+PEMRDELETEOBJECT
+EMRSELECTPALETTE
+PEMRSELECTPALETTE
+EMRRESIZEPALETTE
+PEMRRESIZEPALETTE
+EMRSETPALETTEENTRIES
+PEMRSETPALETTEENTRIES
+EMRSETCOLORADJUSTMENT
+PEMRSETCOLORADJUSTMENT
+EMRGDICOMMENT
+PEMRGDICOMMENT
+EMREOF
+PEMREOF
+EMRLINETO
+PEMRLINETO
+EMRMOVETOEX
+PEMRMOVETOEX
+EMROFFSETCLIPRGN
+PEMROFFSETCLIPRGN
+EMRFILLPATH
+PEMRFILLPATH
+EMRSTROKEANDFILLPATH
+PEMRSTROKEANDFILLPATH
+EMRSTROKEPATH
+PEMRSTROKEPATH
+EMREXCLUDECLIPRECT
+PEMREXCLUDECLIPRECT
+EMRINTERSECTCLIPRECT
+PEMRINTERSECTCLIPRECT
+EMRSETVIEWPORTORGEX
+PEMRSETVIEWPORTORGEX
+EMRSETWINDOWORGEX
+PEMRSETWINDOWORGEX
+EMRSETBRUSHORGEX
+PEMRSETBRUSHORGEX
+EMRSETVIEWPORTEXTEX
+PEMRSETVIEWPORTEXTEX
+EMRSETWINDOWEXTEX
+PEMRSETWINDOWEXTEX
+EMRSCALEVIEWPORTEXTEX
+PEMRSCALEVIEWPORTEXTEX
+EMRSCALEWINDOWEXTEX
+PEMRSCALEWINDOWEXTEX
+EMRSETWORLDTRANSFORM
+PEMRSETWORLDTRANSFORM
+EMRMODIFYWORLDTRANSFORM
+PEMRMODIFYWORLDTRANSFORM
+EMRSETPIXELV
+PEMRSETPIXELV
+EMREXTFLOODFILL
+PEMREXTFLOODFILL
+EMRELLIPSE
+PEMRELLIPSE
+EMRRECTANGLE
+PEMRRECTANGLE
+EMRROUNDRECT
+PEMRROUNDRECT
+EMRARC
+PEMRARC
+EMRARCTO
+PEMRARCTO
+EMRCHORD
+PEMRCHORD
+EMRPIE
+PEMRPIE
+EMRANGLEARC
+PEMRANGLEARC
+EMRPOLYLINE
+PEMRPOLYLINE
+EMRPOLYBEZIER
+PEMRPOLYBEZIER
+EMRPOLYGON
+PEMRPOLYGON
+EMRPOLYBEZIERTO
+PEMRPOLYBEZIERTO
+EMRPOLYLINETO
+PEMRPOLYLINETO
+EMRPOLYLINE16
+PEMRPOLYLINE16
+EMRPOLYBEZIER16
+PEMRPOLYBEZIER16
+EMRPOLYGON16
+PEMRPOLYGON16
+EMRPOLYBEZIERTO16
+PEMRPOLYBEZIERTO16
+EMRPOLYLINETO16
+PEMRPOLYLINETO16
+EMRPOLYDRAW
+PEMRPOLYDRAW
+EMRPOLYDRAW16
+PEMRPOLYDRAW16
+EMRPOLYPOLYLINE
+PEMRPOLYPOLYLINE
+EMRPOLYPOLYGON
+PEMRPOLYPOLYGON
+EMRPOLYPOLYLINE16
+PEMRPOLYPOLYLINE16
+EMRPOLYPOLYGON16
+PEMRPOLYPOLYGON16
+EMRINVERTRGN
+PEMRINVERTRGN
+EMRPAINTRGN
+PEMRPAINTRGN
+EMRFILLRGN
+PEMRFILLRGN
+EMRFRAMERGN
+PEMRFRAMERGN
+EMREXTSELECTCLIPRGN
+PEMREXTSELECTCLIPRGN
+EMREXTTEXTOUTA
+PEMREXTTEXTOUTA
+EMREXTTEXTOUTW
+PEMREXTTEXTOUTW
+EMRPOLYTEXTOUTA
+PEMRPOLYTEXTOUTA
+EMRPOLYTEXTOUTW
+PEMRPOLYTEXTOUTW
+EMRBITBLT
+PEMRBITBLT
+EMRSTRETCHBLT
+PEMRSTRETCHBLT
+EMRMASKBLT
+PEMRMASKBLT
+EMRPLGBLT
+PEMRPLGBLT
+EMRSETDIBITSTODEVICE
+PEMRSETDIBITSTODEVICE
+EMRSTRETCHDIBITS
+PEMRSTRETCHDIBITS
+EMREXTCREATEFONTINDIRECTW
+PEMREXTCREATEFONTINDIRECTW
+EMRCREATEPALETTE
+PEMRCREATEPALETTE
+EMRCREATEPEN
+PEMRCREATEPEN
+EMREXTCREATEPEN
+PEMREXTCREATEPEN
+EMRCREATEBRUSHINDIRECT
+PEMRCREATEBRUSHINDIRECT
+EMRCREATEMONOBRUSH
+PEMRCREATEMONOBRUSH
+EMRCREATEDIBPATTERNBRUSHPT
+PEMRCREATEDIBPATTERNBRUSHPT
+EMRFORMAT
+PEMRFORMAT
+EMRGLSRECORD
+PEMRGLSRECORD
+EMRGLSBOUNDEDRECORD
+PEMRGLSBOUNDEDRECORD
+EMRPIXELFORMAT
+PEMRPIXELFORMAT
+EMRCREATECOLORSPACE
+PEMRCREATECOLORSPACE
+EMRSETCOLORSPACE
+PEMRSETCOLORSPACE
+EMRSELECTCOLORSPACE
+PEMRSELECTCOLORSPACE
+EMRDELETECOLORSPACE
+PEMRDELETECOLORSPACE
+EMREXTESCAPE
+PEMREXTESCAPE
+EMRDRAWESCAPE
+PEMRDRAWESCAPE
+EMRNAMEDESCAPE
+PEMRNAMEDESCAPE
+EMRSETICMPROFILEA
+PEMRSETICMPROFILEA
+EMRSETICMPROFILEW
+PEMRSETICMPROFILEW
+EMRCREATECOLORSPACEA
+PEMRCREATECOLORSPACEA
+EMRCREATECOLORSPACEW
+PEMRCREATECOLORSPACEW
+EMRCOLORMATCHTOTARGET
+PEMRCOLORMATCHTOTARGET
+EMRCOLORCORRECTPALETTE
+PEMRCOLORCORRECTPALETTE
+EMRALPHABLEND
+PEMRALPHABLEND
+EMRGRADIENTFILL
+PEMRGRADIENTFILL
+EMRTRANSPARENTBLT
+PEMRTRANSPARENTBLT
+EMRSETICMPROFILE
+PEMRSETICMPROFILE
+POINTFLOAT
+PPOINTFLOAT
+GLYPHMETRICSFLOAT
+PGLYPHMETRICSFLOAT
+LPGLYPHMETRICSFLOAT
+LAYERPLANEDESCRIPTOR
+PLAYERPLANEDESCRIPTOR
+LPLAYERPLANEDESCRIPTOR
+WGLSWAP
+PWGLSWAP
+LPWGLSWAP
+DOCINFOA
+LPDOCINFOA
+DOCINFOW
+LPDOCINFOW
+WINDOWINFO
+PWINDOWINFO
+LPWINDOWINFO
+HARDWAREHOOKSTRUCT
+LPHARDWAREHOOKSTRUCT
+PHARDWAREHOOKSTRUCT
+COMBOBOXINFO
+PCOMBOBOXINFO
+LPCOMBOBOXINFO
+RAWINPUTDEVICELIST
+PRAWINPUTDEVICELIST
+MEASUREITEMSTRUCT
+PMEASUREITEMSTRUCT
+LPMEASUREITEMSTRUCT
+RID_DEVICE_INFO_KEYBOARD
+PRID_DEVICE_INFO_KEYBOARD
+MDICREATESTRUCTA
+	MDICREATESTRUCT
+LPMDICREATESTRUCTA
+	LPMDICREATESTRUCT
+MDICREATESTRUCTW
+LPMDICREATESTRUCTW
+WINDOWPOS
+LPWINDOWPOS
+PWINDOWPOS
+MSGBOXPARAMSA
+	MSGBOXPARAMS
+PMSGBOXPARAMSA
+	PMSGBOXPARAMS
+LPMSGBOXPARAMSA
+	LPMSGBOXPARAMS
+MSGBOXPARAMSW
+PMSGBOXPARAMSW
+LPMSGBOXPARAMSW
+ANIMATIONINFO
+LPANIMATIONINFO
+RID_DEVICE_INFO_HID
+PRID_DEVICE_INFO_HID
+SOUNDSENTRYA
+	SOUNDSENTRY
+LPSOUNDSENTRYA
+	LPSOUNDSENTRY
+SOUNDSENTRYW
+LPSOUNDSENTRYW
+HIGHCONTRASTA
+	HIGHCONTRAST
+LPHIGHCONTRASTA
+	LPHIGHCONTRAST
+HIGHCONTRASTW
+LPHIGHCONTRASTW
+CWPSTRUCT
+PCWPSTRUCT
+NPCWPSTRUCT
+LPCWPSTRUCT
+MULTIKEYHELPA
+	MULTIKEYHELP
+PMULTIKEYHELPA
+	PMULTIKEYHELP
+LPMULTIKEYHELPA
+	LPMULTIKEYHELP
+MULTIKEYHELPW
+PMULTIKEYHELPW
+LPMULTIKEYHELPW
+HELPINFO
+LPHELPINFO
+MENUBARINFO
+PMENUBARINFO
+LPMENUBARINFO
+STYLESTRUCT
+LPSTYLESTRUCT
+ICONMETRICSA
+	ICONMETRICS
+PICONMETRICSA
+	PICONMETRICS
+LPICONMETRICSA
+	LPICONMETRICS
+ICONMETRICSW
+PICONMETRICSW
+LPICONMETRICSW
+MENUGETOBJECTINFO
+PMENUGETOBJECTINFO
+RID_DEVICE_INFO_MOUSE
+PRID_DEVICE_INFO_MOUSE
+RID_DEVICE_INFO
+PRID_DEVICE_INFO
+LPRID_DEVICE_INFO
+RAWMOUSE
+PRAWMOUSE
+LPRAWMOUSE
+RAWKEYBOARD
+PRAWKEYBOARD
+LPRAWKEYBOARD
+RAWHID
+PRAWHID
+LPRAWHID
+RAWINPUTHEADER
+PRAWINPUTHEADER
+LPRAWINPUTHEADER
+RAWINPUT
+PRAWINPUT
+LPRAWINPUT
+CREATESTRUCTA
+	CREATESTRUCT
+LPCREATESTRUCTA
+	LPCREATESTRUCT
+CREATESTRUCTW
+LPCREATESTRUCTW
+CWPRETSTRUCT
+PCWPRETSTRUCT
+NPCWPRETSTRUCT
+LPCWPRETSTRUCT
+MOUSEHOOKSTRUCTEX
+LPMOUSEHOOKSTRUCTEX
+PMOUSEHOOKSTRUCTEX
+MOUSEHOOKSTRUCT
+LPMOUSEHOOKSTRUCT
+PMOUSEHOOKSTRUCT
+SERIALKEYSA
+	SERIALKEYS
+LPSERIALKEYSA
+	LPSERIALKEYS
+SERIALKEYSW
+LPSERIALKEYSW
+MINIMIZEDMETRICS
+PMINIMIZEDMETRICS
+LPMINIMIZEDMETRICS
+WNDCLASSA
+	WNDCLASS
+PWNDCLASSA
+	PWNDCLASS
+NPWNDCLASSA
+	NPWNDCLASS
+LPWNDCLASSA
+	LPWNDCLASS
+WNDCLASSW
+PWNDCLASSW
+NPWNDCLASSW
+LPWNDCLASSW
+NCCALCSIZE_PARAMS
+LPNCCALCSIZE_PARAMS
+ALTTABINFO
+PALTTABINFO
+LPALTTABINFO
+DELETEITEMSTRUCT
+PDELETEITEMSTRUCT
+LPDELETEITEMSTRUCT
+RAWINPUTDEVICE
+	PCRAWINPUTDEVICE
+PRAWINPUTDEVICE
+LPRAWINPUTDEVICE
+MENUITEMINFOA
+	MENUITEMINFO
+	LPCMENUITEMINFOA
+		LPCMENUITEMINFO
+LPMENUITEMINFOA
+	LPMENUITEMINFO
+MENUITEMINFOW
+	LPCMENUITEMINFOW
+LPMENUITEMINFOW
+MONITORINFO
+LPMONITORINFO
+CBT_CREATEWNDA
+	CBT_CREATEWND
+LPCBT_CREATEWNDA
+	LPCBT_CREATEWND
+MINMAXINFO
+PMINMAXINFO
+LPMINMAXINFO
+CLIENTCREATESTRUCT
+LPCLIENTCREATESTRUCT
+ACCEL
+LPACCEL
+ACCESSTIMEOUT
+LPACCESSTIMEOUT
+MOUSEINPUT
+PMOUSEINPUT
+LPMOUSEINPUT
+NMHDR
+	LPNMHDR
+COPYDATASTRUCT
+PCOPYDATASTRUCT
+WNDCLASSEXA
+	WNDCLASSEX
+PWNDCLASSEXA
+	PWNDCLASSEX
+NPWNDCLASSEXA
+	NPWNDCLASSEX
+LPWNDCLASSEXA
+	LPWNDCLASSEX
+TOGGLEKEYS
+LPTOGGLEKEYS
+MENUINFO
+	LPCMENUINFO
+LPMENUINFO
+FILTERKEYS
+LPFILTERKEYS
+DRAWITEMSTRUCT
+PDRAWITEMSTRUCT
+LPDRAWITEMSTRUCT
+TITLEBARINFO
+PTITLEBARINFO
+LPTITLEBARINFO
+WTSSESSION_NOTIFICATION
+PWTSSESSION_NOTIFICATION
+CBT_CREATEWNDW
+LPCBT_CREATEWNDW
+MDINEXTMENU
+PMDINEXTMENU
+LPMDINEXTMENU
+CBTACTIVATESTRUCT
+LPCBTACTIVATESTRUCT
+KEYBDINPUT
+PKEYBDINPUT
+LPKEYBDINPUT
+HARDWAREINPUT
+PHARDWAREINPUT
+LPHARDWAREINPUT
+INPUT
+PINPUT
+LPINPUT
+WINDOWPLACEMENT
+	PWINDOWPLACEMENT
+	LPWINDOWPLACEMENT
+MONITORINFOEXA
+	MONITORINFOEX
+LPMONITORINFOEXA
+	LPMONITORINFOEX
+MONITORINFOEXW
+LPMONITORINFOEXW
+STICKYKEYS
+LPSTICKYKEYS
+WNDCLASSEXW
+PWNDCLASSEXW
+NPWNDCLASSEXW
+LPWNDCLASSEXW
+DRAWTEXTPARAMS
+LPDRAWTEXTPARAMS
+ICONINFO
+PICONINFO
+DROPSTRUCT
+PDROPSTRUCT
+LPDROPSTRUCT
+COMPAREITEMSTRUCT
+PCOMPAREITEMSTRUCT
+LPCOMPAREITEMSTRUCT
+SCROLLINFO
+	LPCSCROLLINFO
+LPSCROLLINFO
+PAINTSTRUCT
+PPAINTSTRUCT
+NPPAINTSTRUCT
+LPPAINTSTRUCT
+NONCLIENTMETRICSA
+	NONCLIENTMETRICS
+PNONCLIENTMETRICSA
+	PNONCLIENTMETRICS
+LPNONCLIENTMETRICSA
+	LPNONCLIENTMETRICS
+USEROBJECTFLAGS
+PUSEROBJECTFLAGS
+DEBUGHOOKINFO
+PDEBUGHOOKINFO
+NPDEBUGHOOKINFO
+LPDEBUGHOOKINFO
+HELPWININFOA
+	HELPWININFO
+PHELPWININFOA
+	PHELPWININFO
+LPHELPWININFOA
+	LPHELPWININFO
+HELPWININFOW
+PHELPWININFOW
+LPHELPWININFOW
+MOUSEKEYS
+LPMOUSEKEYS
+MSG
+PMSG
+NPMSG
+LPMSG
+EVENTMSG
+PEVENTMSGMSG
+NPEVENTMSGMSG
+LPEVENTMSGMSG
+MOUSEMOVEPOINT
+PMOUSEMOVEPOINT
+LPMOUSEMOVEPOINT
+MSLLHOOKSTRUCT
+LPMSLLHOOKSTRUCT
+PMSLLHOOKSTRUCT
+CURSORSHAPE
+LPCURSORSHAPE
+SCROLLBARINFO
+PSCROLLBARINFO
+LPSCROLLBARINFO
+LASTINPUTINFO
+PLASTINPUTINFO
+TPMPARAMS
+	LPTPMPARAMS
+NONCLIENTMETRICSW
+PNONCLIENTMETRICSW
+LPNONCLIENTMETRICSW
+KBDLLHOOKSTRUCT
+LPKBDLLHOOKSTRUCT
+PKBDLLHOOKSTRUCT
+TRACKMOUSEEVENT
+LPTRACKMOUSEEVENT
+BSMINFO
+PBSMINFO
+DLGTEMPLATE
+	LPDLGTEMPLATEA
+		LPDLGTEMPLATE
+	LPDLGTEMPLATEW
+	LPCDLGTEMPLATEA
+		LPCDLGTEMPLATE
+	LPCDLGTEMPLATEW
+DLGITEMTEMPLATE
+	PDLGITEMTEMPLATEA
+		PDLGITEMTEMPLATE
+	PDLGITEMTEMPLATEW
+	LPDLGITEMTEMPLATEA
+		LPDLGITEMTEMPLATE
+	LPDLGITEMTEMPLATEW
+FLASHWINFO
+PFLASHWINFO
+KEYSTATE
+LPKEYSTATE
+CURSORINFO
+PCURSORINFO
+LPCURSORINFO
+GUITHREADINFO
+PGUITHREADINFO
+LPGUITHREADINFO
+DISPLAY_DEVICEA
+PDISPLAY_DEVICEA
+LPDISPLAY_DEVICEA
+DISPLAY_DEVICEW
+PDISPLAY_DEVICEW
+LPDISPLAY_DEVICEW
+ADDJOB_INFO_1A
+LPADDJOB_INFO_1A
+ADDJOB_INFO_1W
+LPADDJOB_INFO_1W
+MONITOR_INFO_2A
+LPMONITOR_INFO_2A
+MONITOR_INFO_2W
+LPMONITOR_INFO_2W
+FORM_INFO_1A
+LPFORM_INFO_1A
+PFORM_INFO_1A
+FORM_INFO_1W
+LPFORM_INFO_1W
+PFORM_INFO_1W
+PRINTER_NOTIFY_OPTIONS_TYPE
+PPRINTER_NOTIFY_OPTIONS_TYPE
+PRINTER_NOTIFY_OPTIONS
+PPRINTER_NOTIFY_OPTIONS
+PRINTER_NOTIFY_INFO_DATA
+PPRINTER_NOTIFY_INFO_DATA
+PRINTER_NOTIFY_INFO
+PPRINTER_NOTIFY_INFO
+PRINTER_DEFAULTSA
+PPRINTER_DEFAULTSA
+LPPRINTER_DEFAULTSA
+PRINTER_DEFAULTSW
+PPRINTER_DEFAULTSW
+LPPRINTER_DEFAULTSW
+PORT_INFO_1A
+PPORT_INFO_1A
+LPPORT_INFO_1A
+PORT_INFO_1W
+PPORT_INFO_1W
+LPPORT_INFO_1W
+PORT_INFO_2A
+PPORT_INFO_2A
+LPPORT_INFO_2A
+PORT_INFO_2W
+PPORT_INFO_2W
+LPPORT_INFO_2W
+PORT_INFO_3A
+PPORT_INFO_3A
+LPPORT_INFO_3A
+PORT_INFO_3W
+PPORT_INFO_3W
+LPPORT_INFO_3W
+DOC_INFO_1A
+PDOC_INFO_1A
+DOC_INFO_1W
+PDOC_INFO_1W
+VS_FIXEDFILEINFO
+NETCONNECTINFOSTRUCT
+LPNETCONNECTINFOSTRUCT
+DISCDLGSTRUCTA
+	DISCDLGSTRUCT
+LPDISCDLGSTRUCTA
+	LPDISCDLGSTRUCT
+DISCDLGSTRUCTW
+LPDISCDLGSTRUCTW
+NETRESOURCEA
+	NETRESOURCE
+LPNETRESOURCEA
+	LPNETRESOURCE
+NETRESOURCEW
+LPNETRESOURCEW
+CONNECTDLGSTRUCTA
+	CONNECTDLGSTRUCT
+LPCONNECTDLGSTRUCTA
+	LPCONNECTDLGSTRUCT
+NETINFOSTRUCT
+LPNETINFOSTRUCT
+UNIVERSAL_NAME_INFOA
+	UNIVERSAL_NAME_INFO
+LPUNIVERSAL_NAME_INFOA
+	LPUNIVERSAL_NAME_INFO
+UNIVERSAL_NAME_INFOW
+LPUNIVERSAL_NAME_INFOW
+REMOTE_NAME_INFOA
+	REMOTE_NAME_INFO
+LPREMOTE_NAME_INFOA
+	LPREMOTE_NAME_INFO
+REMOTE_NAME_INFOW
+LPREMOTE_NAME_INFOW
+CONNECTDLGSTRUCTW
+LPCONNECTDLGSTRUCTW
+WSADATA
+LPWSADATA
+SOCKADDR
+PSOCKADDR
+LPSOCKADDR
+SOCKADDR_STORAGE
+PSOCKADDR_STORAGE
+LPSOCKADDR_STORAGE
+fd_set
+	LPFD_SET
+WSABUF
+LPWSABUF
+SOCKET_ADDRESS
+PSOCKET_ADDRESS
+LPSOCKET_ADDRESS
+SOCKET_ADDRESS_LIST
+LPSOCKET_ADDRESS_LIST
+WSANETWORKEVENTS
+LPWSANETWORKEVENTS
+AFPROTOCOLS
+PAFPROTOCOLS
+LPAFPROTOCOLS
+CSADDR_INFO
+PCSADDR_INFO
+LPCSADDR_INFO
+WSAOVERLAPPED
+LPWSAOVERLAPPED
+BLOB
+LPBLOB
+WSAPROTOCOLCHAIN
+LPWSAPROTOCOLCHAIN
+WSAPROTOCOL_INFOW
+LPWSAPROTOCOL_INFOW
+WSAPROTOCOL_INFOA
+	WSAPROTOCOL_INFO
+LPWSAPROTOCOL_INFOA
+	LPWSAPROTOCOL_INFO
+FLOWSPEC
+PFLOWSPEC
+LPFLOWSPEC
+QOS
+LPQOS
+INADDR
+WSAVERSION
+PWSAVERSION
+LPWSAVERSION
+WSAQUERYSETA
+PWSAQUERYSETA
+LPWSAQUERYSETA
+WSAQUERYSETW
+PWSAQUERYSETW
+LPWSAQUERYSETW
+timeval
+WSACOMPLETION
+PWSACOMPLETION
+LPWSACOMPLETION
+WSANSCLASSINFOA
+PWSANSCLASSINFOA
+LPWSANSCLASSINFOA
+WSANSCLASSINFOW
+PWSANSCLASSINFOW
+LPWSANSCLASSINFOW
+WSASERVICECLASSINFOA
+PWSASERVICECLASSINFOA
+LPWSASERVICECLASSINFOA
+WSASERVICECLASSINFOW
+PWSASERVICECLASSINFOW
+LPWSASERVICECLASSINFOW
+WSANAMESPACE_INFOA
+PWSANAMESPACE_INFOA
+LPWSANAMESPACE_INFOA
+WSANAMESPACE_INFOW
+PWSANAMESPACE_INFOW
+LPWSANAMESPACE_INFOW
+hostent
+servent
+protoent
+VARIANT
+	variant
+SAFEARRAYBOUND
+SAFEARRAY
+MIDL_STUB_DESC
+	PMIDL_STUB_DESC
+RPC_MESSAGE
+PRPC_MESSAGE
+SHITEMID
+	LPSHITEMID
+	LPCSHITEMID
+ITEMIDLIST
+	LPITEMIDLIST
+	LPCITEMIDLIST
+APPBARDATA
+PAPPBARDATA
+BROWSEINFOA
+PBROWSEINFOA
+LPBROWSEINFOA
+BROWSEINFOW
+PBROWSEINFOW
+LPBROWSEINFOW
+SHCREATEPROCESSINFOW
+PSHCREATEPROCESSINFOW
+SHELLEXECUTEINFOA
+LPSHELLEXECUTEINFOA
+SHELLEXECUTEINFOW
+LPSHELLEXECUTEINFOW
+SHFILEOPSTRUCTA
+LPSHFILEOPSTRUCTA
+SHFILEOPSTRUCTW
+LPSHFILEOPSTRUCTW
+SHFILEINFOA
+SHFILEINFOW
+SHQUERYRBINFO
+LPSHQUERYRBINFO
+STRRET
+LPSTRRET
+COAUTHIDENTITY
+COAUTHINFO
+COSERVERINFO
+COSERVERINFO2
+LPDDSURFACEDESC
+LPDDSURFACEDESC2
+LPDDCOLORCONTROL
+DDARGB
+	LPDDARGB
+DDRGBA
+	LPDDRGBA
+DDCOLORKEY
+	LPDDCOLORKEY
+DDBLTFX
+	LPDDBLTFX
+DDSCAPS
+	LPDDSCAPS
+DDOSCAPS
+	LPDDOSCAPS
+DDSCAPSEX
+LPDDSCAPSEX
+DDSCAPS2
+	LPDDSCAPS2
+DDCAPS_DX1
+LPDDCAPS_DX1
+DDCAPS_DX3
+LPDDCAPS_DX3
+DDCAPS_DX5
+LPDDCAPS_DX5
+DDCAPS_DX6
+LPDDCAPS_DX6
+DDCAPS_DX7
+LPDDCAPS_DX7
+DDPIXELFORMAT
+	LPDDPIXELFORMAT
+DDOVERLAYFX
+	LPDDOVERLAYFX
+DDBLTBATCH
+	LPDDBLTBATCH
+DDGAMMARAMP
+	LPDDGAMMARAMP
+DDDEVICEIDENTIFIER
+LPDDDEVICEIDENTIFIER
+DDDEVICEIDENTIFIER2
+LPDDDEVICEIDENTIFIER2
+DDSURFACEDESC
+DDSURFACEDESC2
+DDOPTSURFACEDESC
+DDCOLORCONTROL
+MMTIME
+	PMMTIME
+	NPMMTIME
+	LPMMTIME
+WAVEHDR
+	PWAVEHDR
+	NPWAVEHDR
+	LPWAVEHDR
+WAVEOUTCAPSA
+	PWAVEOUTCAPSA
+	NPWAVEOUTCAPSA
+	LPWAVEOUTCAPSA
+WAVEOUTCAPSW
+	PWAVEOUTCAPSW
+	NPWAVEOUTCAPSW
+	LPWAVEOUTCAPSW
+WAVEFORMAT
+	PWAVEFORMAT
+	NPWAVEFORMAT
+	LPWAVEFORMAT
+PCMWAVEFORMAT
+	PPCMWAVEFORMAT
+	NPPCMWAVEFORMAT
+	LPPCMWAVEFORMAT
+WAVEFORMATEX
+	PWAVEFORMATEX
+	NPWAVEFORMATEX
+	LPWAVEFORMATEX
+	LPCWAVEFORMATEX
+WAVEINCAPSA
+PWAVEINCAPSA
+NPWAVEINCAPSA
+LPWAVEINCAPSA
+WAVEINCAPSW
+	PWAVEINCAPSW
+	NPWAVEINCAPSW
+	LPWAVEINCAPSW
+MMIOINFO
+	PMMIOINFO
+	NPMMIOINFO
+	LPMMIOINFO
+	LPCMMIOINFO
+MMCKINFO
+	PMMCKINFO
+	NPMMCKINFO
+	LPMMCKINFO
+	LPCMMCKINFO
+AVIFILEINFOA
+	LPAVIFILEINFOA
+AVIFILEINFOW
+	LPAVIFILEINFOW
+AVICOMPRESSOPTIONS
+	LPAVICOMPRESSOPTIONS
+AVISTREAMINFOA
+AVISTREAMINFOW
+DPCAPS
+	LPDPCAPS
+LPCDPSESSIONDESC2
+DPSESSIONDESC2
+	LPDPSESSIONDESC2
+DPNAME
+	LPDPNAME
+	LPCDPNAME
+DPCREDENTIALS
+	LPDPCREDENTIALS
+	LPCDPCREDENTIALS
+DPSECURITYDESC
+	LPDPSECURITYDESC
+	LPCDPSECURITYDESC
+DPACCOUNTDESC
+	LPDPACCOUNTDESC
+	LPCDPACCOUNTDESC
+DPLCONNECTION
+	LPDPLCONNECTION
+	LPCDPLCONNECTION
+DPCHAT
+	LPDPCHAT
+SGBUFFER
+	PSGBUFFER
+	LPSGBUFFER
+DPMSG_GENERIC
+	LPDPMSG_GENERIC
+	DPMSG_HOST
+		LPDPMSG_HOST
+	DPMSG_SESSIONLOST
+		LPDPMSG_SESSIONLOST
+DPMSG_CREATEPLAYERORGROUP
+	LPDPMSG_CREATEPLAYERORGROUP
+DPMSG_DESTROYPLAYERORGROUP
+	LPDPMSG_DESTROYPLAYERORGROUP
+DPMSG_ADDPLAYERTOGROUP
+	LPDPMSG_ADDPLAYERTOGROUP
+	DPMSG_DELETEPLAYERFROMGROUP
+		LPDPMSG_DELETEPLAYERFROMGROUP
+DPMSG_ADDGROUPTOGROUP
+	LPDPMSG_ADDGROUPTOGROUP
+	DPMSG_DELETEGROUPFROMGROUP
+		LPDPMSG_DELETEGROUPFROMGROUP
+DPMSG_SETPLAYERORGROUPDATA
+	LPDPMSG_SETPLAYERORGROUPDATA
+DPMSG_SETPLAYERORGROUPNAME
+	LPDPMSG_SETPLAYERORGROUPNAME
+DPMSG_SETSESSIONDESC
+	LPDPMSG_SETSESSIONDESC
+DPMSG_SECUREMESSAGE
+	LPDPMSG_SECUREMESSAGE
+DPMSG_STARTSESSION
+	LPDPMSG_STARTSESSION
+DPMSG_CHAT
+	LPDPMSG_CHAT
+DPMSG_SETGROUPOWNER
+	LPDPMSG_SETGROUPOWNER
+DPMSG_SENDCOMPLETE
+	LPDPMSG_SENDCOMPLETE
+D3DCOLORVALUE
+LPD3DCOLORVALUE
+D3DVECTOR
+LPD3DVECTOR
+D3DRECT
+LPD3DRECT
+D3DLINEPATTERN
+D3DPICKRECORD
+LPD3DPICKRECORD
+D3DMATERIAL7
+LPD3DMATERIAL7
+D3DLINE
+LPD3DLINE
+D3DPOINT
+LPD3DPOINT
+D3DCLIPSTATUS
+LPD3DCLIPSTATUS
+D3DBRANCH
+LPD3DBRANCH
+D3DDP_PTRSTRIDE
+D3DDRAWPRIMITIVESTRIDEDDATA
+LPD3DDRAWPRIMITIVESTRIDEDDATA
+D3DSPAN
+LPD3DSPAN
+D3DLIGHTINGELEMENT
+LPD3DLIGHTINGELEMENT
+D3DTRIANGLE
+LPD3DTRIANGLE
+D3DVERTEX
+LPD3DVERTEX
+D3DSTATE
+LPD3DSTATE
+D3DSTATUS
+LPD3DSTATUS
+D3DPROCESSVERTICES
+LPD3DPROCESSVERTICES
+D3DHVERTEX
+LPD3DHVERTEX
+D3DLVERTEX
+LPD3DLVERTEX
+D3DLIGHT2
+LPD3DLIGHT2
+D3DEXECUTEDATA
+LPD3DEXECUTEDATA
+D3DSTATS
+LPD3DSTATS
+D3DMATERIAL
+LPD3DMATERIAL
+D3DLIGHT7
+LPD3DLIGHT7
+D3DTEXTURELOAD
+LPD3DTEXTURELOAD
+D3DVIEWPORT2
+LPD3DVIEWPORT2
+D3DMATRIX
+LPD3DMATRIX
+D3DMATRIXLOAD
+LPD3DMATRIXLOAD
+D3DMATRIXMULTIPLY
+LPD3DMATRIXMULTIPLY
+D3DTRANSFORMDATA
+LPD3DTRANSFORMDATA
+D3DVERTEXBUFFERDESC
+LPD3DVERTEXBUFFERDESC
+D3DVIEWPORT7
+LPD3DVIEWPORT7
+D3DLIGHT
+LPD3DLIGHT
+D3DTLVERTEX
+LPD3DTLVERTEX
+D3DVIEWPORT
+LPD3DVIEWPORT
+D3DINSTRUCTION
+LPD3DINSTRUCTION
+D3DLIGHTDATA
+LPD3DLIGHTDATA
+D3DDEVINFO_TEXTUREMANAGER
+LPD3DDEVINFO_TEXTUREMANAGER
+D3DEXECUTEBUFFERDESC
+LPD3DEXECUTEBUFFERDESC
+D3DLIGHTINGCAPS
+LPD3DLIGHTINGCAPS
+D3DPRIMCAPS
+LPD3DPRIMCAPS
+D3DFINDDEVICESEARCH
+LPD3DFINDDEVICESEARCH
+D3DTRANSFORMCAPS
+LPD3DTRANSFORMCAPS
+D3DDEVINFO_TEXTURING
+LPD3DDEVINFO_TEXTURING
+D3DDEVICEDESC
+LPD3DDEVICEDESC
+D3DDEVICEDESC7
+LPD3DDEVICEDESC7
+D3DFINDDEVICERESULT
+LPD3DFINDDEVICERESULT
+D3DDISPLAYMODE
+LPD3DDISPLAYMODE
+D3DADAPTER_IDENTIFIER8
+LPD3DADAPTER_IDENTIFIER8
+D3DPRESENT_PARAMETERS
+LPD3DPRESENT_PARAMETERS
+D3DSURFACE_DESC
+LPD3DSURFACE_DESC
+D3DVOLUME_DESC
+LPD3DVOLUME_DESC
+D3DLOCKED_RECT
+LPD3DLOCKED_RECT
+D3DBOX
+LPD3DBOX
+D3DLOCKED_BOX
+LPD3DLOCKED_BOX
+D3DVERTEXBUFFER_DESC
+LPD3DVERTEXBUFFER_DESC
+D3DINDEXBUFFER_DESC
+LPD3DINDEXBUFFER_DESC
+D3DDEVICE_CREATION_PARAMETERS
+LPD3DDEVICE_CREATION_PARAMETERS
+D3DRASTER_STATUS
+LPD3DRASTER_STATUS
+D3DMATRIX8
+LPD3DMATRIX8
+D3DVIEWPORT8
+LPD3DVIEWPORT8
+D3DMATERIAL8
+LPD3DMATERIAL8
+D3DCLIPSTATUS8
+LPD3DCLIPSTATUS8
+D3DLIGHT8
+LPD3DLIGHT8
+D3DRECTPATCH_INFO
+LPD3DRECTPATCH_INFO
+D3DTRIPATCH_INFO
+LPD3DTRIPATCH_INFO
+D3DGAMMARAMP
+LPD3DGAMMARAMP
+D3DCAPS8
+LPD3DCAPS8
+DSEFFECTDESC
+	LPDSEFFECTDESC
+	LPCDSEFFECTDESC
+DSCEFFECTDESC
+	LPDSCEFFECTDESC
+	LPCDSCEFFECTDESC
+DSCAPS
+	LPCDSCAPS
+LPDSCAPS
+DSBCAPS
+	LPCDSBCAPS
+LPDSBCAPS
+DSBUFFERDESC
+	LPCDSBUFFERDESC
+LPDSBUFFERDESC
+DS3DBUFFER
+	LPCDS3DBUFFER
+LPDS3DBUFFER
+DS3DLISTENER
+	LPCDS3DLISTENER
+LPDS3DLISTENER
+DSCCAPS
+	LPCDSCCAPS
+LPDSCCAPS
+DSCBUFFERDESC
+	LPCDSCBUFFERDESC
+LPDSCBUFFERDESC
+DSCBCAPS
+	LPCDSCBCAPS
+LPDSCBCAPS
+DSBPOSITIONNOTIFY
+	LPCDSBPOSITIONNOTIFY
+LPDSBPOSITIONNOTIFY
+DSFXSend
+	LPDSFXSend
+	LPCDSFXSend
+DSFXGargle
+	LPDSFXGargle
+	LPCDSFXGargle
+DSFXChorus
+	LPDSFXChorus
+	LPCDSFXChorus
+DSFXFlanger
+	LPDSFXFlanger
+	LPCDSFXFlanger
+DSFXEcho
+	LPDSFXEcho
+	LPCDSFXEcho
+DSFXDistortion
+	LPDSFXDistortion
+	LPCDSFXDistortion
+DSFXCompressor
+	LPDSFXCompressor
+	LPCDSFXCompressor
+DSFXParamEq
+	LPDSFXParamEq
+	LPCDSFXParamEq
+DSFXI3DL2Reverb
+	LPDSFXI3DL2Reverb
+	LPCDSFXI3DL2Reverb
+DSFXWavesReverb
+	LPDSFXWavesReverb
+	LPCDSFXWavesReverb
+DSCFXAec
+	LPDSCFXAec
+	LPCDSCFXAec
+DSCFXNoiseSuppress
+	LPDSCFXNoiseSuppress
+	LPCDSCFXNoiseSuppress
+ULONGULONG
+_RGNDATAHEADER
+_RGNDATA
+_COAUTHIDENTITY
+_COAUTHINFO
+_COSERVERINFO
+tagBIND_OPTS2
+GPRMARRAY
+DVD_VideoATR
+DVD_AudioATR
+DVD_SubpictureATR
+SPRMARRAY
+_LARGE_INTEGER
+_ULARGE_INTEGER
+tagSTATSTG
+_AMMediaType
+_AllocatorProperties
+tagAM_SAMPLE2_PROPERTIES
+__MIDL___MIDL_itf_strmif_0133_0001
+	REGFILTER
+__MIDL___MIDL_itf_strmif_0137_0001
+	REGPINTYPES
+__MIDL___MIDL_itf_strmif_0137_0002
+	REGFILTERPINS
+__MIDL___MIDL_itf_strmif_0137_0008
+__MIDL___MIDL_itf_strmif_0137_0003
+	REGPINMEDIUM
+__MIDL___MIDL_itf_strmif_0137_0005
+	REGFILTERPINS2
+__MIDL___MIDL_itf_strmif_0137_0009
+__MIDL___MIDL_itf_strmif_0137_0006
+	REGFILTER2
+tagPALETTEENTRY
+tagCOLORKEY
+tagQuality
+tagTIMECODE
+tagTIMECODE_SAMPLE
+__MIDL___MIDL_itf_strmif_0358_0001
+	STREAM_ID_MAP
+__MIDL___MIDL_itf_strmif_0159_0002
+	AM_STREAM_INFO
+__MIDL___MIDL_itf_strmif_0348_0001
+	DVINFO
+tagDVD_PLAYBACK_LOCATION
+tagDVD_ATR
+__MIDL___MIDL_itf_strmif_0378_0001
+	AM_DVD_RENDERSTATUS
+tagDVD_HMSF_TIMECODE
+tagDVD_PLAYBACK_LOCATION2
+tagDVD_AudioAttributes
+tagDVD_MUA_MixingInfo
+tagDVD_MUA_Coeff
+tagDVD_MultichannelAudioAttributes
+tagDVD_KaraokeAttributes
+tagDVD_VideoAttributes
+tagDVD_SubpictureAttributes
+tagDVD_TitleMainAttributes
+tagDVD_MenuAttributes
+tagDVD_DECODER_CAPS
+tagVMRALLOCATIONINFO
+tagVMRPRESENTATIONINFO
+_NORMALIZEDRECT
+_VMRALPHABITMAP
+_VMRVIDEOSTREAMINFO
+_VMRFrequency
+_VMRVideoDesc
+_VMRDeinterlaceCaps
+tagVMRGUID
+tagVMRMONITORINFO
+_PinInfo
+_FilterInfo
+WM_WRITER_STATISTICS
+WM_READER_STATISTICS
+WM_READER_CLIENTINFO
+WM_CLIENT_PROPERTIES
+WM_PORT_NUMBER_RANGE
+DRM_LICENSE_STATE_DATA
+WM_LICENSE_STATE_DATA
+WM_MEDIA_TYPE
+WMVIDEOINFOHEADER
+WMSCRIPTFORMAT
+_xml_error
+tagSAFEARRAYBOUND
+tagTYPEDESC
+tagARRAYDESC
+tagIDLDESC
+tagTYPEATTR
+tagPARAMDESCEX
+tagPARAMDESC
+tagELEMDESC
+tagFUNCDESC
+tagVARDESC
+tagTLIBATTR
+SPPHRASEELEMENT
+SPPATHENTRY
+SPPARSEINFO
+SPPHRASERULE
+SPPHRASEPROPERTY
+SPPHRASEREPLACEMENT
+SPPHRASE
+SPSERIALIZEDPHRASE
+tagSPPHRASEALT
+SPRECORESULTINFO
+SPEVENT
+SPWORDENTRY
+SPRULEENTRY
+__MIDL___MIDL_itf_srdrv1_0297_0001
+__MIDL___MIDL_itf_srdrv1_0297_0003
+__MIDL___MIDL_itf_srdrv1_0297_0004
+__MIDL___MIDL_itf_srdrv1_0297_0005
+SPTRANSITIONENTRY
+SPSTATEINFO
+SPTRANSITIONPROPERTY
+tagSPTEXTSELECTIONINFO
+SPAUDIOSTATUS
+SPRECOGNIZERSTATUS
+SPBINARYGRAMMAR
+SPRECOCONTEXTSTATUS
+SPSERIALIZEDRESULT
+SPRECORESULTTIMES
+SPVOICESTATUS
+tagSPPHRASEALTREQUEST
+SPEVENTSOURCEINFO
+tagSPPROPERTYINFO
+__MIDL___MIDL_itf_mshtml_0251_0001
+__MIDL___MIDL_itf_mshtml_0251_0002
+__MIDL___MIDL_itf_mshtml_0251_0007
+__MIDL___MIDL_itf_mshtml_0251_0005
+__MIDL___MIDL_itf_mshtml_0251_0003
+__MIDL___MIDL_itf_mshtml_0251_0004
+__MIDL___MIDL_itf_mshtml_0251_0006
+__MIDL___MIDL_itf_mshtml_0251_0008
+__MIDL___MIDL_itf_mshtml_0251_0009
+_userBITMAP
+_userHBITMAP
+	wireHBITMAP
+__MIDL___MIDL_itf_mshtml_0251_0010
+__MIDL___MIDL_itf_mshtml_0251_0011
+_FLAGGED_BYTE_BLOB
+_userHGLOBAL
+	wireHGLOBAL
+_HTML_PAINTER_INFO
+_HTML_PAINT_XFORM
+_HTML_PAINT_DRAW_INFO
+tagLOGFONTW
+_nlsversioninfo
+	LPNLSVERSIONINFO
+_currencyfmtA
+_currencyfmtW
+_SECURITY_ATTRIBUTES
+_STARTUPINFOA
+_PROCESS_INFORMATION
+_VIRTUAL_BUFFER
+	PVIRTUAL_BUFFER
+_OFSTRUCT
+_CONSOLE_FONT_INFO
+_SYSTEMTIME
+	SYSTEMTIME
+	LPSYSTEMTIME
+_TIME_ZONE_INFORMATION
+	LPTIME_ZONE_INFORMATION
+_COMMTIMEOUTS
+	LPCOMMTIMEOUTS
+_SMALL_RECT
+_VDMINFO
+	PVDMINFO
+_EXCEPTION_POINTERS
+_APPKEY
+	LPAPPKEY
+_OVERLAPPED
+_cpinfoexA
+	LPCPINFOEXA
+_LUID
+	PLUID
+_NLS_USER_INFO
+	PNLS_USER_INFO
+_cpinfoexW
+	LPCPINFOEXW
+_STARTUPINFOW
+	LPSTARTUPINFO
+_numberfmtA
+_COMMPROP
+	LPCOMMPROP
+_numberfmtW
+_cpinfo
+	LPCPINFO
+_HEAP_SUMMARY
+	LPHEAP_SUMMARY
+tagACTCTXW
+	PCACTCTX
+_HEAP_TAG_INFO
+	LPHEAP_TAG_INFO
+_GUID
+	REFCATID
+	LPCLSID
+tagACTCTX_SECTION_KEYED_DATA_ASSEMBLY_METADATA
+	ACTCTX_SECTION_KEYED_DATA_ASSEMBLY_METADATA
+tagACTCTX_SECTION_KEYED_DATA
+	PACTCTX_SECTION_KEYED_DATA
+tagACTCTXA
+	PCACTCTXA
+_JOB_SET_ARRAY
+	PJOB_SET_ARRAY
+_OBJECT_TYPE_LIST
+	POBJECT_TYPE_LIST
+_GENERIC_MAPPING
+	PGENERIC_MAPPING
+_LUID_AND_ATTRIBUTES
+	LUID_AND_ATTRIBUTES_ARRAY
+	PLUID_AND_ATTRIBUTES
+_PRIVILEGE_SET
+	PPRIVILEGE_SET
+_CREDENTIAL_TARGET_INFORMATIONA
+	PCREDENTIAL_TARGET_INFORMATIONA
+_UNICODE_STRING
+_CREDENTIAL_TARGET_INFORMATIONW
+	PCREDENTIAL_TARGET_INFORMATIONW
+_LSA_TRUST_INFORMATION
+	PLSA_TRUST_INFORMATION
+_LSA_REFERENCED_DOMAIN_LIST
+	PLSA_REFERENCED_DOMAIN_LIST
+_LSA_TRANSLATED_SID_EX2
+	PLSA_TRANSLATED_SID_EX2
+_STRING
+_ACL
+	PACL
+_CREDENTIAL_ATTRIBUTEW
+	PCREDENTIAL_ATTRIBUTEW
+_CREDENTIALW
+	PCREDENTIALW
+	CREDENTIALW
+_CREDENTIAL_ATTRIBUTEA
+	PCREDENTIAL_ATTRIBUTEA
+_CREDENTIALA
+	PCREDENTIALA
+_SID_AND_ATTRIBUTES
+	SID_AND_ATTRIBUTES
+	PSID_AND_ATTRIBUTES
+_TOKEN_GROUPS
+	PTOKEN_GROUPS
+_LSA_TRANSLATED_NAME_EX
+	PLSA_TRANSLATED_NAME_EX
+_ACTRL_ACCESS_INFOW
+	PACTRL_ACCESS_INFOW
+_ACTRL_CONTROL_INFOW
+	PACTRL_CONTROL_INFO
+_ENCRYPTED_CREDENTIALW
+	PENCRYPTED_CREDENTIALW
+_ACTRL_ACCESS_INFOA
+	PACTRL_ACCESS_INFOA
+_ACTRL_CONTROL_INFOA
+	PACTRL_CONTROL_INFOA
+_LSA_TRANSLATED_NAME
+	PLSA_TRANSLATED_NAME
+_LSA_TRANSLATED_SID
+	PLSA_TRANSLATED_SID
+tagHW_PROFILE_INFOW
+	LPHW_PROFILE_INFOW
+tagHW_PROFILE_INFOA
+	LPHW_PROFILE_INFOA
+_FN_OBJECT_MGR_FUNCTIONS
+	PFN_OBJECT_MGR_FUNCTS
+_INHERITED_FROMA
+	PINHERITED_FROMA
+_CLEAR_BLOCK
+_CYPHER_BLOCK
+	CYPHER_BLOCK
+	PCYPHER_BLOCK
+_LM_OWF_PASSWORD
+	PNT_OWF_PASSWORD
+_LM_RESPONSE
+	PLM_RESPONSE
+_USER_SESSION_KEY
+	PUSER_SESSION_KEY
+_BLOCK_KEY
+	PBLOCK_KEY
+_ENCRYPTED_LM_OWF_PASSWORD
+	PENCRYPTED_LM_OWF_PASSWORD
+_CRYPT_BUFFER
+MD5_CTX
+_SAMPR_ENCRYPTED_USER_PASSWORD
+	PSAMPR_ENCRYPTED_USER_PASSWORD
+_APPCATEGORYINFO
+_APPCATEGORYINFOLIST
+_EFS_RPC_BLOB
+	PEFS_RPC_BLOB
+MD4_CTX
+MOFRESOURCEINFOA
+	PMOFRESOURCEINFOA
+MOFRESOURCEINFOW
+	PMOFRESOURCEINFOW
+_INHERITED_FROMW
+	PINHERITED_FROM
+_LOCALMANAGEDAPPLICATION
+	PLOCALMANAGEDAPPLICATION
+_SID_IDENTIFIER_AUTHORITY
+_TOKEN_PRIVILEGES
+	PTOKEN_PRIVILEGES
+_MANAGEDAPPLICATION
+	PMANAGEDAPPLICATION
+_WMIGUIDINFORMATION
+	PWMIGUIDINFORMATION
+WMIBUFFERINFO
+	PWMIBUFFERINFO
+_SERVICE_STATUS
+_ENUM_SERVICE_STATUSW
+_LSA_TRANSLATED_SID2
+	PLSA_TRANSLATED_SID2
+_CRYPTOAPI_BLOB
+_CRYPT_ALGORITHM_IDENTIFIER
+	CRYPT_ALGORITHM_IDENTIFIER
+_CRYPT_BIT_BLOB
+	CRYPT_BIT_BLOB
+_CERT_PUBLIC_KEY_INFO
+	CERT_PUBLIC_KEY_INFO
+_CERT_EXTENSION
+	PCERT_EXTENSION
+_CERT_INFO
+	PCERT_INFO
+_CERT_CONTEXT
+	PCCERT_CONTEXT
+_MSIFILEHASHINFO
+	PMSIFILEHASHINFO
+_DllVersionInfo
+_WCRUN
+	WCRUN
+_FD_GLYPHSET
+	PFD_GLYPHSET
+_BLENDFUNCTION
+_DOCINFOW
+tagTEXTMETRICW
+_RECTL
+tagPIXELFORMATDESCRIPTOR
+tagREALIZATION_INFO
+	PREALIZATION_INFO
+_FLOATING_SAVE_AREA
+	FLOATING_SAVE_AREA
+_CONTEXT
+_ENG_TIME_FIELDS
+	PENG_TIME_FIELDS
+_XLATEOBJ
+_GLYPHMETRICS
+_MAT2
+_TRIVERTEX
+tagDESIGNVECTOR
+tagBITMAPINFOHEADER
+tagRGBQUAD
+tagBITMAPINFO
+_UMTHDR
+EMFINFO
+	PEMFINFO
+_EXTTEXTMETRIC
+_SECURITY_QUALITY_OF_SERVICE
+	SECURITY_QUALITY_OF_SERVICE
+tagCONVCONTEXT
+	PCONVCONTEXT
+	CONVCONTEXT
+_tagDATETIME
+	DATETIME
+_tagIMEPROA
+_tagIMEPROW
+tagMSG
+tagWSINFO
+	PWSINFO
+tagAPFNWOWHANDLERSIN
+	APFNWOWHANDLERSIN
+tagAPFNWOWHANDLERSOUT
+	APFNWOWHANDLERSOUT
+tagCONVINFO
+	PCONVINFO
+_REASON
+_REASONDATA
+	PREASONDATA
+_SHUTDOWN_REASON
+	PSHUTDOWN_REASON
+_PROPSHEETUI_INFO
+	PPROPSHEETUI_INFO
+_UNIVERSAL_FONT_ID
+	PUNIVERSAL_FONT_ID
+sockaddr
+tagSERIALIZEDPROPERTYVALUE
+IStorageVtbl
+IStorage
+	LPSTORAGE
+IFillLockBytesVtbl
+IFillLockBytes
+tagOleMenuGroupWidths
+	LPOLEMENUGROUPWIDTHS
+tagDVTARGETDEVICE
+DVTDINFO
+	PDVTDINFO
+tagSTGOPTIONS
+_OLESTREAMVTBL
+	LPOLESTREAMVTBL
+_OLESTREAM
+	LPOLESTREAM
+tagSOLE_AUTHENTICATION_SERVICE
+	PSOLE_AUTHENTICATION_SERVICE
+tagBIND_OPTS
+	LPBIND_OPTS
+_DEVICEINTERFACELIST
+	PDEVICEINTERFACELIST
+tagMIXERCAPSA
+	LPMIXERCAPSA
+tagJOYCAPSA
+	LPJOYCAPSA
+tagMIDIOUTCAPSW
+	LPMIDIOUTCAPSW
+tagJOYCAPSW
+	LPJOYCAPSW
+tagMIDIOUTCAPSA
+	LPMIDIOUTCAPS
+tagMIDIINCAPSW
+	LPMIDIINCAPSW
+tagMIDIINCAPSA
+	LPMIDIINCAPS
+timecaps_tag
+	LPTIMECAPS
+tagMIXERLINEA_Unnamed120
+tagMIXERLINEA
+	LPMIXERLINEA
+tagMIXERLINEW_Unnamed200
+tagMIXERLINEW
+joyinfo_tag
+	LPJOYINFO
+_GFXREMOVEREQUEST
+	PGFXREMOVEREQUEST
+_GFXMODIFYREQUEST
+	PGFXMODIFYREQUEST
+_GFXADDREQUEST
+	PGFXADDREQUEST
+joyinfoex_tag
+	LPJOYINFOEX
+_CALLBACK_ARGS
+	CALLBACK_ARGS
+_CALLBACK_DATA
+	VPCALLBACK_DATA
+tagAUXCAPSW
+	LPAUXCAPSW
+tagAUXCAPSA
+	LPAUXCAPS
+tagMIXERCAPSW
+	LPMIXERCAPSW
+tagFINDREPLACEA
+	LPFINDREPLACEA
+tagCHOOSECOLORW
+	LPCHOOSECOLORW
+tagOFNW
+	LPOPENFILENAME
+tagPDA
+	LPPRINTDLGA
+tagFINDREPLACEW
+	LPFINDREPLACE
+tagPSDW
+	LPPAGESETUPDLG
+tagCHOOSEFONTW
+	LPCHOOSEFONTW
+tagPDW
+	LPPRINTDLGW
+tagCHOOSECOLORA
+	LPCHOOSECOLORA
+tagLOGFONTA
+tagCHOOSEFONTA
+	LPCHOOSEFONTA
+tagOFNA
+	LPOPENFILENAMEA
+tagPSDA
+	LPPAGESETUPDLGA

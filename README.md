@@ -2,6 +2,8 @@
 
 Logexts 是一个 WinDBG 调试扩展 DLL，通过 Microsoft Detours 实现 API Hook，记录被调试进程的 Windows API 调用。函数参数和返回值根据二进制清单文件（`.lgm` 文件）定义的签名进行格式化输出。
 
+![演示示例](./images/屏幕截图_2026_06-11_185831.png)
+
 ## 功能特性
 
 - **API Hook 注入**：通过 `logi` 命令将日志记录模块注入到被调试进程
